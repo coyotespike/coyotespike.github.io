@@ -42,10 +42,10 @@ summaryfeed: false
 </li>
 <li><a href="#orgheadline14">1.2. Funds</a>
 <ul>
-<li><a href="#orgheadline9">1.2.1. YC</a></li>
-<li><a href="#orgheadline10">1.2.2. </a></li>
-<li><a href="#orgheadline11">1.2.3. </a></li>
-<li><a href="#orgheadline12">1.2.4. </a></li>
+<li><a href="#orgheadline9">1.2.1. YC has been expanding their biotech portfolio steadily.</a></li>
+<li><a href="#orgheadline10">1.2.2. IndieBio only does synbio</a></li>
+<li><a href="#orgheadline11">1.2.3. Illumina Accelerator</a></li>
+<li><a href="#orgheadline12">1.2.4. Biotech fund.</a></li>
 <li><a href="#orgheadline13">1.2.5. Lab rental, company incubator</a></li>
 </ul>
 </li>
@@ -175,13 +175,13 @@ summaryfeed: false
 
 ## Funds<a id="orgheadline14"></a>
 
-### YC<a id="orgheadline9"></a>
+### YC has been expanding their biotech portfolio steadily.<a id="orgheadline9"></a>
 
-### <http://www.indiebio.co/><a id="orgheadline10"></a>
+### <http://www.indiebio.co/> IndieBio only does synbio<a id="orgheadline10"></a>
 
-### <http://www.illumina.com/science/accelerator.html?scid=2014210VU2><a id="orgheadline11"></a>
+### <http://www.illumina.com/science/accelerator.html?scid=2014210VU2> Illumina Accelerator<a id="orgheadline11"></a>
 
-### <http://www.breakoutlabs.org/><a id="orgheadline12"></a>
+### <http://www.breakoutlabs.org/> Biotech fund.<a id="orgheadline12"></a>
 
 ### <http://berkeleybiolabs.com/> Lab rental, company incubator<a id="orgheadline13"></a>
 
