@@ -9,7 +9,7 @@ relative_permalinks: false
 title:               A Rhythm in Notion
 #tagline:             our website
 description:         A blog...
-url: https://github.com/coyotespike/coyotespike.github.io
+url: coyotespike.github.io
 baseurl: "/coyotespike.github.io"
 urlimg: https://github.com/coyotespike/coyotespike.github.io.git/images/
 markdown: kramdown
