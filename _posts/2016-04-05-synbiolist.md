@@ -139,7 +139,7 @@ summaryfeed: false
 <li><a href="#orgheadline74">4.0.2. . Sister project to Cello.</a></li>
 <li><a href="#orgheadline75">4.0.3. Brand new, generating buzz.</a></li>
 <li><a href="#orgheadline76">4.0.4. Bio-programming language and IDE</a></li>
-<li><a href="#orgheadline77">4.0.5. </a></li>
+<li><a href="#orgheadline77">4.0.5. Great list of tools</a></li>
 <li><a href="#orgheadline78">4.0.6. Nice-looking downloadable tools</a></li>
 <li><a href="#orgheadline79">4.0.7. Much like Benchling</a></li>
 <li><a href="#orgheadline80">4.0.8. Michigan researcher's list of tools</a></li>
@@ -313,7 +313,7 @@ I can also recommend the BioCoder newsletters from O'Reilly.
 
 ### <https://moleculamaxima.com/> Bio-programming language and IDE<a id="orgheadline76"></a>
 
-### <http://sbolstandard.org/software/tools/><a id="orgheadline77"></a>
+### <http://sbolstandard.org/software/tools/> Great list of tools<a id="orgheadline77"></a>
 
 ### <http://www.geneious.com/> Nice-looking downloadable tools<a id="orgheadline78"></a>
 
