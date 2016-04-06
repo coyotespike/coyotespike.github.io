@@ -9,8 +9,8 @@ relative_permalinks: false
 title:               A Rhythm in Notion
 #tagline:             our website
 description:         A blog...
-url: https://dyndna.github.io/lanyon-plus
-baseurl: "/lanyon-plus"
+url: https://github.com/coyotespike/coyotespike.github.io
+baseurl: "/coyotespike.github.io"
 urlimg: https://github.com/coyotespike/coyotespike.github.io.git/images/
 markdown: kramdown
 paginate: 5
@@ -34,7 +34,7 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 # About/contact
 author:
   name:           Tim   
-  url:               https://twitter.com/abcd
+  url:               https://twitter.com/coyotespike
   avatar:         
   #email:           
 
