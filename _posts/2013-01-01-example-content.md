@@ -211,7 +211,7 @@ Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna m
 
 ### Inline css attributes
 
-[MahJax source - link open in new window](http://haixing-hu.github.io/programming/2013/09/20/how-to-use-mathjax-in-jekyll-generated-github-pages/){:target="_blank"}
+[MathJax source - link open in new window](http://haixing-hu.github.io/programming/2013/09/20/how-to-use-mathjax-in-jekyll-generated-github-pages/){:target="_blank"}
 
 ### MathJax
 
