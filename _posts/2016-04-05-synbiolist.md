@@ -113,7 +113,7 @@ summaryfeed: false
 <ul>
 <li><a href="#orgheadline56">3.0.1. Addgene Crispr Guide</a></li>
 <li><a href="#orgheadline57">3.0.2. Addgene Free Plasmids E-book</a></li>
-<li><a href="#orgheadline58">3.0.3. </a></li>
+<li><a href="#orgheadline58">3.0.3. CRIPr webinar</a></li>
 <li><a href="#orgheadline59">3.0.4. SynbioBeta's Seminar</a></li>
 <li><a href="#orgheadline60">3.0.5. SNPedia</a></li>
 <li><a href="#orgheadline61">3.0.6. Utah genetics</a></li>
@@ -275,7 +275,7 @@ I can also recommend the BioCoder newsletters from O'Reilly.
 
 ### <http://info.addgene.org/download-addgenes-ebook-plasmids-101-2nd-edition?__hssc=246494683.1.1459360372508&__hstc=246494683.678d69475af233fc5e098970993d8af1.1456242463945.1459352552901.1459360372508.108&__hsfp=1361784313&hsCtaTracking=f2de1d63-0234-4f51-a26d-a2a80ebea199%7Ce5e8d30d-a1d8-4d3c-a179-636ccfc3274d> Addgene Free Plasmids E-book<a id="orgheadline57"></a>
 
-### <https://www.idtdna.com/pages/docs/default-source/synthetic-biology/crispr_webinar_january_2015.pdf?sfvrsn=4><a id="orgheadline58"></a>
+### <https://www.idtdna.com/pages/docs/default-source/synthetic-biology/crispr_webinar_january_2015.pdf?sfvrsn=4> CRIPr webinar<a id="orgheadline58"></a>
 
 ### <http://synbiobeta.com/education/quick-start-introduction-to-synthetic-biology/> SynbioBeta's Seminar<a id="orgheadline59"></a>
 
