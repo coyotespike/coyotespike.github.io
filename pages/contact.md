@@ -4,7 +4,7 @@ permalink: /contact/
 title: Contact
 show_meta: false
 published: true
-description: "Contact example.com"
+description: "Contact coyotespike.github.io"
 comments: false
 mathjax: false
 noindex: false
@@ -13,9 +13,8 @@ sitemap:
     changefreq: 'monthly'
     lastmod: 2016-02-13
 tags:
-  - "foo boo"
-  - "driving directions"
-  - address
+  - "machine learning"
+  - "synthetic biology"
 ---
 
 | <i class="fa fa-twitter"></i> | [@{{ site.owner.twitter }}](https://twitter.com/{{ site.owner.twitter }})  | 
