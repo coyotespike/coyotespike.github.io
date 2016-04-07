@@ -29,7 +29,7 @@ summaryfeed: false
 <li><a href="#orgheadline1">1. The Economics of Synthetic Biology</a></li>
 <li><a href="#orgheadline2">2. The journey, not just the destination</a></li>
 <li><a href="#orgheadline3">3. Hive Mind from iGEM</a></li>
-<li><a href="#orgheadline4">4. A Brief History from CRISPR</a></li>
+<li><a href="#orgheadline4">4. A Brief History of CRISPR</a></li>
 </ul>
 </div>
 </div>
@@ -39,7 +39,8 @@ summaryfeed: false
 
 A closely-reasoned article on the economic development of the field, arguing
 that an open-source model, a la Linux and the GPL, can provide a good mix of
-proprietary and community assets. 
+proprietary and community assets. These underlying economics will determine whether
+we wither and die, or continue to explode!
 
 "The average cost of using a part will decline steeply the more it is used."
 
@@ -55,7 +56,7 @@ patients (organogenesis) get help from synthetic biology.
 
 Another from Twist, who sponsored New York's community biolab for the 2015 iGEM Jamboree.
 You know, you certainly don't see undergraduates doing cutting-edge work in physics!
-SynBio is young enough that undergrads are building the discipline.
+SynBio is young enough that undergrads are building the discipline, and that's exciting.
 
 ## [A Brief History from CRISPR](https://www.twistbioscience.com/crispr-part-1-a-brief-history-of-crispr/)<a id="orgheadline4"></a>
 
