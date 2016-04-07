@@ -27,12 +27,12 @@ summaryfeed: false
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#orgheadline1">1. Thursday Links</a></li>
+<li><a href="#orgheadline1">1. Thursday Link</a></li>
 </ul>
 </div>
 </div>
 
-## Thursday Links<a id="orgheadline1"></a>
+## Thursday Link<a id="orgheadline1"></a>
 
 [The Sugar Conspiracy](http://www.theguardian.com/society/2016/apr/07/the-sugar-conspiracy-robert-lustig-john-yudkin), a good longread from The Guardian, on how low-fat diets
 became the medical establishment's dietary fad of choice from Ike Eisenhower's time
@@ -46,5 +46,4 @@ they heap on one of the journalists in the area. The aristocratic disdain is
 very Downton Abbey.
 
 
-As always, the real take away is how hard it is to change anyone's mind, including
-our own.
+### As always, the real take away is how hard it is to change anyone's mind, including our own.
