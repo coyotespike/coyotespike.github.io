@@ -39,11 +39,8 @@ became the medical establishment's dietary fad of choice from Ike Eisenhower's t
 until now. The original research was biased in the way that Ben Goldacre (among others)
 has taught us to watch out for.
 
-
-It's shocking how loathe even some current experts are - scientists
-at Yale and Harvard, no less! - to fully change their minds, and the amount of hatred
-they heap on one of the journalists in the area. The aristocratic disdain is 
-very Downton Abbey.
+Check out the Downton-Abbey amount of disdain leading scienctists, who should know better,
+heap on one of the journalists undercutting the fat-is-bad story.
 
 
 ##### As always, the real take away is how hard it is to change anyone's mind, including our own.
