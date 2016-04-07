@@ -24,17 +24,20 @@ hide_printmsg: false
 summaryfeed: false
 ---
 
+# Can a single for-profit company advance basic science research?<a id="orgheadline3"></a>
 
-# Can a single for-profit company advance basic science research? I think so.
+### Consider.<a id="orgheadline1"></a>
 
-Consider. A good product usually takes
+A good product usually takes
 several years to mature, even if you are actually making money and shipping and growing
 quickly, as all startups aspire to do. So let's say your product develpment cycle
 is 5 years. In 20 years of your working life, then, you can develop 4 products
 from start to finish. You can think of, test, discard, and partially develop scores
 more, but you only have a few horses you can ride all the way.
 
-Now suppose there are only 3 companies working in a space. If you join them, and develop
+### Now suppose there are only 3 companies working in a space.<a id="orgheadline2"></a>
+
+If you join them, and develop
 5 new products, you have just advanced the field by 25%, and in absolute terms
 you've increased the number of products in the world from 15 to 20!
 In this way a single company can radically
