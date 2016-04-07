@@ -46,14 +46,17 @@ and by demonstrating at least proof of concept to your existing competitors and 
 thinking of joining the field, your advances have a synergistic effect. Others
 will inspired to improve on your products.
 
+
 In addition, the more people you hire the more people are incentivised to join the
 field, as we see with the current computer science boom, creating a new knock-on
 effect, a network effect.
+
 
 A for-profit company can create a public good by supporting open-source basic research,
 though that is not usually the core mission of a for-profit company.
 Just as importantly, a for-profit company can extend the development of the field
 by a few critical products, and can help create a network effect by attracting more
 people into the field.
+
 
 And that's the mission of our for-profit side.
