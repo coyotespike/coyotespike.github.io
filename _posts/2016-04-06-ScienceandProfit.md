@@ -6,7 +6,6 @@ date: "2016-04-06"
 description: "Can a single for-profit company advance basic science research?"
 category: 
   - views
-  - featured
 # tags will also be used as html meta keywords.
 tags:
   - synthetic biology
