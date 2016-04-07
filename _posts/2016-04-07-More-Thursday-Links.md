@@ -1,3 +1,27 @@
+---
+layout: post
+title: "More Thursday Links"
+date: "2016-04-07 12:30"
+
+description: "Four thought-provoking articles on the landscape of synthetic biology."
+
+tags:
+
+-   synthetic biology
+
+show_meta: true
+comments: true
+mathjax: true
+gistembed: true
+published: true
+noindex: false
+nofollow: false
+# hide QR code, permalink block while printing.
+hide_printmsg: false
+# show post summary or full post in RSS feed.
+summaryfeed: false
+---
+
 <div id="table-of-contents">
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
@@ -10,29 +34,6 @@
 </div>
 </div>
 
-&#x2014;
-layout: post
-title: "More Thursday Links"
-date: "2016-04-07"
-
-description: "Four thought-provoking articles on the landscape of synthetic biology."
-
-tags:
-
--   synthetic biology
-
-show<sub>meta</sub>: true
-comments: true
-mathjax: true
-gistembed: true
-published: true
-noindex: false
-nofollow: false
-
-hide<sub>printmsg</sub>: false
-
-summaryfeed: false
-&#x2014;
 
 # [The Economics of Synthetic Biology](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1911203/)<a id="orgheadline1"></a>
 
