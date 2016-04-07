@@ -1,5 +1,3 @@
-\#+OPTIONS entitiesplain
-
 ---
 layout: post
 title: Emerging platforms for organism engineering
