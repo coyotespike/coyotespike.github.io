@@ -35,7 +35,7 @@ summaryfeed: false
 </div>
 
 
-# [The Economics of Synthetic Biology](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1911203/)<a id="orgheadline1"></a>
+## [The Economics of Synthetic Biology](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1911203/)<a id="orgheadline1"></a>
 
 A closely-reasoned article on the economic development of the field, arguing
 that an open-source model, a la Linux and the GPL, can provide a good mix of
@@ -43,7 +43,7 @@ proprietary and community assets.
 
 "The average cost of using a part will decline steeply the more it is used."
 
-# [The journey, not just the destination](https://www.twistbioscience.com/its-about-the-journey-not-just-the-destination/)<a id="orgheadline2"></a>
+## [The journey, not just the destination](https://www.twistbioscience.com/its-about-the-journey-not-just-the-destination/)<a id="orgheadline2"></a>
 
 Twist Bioscience talks about their trip to a synthetic biology conference in London,
 an enjoyable rollup of several presentations they heard.
@@ -51,13 +51,13 @@ an enjoyable rollup of several presentations they heard.
 For the me the takeaway was how many other fields, like growing new organs for 
 patients (organogenesis) get help from synthetic biology.
 
-# [Hive Mind from iGEM](https://www.twistbioscience.com/igem/)<a id="orgheadline3"></a>
+## [Hive Mind from iGEM](https://www.twistbioscience.com/igem/)<a id="orgheadline3"></a>
 
 Another from Twist, who sponsored New York's community biolab for the 2015 iGEM Jamboree.
 You know, you certainly don't see undergraduates doing cutting-edge work in physics!
 SynBio is young enough that undergrads are building the discipline.
 
-# [A Brief History from CRISPR](https://www.twistbioscience.com/crispr-part-1-a-brief-history-of-crispr/)<a id="orgheadline4"></a>
+## [A Brief History from CRISPR](https://www.twistbioscience.com/crispr-part-1-a-brief-history-of-crispr/)<a id="orgheadline4"></a>
 
 The Twist folks have a gift for explaining the science clearly. This brief walk-through
 of five papers from the last fifteen years will let you understand the actual mechanism
