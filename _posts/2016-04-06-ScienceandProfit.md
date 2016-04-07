@@ -21,7 +21,7 @@ nofollow: false
 # hide QR code, permalink block while printing.
 hide_printmsg: false
 # show post summary or full post in RSS feed.
-summaryfeed: false
+summaryfeed: true
 ---
 
 # Can a single for-profit company advance basic science research?<a id="orgheadline3"></a>
