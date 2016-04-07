@@ -1,13 +1,31 @@
-<div id="table-of-contents">
-<h2>Table of Contents</h2>
-<div id="text-table-of-contents">
-<ul>
-<li><a href="#orgheadline1">1. Can a single for-profit company advance basic science research? I think so.</a></li>
-</ul>
-</div>
-</div>
+---
+layout: post
+title: "Science and the Profit Motive"
+date: "2016-04-06"
 
-# Can a single for-profit company advance basic science research? I think so.     :blog:<a id="orgheadline1"></a>
+description: "Can a single for-profit company advance basic science research?"
+category: 
+  - views
+  - featured
+# tags will also be used as html meta keywords.
+tags:
+  - synthetic biology
+
+show_meta: true
+comments: true
+mathjax: true
+gistembed: true
+published: true
+noindex: false
+nofollow: false
+# hide QR code, permalink block while printing.
+hide_printmsg: false
+# show post summary or full post in RSS feed.
+summaryfeed: false
+---
+
+
+# Can a single for-profit company advance basic science research? I think so.
 
 Consider. A good product usually takes
 several years to mature, even if you are actually making money and shipping and growing
