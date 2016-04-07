@@ -44,7 +44,7 @@ In this way a single company can radically
 alter the development of a young field. Any technical advances you make advance the field,
 and by demonstrating at least proof of concept to your existing competitors and to anyone
 thinking of joining the field, your advances have a synergistic effect. Others
-will inspired to improve on your products.
+will be inspired to improve on your products.
 
 
 In addition, the more people you hire the more people are incentivised to join the
