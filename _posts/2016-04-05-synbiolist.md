@@ -4,9 +4,7 @@ title: "A Huge List of Synthetic Biology Resources"
 date: "2016-04-06"
 
 description: "This will help you get oriented to players in this field, including startups, more established companies, nonprofit institutions, and educational resources."
-category: 
-  - views
-  - featured
+
 # tags will also be used as html meta keywords.
 tags:
   - synthetic biology
