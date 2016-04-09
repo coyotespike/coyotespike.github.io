@@ -2,7 +2,7 @@
 layout: post
 title: "Book Review: A Life Decoded"
 date: 2016-04-09 12:42
-description: "A quick overview of one of the most exciting stories of modern science"
+description: "A quick overview of one of the most exciting stories of modern science. Venter's story has a lot to teach us about the hardball politics at the upper echelons of Big Science"
 # tags will also be used as html meta keywords.
 tags:
   - synthetic biology
@@ -41,8 +41,6 @@ nofollow: false
 "How did Venter manage to get all that science done? How did he garner private and public
 resources sufficient to race the government-backed Human Genome Project to the finish,
 when many aspiring scientsts can't even get their own labs?"
-</br>
-
 
 To answer that question, yesterday I picked up Craig Venter's first autobiography, *A Life Decoded*,
 stayed up late reading it, and finished this morning.
