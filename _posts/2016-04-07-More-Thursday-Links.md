@@ -42,7 +42,7 @@ that an open-source model, a la Linux and the GPL, can provide a good mix of
 proprietary and community assets. These underlying economics will determine whether
 we wither and die, or continue to explode!
 
-"The average cost of using a part will decline steeply the more it is used."
+> The average cost of using a part will decline steeply the more it is used.
 
 ## [The journey, not just the destination](https://www.twistbioscience.com/its-about-the-journey-not-just-the-destination/)<a id="orgheadline2"></a>
 
