@@ -40,7 +40,7 @@ nofollow: false
 
 "How did Venter manage to get all that science done? How did he garner private and public
 resources sufficient to race the government-backed Human Genome Project to the finish,
-when many aspiring scientsts can't even get their own labs?"
+when many aspiring scientsts can't even get their own labs?"\\
 
 
 To answer that question, yesterday I picked up Craig Venter's first autobiography, *A Life Decoded*,
