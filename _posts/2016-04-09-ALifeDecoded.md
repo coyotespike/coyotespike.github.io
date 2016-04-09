@@ -1,3 +1,20 @@
+---
+layout: post
+title: Book Review: A Life Decoded
+date: 2016-04-09 12:42
+description: "A quick overview of one of the most exciting stories of modern science"
+# tags will also be used as html meta keywords.
+tags:
+  - synthetic biology
+
+show_meta: true
+comments: true
+mathjax: true
+gistembed: true
+published: true
+noindex: false
+nofollow: false
+---
 <div id="table-of-contents">
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
@@ -18,24 +35,6 @@
 </ul>
 </div>
 </div>
-
----
-layout: post
-title: Book Review: A Life Decoded
-date: 2016-04-09 12:42
-description: "A quick overview of one of the most exciting stories of modern science"
-# tags will also be used as html meta keywords.
-tags:
-  - synthetic biology
-
-show_meta: true
-comments: true
-mathjax: true
-gistembed: true
-published: true
-noindex: false
-nofollow: false
----
 
 # Book Review: A Life Decoded<a id="orgheadline6"></a>
 
