@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book Review: A Life Decoded
+title: "Book Review: A Life Decoded"
 date: 2016-04-09 12:42
 description: "A quick overview of one of the most exciting stories of modern science"
 # tags will also be used as html meta keywords.
