@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Book Review: A Life Decoded
+title: "Book Review: A Life Decoded"
 date: "2016-04-09 12:42"
+
 description: "A quick overview of one of the most exciting stories of modern science. Venter's story has a lot to teach us about the hardball politics at the upper echelons of Big Science."
-# tags will also be used as html meta keywords.
+
 tags:
-  - synthetic biology
+
+-   synthetic biology
 
 show_meta: true
 comments: true
