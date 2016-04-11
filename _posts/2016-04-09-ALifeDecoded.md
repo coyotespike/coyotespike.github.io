@@ -15,6 +15,7 @@ published: true
 noindex: false
 nofollow: false
 ---
+
 <div id="table-of-contents">
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
