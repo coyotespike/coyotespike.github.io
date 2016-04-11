@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wetware is Hard
-date: 2016-04-11 14:19
+date: "2016-04-11 14:19"
 # Should be longer than 150 words, so it will appear as post summary
 description: "The life sciences carry incredible promise, but many bright researchers avoid it for faster-moving fields with better tools. If we arbitrage techniques from other fields, the life sciences could move faster."
 # tags will also be used as html meta keywords.
