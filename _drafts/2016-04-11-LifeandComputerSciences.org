@@ -19,7 +19,7 @@ noindex: false
 nofollow: false
 ---
 #+END_HTML
-#+OPTIONS: toc:4
+#+: toc:4
 
 Let's talk about a couple of problems with life science that we can see by comparing
 it with the rapidly-innovating field of computer science. The Silicon Valley mantra

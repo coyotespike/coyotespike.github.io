@@ -42,7 +42,13 @@ We have pipette robots but few others. The default is to store the vast amounts 
 data generated on the long trail to a published paper in hard-to-access 
 and hard-to-share forms.
 
-The cutting edge is Excel worksheets. 
+The cutting edge is Excel worksheets and email. Benchling aspires to be the Github for life science,
+and it's about damn time.
+
+Labs are very reluctant to try new tools, and no shame on them. You try telling a talented
+young postdoc, "I'm sorry, but you can't do that exciting new research we discussed.
+For the next year I need you to retrofit our lab's tools, information capture and storage,
+and workflow."
 
 ### Reproducibility<a id="orgheadline2"></a>
 
@@ -68,15 +74,27 @@ tested protocols that don't work.
 In the life sciences we have to look up and remember old experiments, how they
 were done, and how not to do them.
 
+By the way, it's no use moralizing about sharing. All armchair economists know that
+people respond to incentives. If grants, chairs, and awards flow to those who publish
+first, and none to the hapless scientists who paved the way, we are systematically
+penalizing selfless members of the community. Demanding self-sacrifice is more immoral
+than selfish behavior.
+
 ### Let's contrast this dismal picture by an idealized one.<a id="orgheadline3"></a>
 
-You design your experiment using a piece of software that (1) looks at past failure
+You design and run your experiment using a piece of software that (1) looks at past failure
 modes so it knows what not to do, (2) tells you what reagents/materials and lab workflow to use,
 (3) sends the experiment off to the cloud lab or to your in-lab robots, (4) documents
 the experiment, materials, data, and failure modes, (5) after you publish, helps you
 open-source all of this.
 
-The actual and ideal states of affairs carry a number of implications.
+Maybe the software helps you research the state of the art and then uses Big Data
+to collate and analyze yours and others' work.
+
+None of this is cutting-edge software. Life science is just behind the times.
+
+### The actual and ideal states of affairs carry a number of implications.
+
 **First**, life science lab work is painful, intrinsically so, despite any passion
 one has for the process. Zero automated or programmatic techniques - robots or software - are used by most labs. That doesn't sound fun.
 
@@ -85,7 +103,8 @@ tools. They have research to produce now and don't want to retrofit. Again, not 
 
 **Third**, a lab that talks openly and transparently about how it promotes its members'
 careers, about how it's promoting open-source, could gain a competitive advantage
-in recruiting talented colleagues.
+in recruiting talented colleagues. Such a lab would be built with software and automation
+in mind, and all members would regularly try out new tools, techniques, and workflows.
 
 **Fourth**, Sturgeon's law applies to science as to anywhere else: ninety percent of
 everything is crap. The techniques are crap, the results are crap, the publication
@@ -99,9 +118,9 @@ system to get feedback and credit prior to publication or more thorough data sha
 A better system to accomplish the same goals might allow you to share more.
 
 Alternatively, we can aggressively promote organizations and people who share this
-open-source ideology might allow us to build a strong network. And we can use automation
+open-source ideology and thereby build a strong network. And we can use automation
 and software and a no-frills approach to move faster, and to attract fast-moving
-people, and thereby simply outrun most of the competition.
+people, and so simply outrun most of the competition.
 
 These problems with the state of science are as fundamental as known problems
 like unconscious research bias and bad meta-studies. 
