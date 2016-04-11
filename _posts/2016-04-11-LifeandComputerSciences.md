@@ -3,7 +3,7 @@ layout: post
 title: Wetware is Hard
 date: 2016-04-11 14:19
 # Should be longer than 150 words, so it will appear as post summary
-description: "The life sciences carry incredible promise, but many bright researchers avoid it for faster-moving fields with better tools."
+description: "The life sciences carry incredible promise, but many bright researchers avoid it for faster-moving fields with better tools. If we arbitrage techniques from other fields, the life sciences could move faster."
 # tags will also be used as html meta keywords.
 tags:
   - synthetic biology
@@ -20,8 +20,8 @@ nofollow: false
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#orgheadline1">1. 1. Computation, Software, Automation</a></li>
-<li><a href="#orgheadline2">2. 2. Reproducibility</a></li>
+<li><a href="#orgheadline1">1. Computation, Software, Automation</a></li>
+<li><a href="#orgheadline2">2. Reproducibility</a></li>
 <li><a href="#orgheadline3">3. Let's contrast this dismal picture by an idealized one.</a></li>
 </ul>
 </div>
