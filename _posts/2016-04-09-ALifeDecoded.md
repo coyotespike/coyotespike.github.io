@@ -130,15 +130,11 @@ I also learned much about how scientists get funding for their work. If you're l
 or private backers, you can get a lot of money to do very good work.
 
 The politics of data, money, and authorship are pervasive and rough, but if you play fair
-and surround yourself with good people life can be good. I mean, few people like politics
+and surround yourself with good people life can be good. I mean, few people like politics - I certainly don't. But I'd like to know enough about it to protect the people I choose to work with.
 
--   I certainly don't. But I'd like to know enough about it to protect the people I choose to work with.
+> In science, new techniques are better than data, and data better than ideas, and ideas better than force of personal authority.
 
-Choosiness has always been a winning strategy for me.
-
-In science, new techniques are better than data, and data better than ideas, and ideas better than force of personal authority.
-
-In science as in entrepreneurship, picking a good idea is necessary but not sufficient; it comes down to execution.
+> In science as in entrepreneurship, picking a good idea is necessary but not sufficient; it comes down to execution.
 
 Many, perhaps the majority, of scientists are quite conservative. Mindful that a bad bet can wreck a career, they don't
 like risky experiments. Venter speculates repeatedly about where he gets his risk-seeking behavior,
