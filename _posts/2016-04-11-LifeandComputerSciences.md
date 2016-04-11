@@ -1,14 +1,3 @@
-<div id="table-of-contents">
-<h2>Table of Contents</h2>
-<div id="text-table-of-contents">
-<ul>
-<li><a href="#orgheadline1">1. 1. Computation, Software, Automation</a></li>
-<li><a href="#orgheadline2">2. 2. Reproducibility</a></li>
-<li><a href="#orgheadline3">3. Let's contrast this dismal picture by an idealized one.</a></li>
-</ul>
-</div>
-</div>
-
 ---
 layout: post
 title: Wetware is Hard
@@ -27,6 +16,16 @@ published: true
 noindex: false
 nofollow: false
 ---
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#orgheadline1">1. 1. Computation, Software, Automation</a></li>
+<li><a href="#orgheadline2">2. 2. Reproducibility</a></li>
+<li><a href="#orgheadline3">3. Let's contrast this dismal picture by an idealized one.</a></li>
+</ul>
+</div>
+</div>
 
 Let's talk about a couple of problems with life science that we can see by comparing
 it with the rapidly-innovating field of computer science. The Silicon Valley mantra
@@ -36,7 +35,7 @@ and hard.
 Nevertheless, and while admitting a possibly-naïve viewpoint, the get-it-done
 impatience of computer science shows us a couple of problems in the life sciences.
 
-# 1. Computation, Software, Automation<a id="orgheadline1"></a>
+### Computation, Software, Automation<a id="orgheadline1"></a>
 
 Life science largely proceeds by hand and stores results in paper notebook.
 We have pipette robots but few others. The default is to store the vast amounts of
@@ -45,7 +44,7 @@ and hard-to-share forms.
 
 The cutting edge is Excel worksheets. 
 
-# 2. Reproducibility<a id="orgheadline2"></a>
+### Reproducibility<a id="orgheadline2"></a>
 
 From Ben Goldacre and others we're familiar with the problem of positive publication
 bias. A positive result is twice as likely to be published, and researchers monkey
@@ -69,7 +68,7 @@ tested protocols that don't work.
 In the life sciences we have to look up and remember old experiments, how they
 were done, and how not to do them.
 
-# Let's contrast this dismal picture by an idealized one.<a id="orgheadline3"></a>
+### Let's contrast this dismal picture by an idealized one.<a id="orgheadline3"></a>
 
 You design your experiment using a piece of software that (1) looks at past failure
 modes so it knows what not to do, (2) tells you what reagents/materials and lab workflow to use,
@@ -79,9 +78,7 @@ open-source all of this.
 
 The actual and ideal states of affairs carry a number of implications.
 **First**, life science lab work is painful, intrinsically so, despite any passion
-one has for the process. Zero automated or programmatic techniques - robots or software
-
--   are used by most labs. That doesn't sound fun.
+one has for the process. Zero automated or programmatic techniques - robots or software - are used by most labs. That doesn't sound fun.
 
 **Second**, life science labs are conservative, very reluctant to incorporate new software
 tools. They have research to produce now and don't want to retrofit. Again, not fun.
@@ -108,4 +105,5 @@ people, and thereby simply outrun most of the competition.
 
 These problems with the state of science are as fundamental as known problems
 like unconscious research bias and bad meta-studies. 
-Science is broken and we are all going to die. We should fix it.
+
+#### Science is broken and we are all going to die. We should fix it.
