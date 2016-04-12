@@ -109,7 +109,7 @@ in mind, and all members would regularly try out new tools, techniques, and work
 **Fourth**, Sturgeon's law applies to science as to anywhere else: ninety percent of
 everything is crap. The techniques are crap, the results are crap, the publication
 is crap, the sharing is crap, everything is crap. Therefore, we cannot trust that
-any research we want done will be done well.
+any research we want done will be done well. If you want it done, you had better do it yourself.
 
 **Fifth**, open-sourcing research the way software is carries significant group benefits,
 but may carry individual risk. Other labs will use your results to get better results,
@@ -122,7 +122,7 @@ open-source ideology and thereby build a strong network. And we can use automati
 and software and a no-frills approach to move faster, and to attract fast-moving
 people, and so simply outrun most of the competition.
 
-These problems with the state of science are as fundamental as known problems
+These problems with the state of science are as fundamental as more well-known problems
 like unconscious research bias and bad meta-studies. 
 
 #### Science is broken and we are all going to die. We should fix it.
