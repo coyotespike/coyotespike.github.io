@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Open science: research, equipment, education, data sharing, publication, funding
+title: "Open science: research, equipment, education, data sharing, publication, funding"
 date: 2016-04-18 15:50
 # Should be longer than 150 words, so it will appear as post summary
-description: How to become a 'real scientist' as an indie researcher, and how to practice open science 'from farm to market'
+description: "How to become a 'real scientist' as an indie researcher, and how to practice open science 'from farm to market'"
 # tags will also be used as html meta keywords.
 tags:
   - synthetic biology
