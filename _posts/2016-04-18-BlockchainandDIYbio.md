@@ -126,12 +126,13 @@ platform, which assists in finding and citing other projects.
 ### Open access, post-pub peer review
 
 [PLoS](https://www.plos.org/open-access/), BiorXiv and rXiv are obvious examples. [eLife](https://elifesciences.org/) looks like a wonderful venue.
-<https://thewinnower.com/>
-<https://hypothes.is/>
+In addition, [The Winnower](https://thewinnower.com/) and [Hypothesis](https://hypothes.is/) look like good ways to collect and annotate existing research.
 
 ### Funding
 
-[Walacea](https://walacea.com/) and [Experiment.com](https://Experiment.com) both look excellent.
+[Walacea](https://walacea.com/) and [Experiment.com](https://Experiment.com) both look like excellent sources of crowd-funding, Kickstarter-style.
+There is an art to running a successful crowdfunding campaign, just as there's an art to a successful grant application.
+Maybe the first can lead to the second?
 
 ### A hypothetical work process
 
