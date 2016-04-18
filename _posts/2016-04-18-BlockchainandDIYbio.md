@@ -120,8 +120,10 @@ How do you efficiently find other work, and how do others find (and credit you f
 Figshare and Dataverse function like GitHub in that they are repositories for open data, and
 also say they assist with publication venues.
 
-OSF appears to be related to [The Center for Open Science](https://cos.io/). It's a full-fledged scientific project management
-platform, which assists in finding and citing other projects.
+OSF appears to be related to [The Center for Open Science](https://cos.io/). Open Science Framework deserves a section of its own really: it's a 
+full-fledged scientific project management platform, which assists in finding and citing other projects. In fact, while I 
+delved into the blockchain above, OSF boasts undeletable preregistration, in addition to its host of integrations (Box, Drobbox, GitHub, Amazon S3),
+wiki, privacy settings, citation assistance, and more, all for free!
 
 ### Open access, post-pub peer review
 
