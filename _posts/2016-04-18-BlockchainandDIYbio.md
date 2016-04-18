@@ -24,7 +24,7 @@ nofollow: false
 <li><a href="#orgheadline1">1. Open Science</a>
 <ul>
 <li><a href="#orgheadline2">1.1. Research</a></li>
-<li><a href="#orgheadline3">1.2. Equipoment: How to Build a Synbio Lab</a></li>
+<li><a href="#orgheadline3">1.2. Equipment: How to Build a Synbio Lab</a></li>
 <li><a href="#orgheadline4">1.3. Education</a></li>
 <li><a href="#orgheadline5">1.4. Preregister experiments on the blockchain?</a></li>
 <li><a href="#orgheadline6">1.5. Data management and sharing for ongoing projects</a></li>

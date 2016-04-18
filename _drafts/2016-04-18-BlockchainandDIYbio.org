@@ -49,7 +49,7 @@ This one has recently become much easier. [[http://libgen.io][LibGen]] is a huge
 ever published. If you can't find it elsewhere, you can often find it there. The sister project is [[http://sci-hub.io][Sci-Hub]],
 which uses members' library access to find results, and then donates a copy to LibGen.
 
-*** Equipoment: How to Build a Synbio Lab
+*** Equipment: How to Build a Synbio Lab
 To get started, take a look at [[http://diy-bio.com/diybio-lab-equipment/][DIYbio]]'s list, [[http://www.mlo-online.com/the-quest-for-the-500-home-molecular-biology-laboratory.php][The Quest for the $500 Home Molecular Biology Lab]], [[https://hackpad.com/ep/pad/static/51UIsplVYrd][Hackpad's list]].
 [[http://openwetware.org/wiki/DIYbio/FAQ/Equipment][OpenWetWare]] has another good list, and here's a slightly older article on [[http://scienceblogs.com/worldsfair/2009/04/09/using-ebay-to-set-up-a-molecul/][the same quest]].
 
@@ -102,12 +102,13 @@ OSF appears to be related to [[https://cos.io/][The Center for Open Science]]. I
 platform, which assists in finding and citing other projects.
 
 *** Open access, post-pub peer review
-[[https://www.plos.org/open-access/][PLoS]], BiorXiv and rXiv are obvious examples. [[https://elifesciences.org/][eLife]] looks like a wonderful venue.
-https://thewinnower.com/
-https://hypothes.is/
+[PLoS](https://www.plos.org/open-access/), BiorXiv and rXiv are obvious examples. [eLife](https://elifesciences.org/) looks like a wonderful venue.
+In addition, [The Winnower](https://thewinnower.com/) and [Hypothesis](https://hypothes.is/) look like good ways to collect and annotate existing research.
 
 *** Funding
-[[https://walacea.com/][Walacea]] and [[https://Experiment.com][Experiment.com]] both look excellent.
+[Walacea](https://walacea.com/) and [Experiment.com](https://Experiment.com) both look like excellent sources of crowd-funding, Kickstarter-style.
+There is an art to running a successful crowdfunding campaign, just as there's an art to a successful grant application.
+Maybe the first can lead to the second?
 
 *** A hypothetical work process
 Having run through all of that, let me throw out a hypothetical path to getting a small yet serious lab up and running.
