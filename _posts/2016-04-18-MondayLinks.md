@@ -3,7 +3,7 @@ layout: post
 title: Monday Links
 date: 2016-04-18 12:01
 # Should be longer than 150 words, so it will appear as post summary
-description: "A few papers highlighted on Andrew Gelman's blog. File under 'how to fix science'."
+description: "Andrew Gelman, an unassuming statistics badass who teaches at Columbia, highlighted several excellent papers on his blog. File these short summaries under 'how to fix science'."
 # tags will also be used as html meta keywords.
 tags:
   - synthetic biology
