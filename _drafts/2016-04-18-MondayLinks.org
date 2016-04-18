@@ -53,9 +53,10 @@ about this sort of thing in particle physics). Do we have the same problems in s
 and others have shown the same problem exists in the medical sciences. I'd therefore expect that other biosciences such as 
 molecular biology may suffer from replicability issues.
 
-Second, other scientists I've spoken to mentioned that data and techniques aren't adequately shared in the biosciences,
-meaning you might not be able to replicate a result, not because the effect wasn't actually there, but because the published
-article was not sufficiently open.
+Second, other scientists I've spoken to mentioned that data and techniques aren't adequately shared in the biosciences.
+Because the published article did not share enough data and lab techniques, an article might be difficult to replicate.
+Perhaps the effect is real - unlike many social science results! - but the end result is the same: other scientists cannot
+replicate the result, and the field cannot advance.
 
 These articles argue forcefully that the best way to advance science is to practice post-publication peer review with fully
 open data, materials, workflow, and techniques. Traditional publication should come second, at best.
