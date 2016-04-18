@@ -37,7 +37,7 @@ nofollow: false
 </div>
 </div>
 
-# Open Science
+### Open Science
 
 Over the past few weeks I've been intensively researching how best to contribute to the fields of science that interest me.
 In the process I've read a lot about the problems and benefits of academic science.
@@ -61,13 +61,13 @@ to beat if you want your research to mean something), this is a very encouraging
 A lot of other people, senior and junior, are thinking about these problems too. There is a broad coalition already
 in place. All we have to do is join them.
 
-## Research
+### Research
 
 This one has recently become much easier. [LibGen](http://libgen.io) is a huge repository of the bulk of scientific research
 ever published. If you can't find it elsewhere, you can often find it there. The sister project is [Sci-Hub](http://sci-hub.io),
 which uses members' library access to find results, and then donates a copy to LibGen.
 
-## Equipoment: How to Build a Synbio Lab
+### Equipment: How to Build a Synbio Lab
 
 To get started, take a look at [DIYbio](http://diy-bio.com/diybio-lab-equipment/)'s list, [The Quest for the $500 Home Molecular Biology Lab](http://www.mlo-online.com/the-quest-for-the-500-home-molecular-biology-laboratory.php), [Hackpad's list](https://hackpad.com/ep/pad/static/51UIsplVYrd).
 [OpenWetWare](http://openwetware.org/wiki/DIYbio/FAQ/Equipment) has another good list, and here's a slightly older article on [the same quest](http://scienceblogs.com/worldsfair/2009/04/09/using-ebay-to-set-up-a-molecul/).
@@ -76,7 +76,7 @@ In addition, here are [two](http://collections.plos.org/open-source-toolkit-hard
 
 One of the links on OpenWetWare disrecommends working with live animals for awhile, as the data will be too noisy.
 
-## Education
+### Education
 
 I'm most excited about [Synthetic Biology: A Primer](http://www.amazon.com/Synthetic-Biology-Paul-S-Freemont/dp/1848168632), and [Synthetic Biology: A Lab Manual](http://www.amazon.com/Synthetic-Biology-A-Lab-Manual/dp/9814579548).
 I'll also look at [Draft Primer for Synthetic Biology](http://openwetware.org/images/3/3d/SB_Primer_100707.pdf) and [Principles of Synthetic Biology](https://www.edx.org/course/principles-synthetic-biology-mitx-20-305x).
@@ -86,7 +86,7 @@ You can also look around for [good synbio starter projects](http://onlinelibrary
 In addition to those and standard molecular biology textbooks, I've become convinced that a high level of statistics knowledge
 is essential to do anything worthwhile.
 
-## Preregister experiments on the blockchain?
+### Preregister experiments on the blockchain?
 
 Suppose an independent or beginner researcher wants to practice open science.
 Open data is easy - as Jeffrey Rouder shows, a shell script with git makes automatically backing up data easy.
@@ -106,7 +106,7 @@ In this way, a blockchain proves your document (for instance, your experiment de
 I did find [these](https://db.erisindustries.com/science/2016/03/14/blockchains-and-science/) [two](https://db.erisindustries.com//science/2016/03/15/chains-and-science-how-to/) articles on using the blockchain to store all sorts of data. They seemed more speculative than just
 using the blockchain to pre-register, but interesting nonetheless.
 
-## Data management and sharing for ongoing projects
+### Data management and sharing for ongoing projects
 
 Now suppose I've open-sourced my data, workflow, techniques, and analysis. I publish to an open-access online journal,
 I'm commenting on my own work and reviewing others' work on my blog or some other platform. Congratulations, I'm now
@@ -123,17 +123,17 @@ also say they assist with publication venues.
 OSF appears to be related to [The Center for Open Science](https://cos.io/). It's a full-fledged scientific project management
 platform, which assists in finding and citing other projects.
 
-## Open access, post-pub peer review
+### Open access, post-pub peer review
 
 [PLoS](https://www.plos.org/open-access/), BiorXiv and rXiv are obvious examples. [eLife](https://elifesciences.org/) looks like a wonderful venue.
 <https://thewinnower.com/>
 <https://hypothes.is/>
 
-## Funding
+### Funding
 
 [Walacea](https://walacea.com/) and [Experiment.com](https://Experiment.com) both look excellent.
 
-## A hypothetical work process
+### A hypothetical work process
 
 Having run through all of that, let me throw out a hypothetical path to getting a small yet serious lab up and running.
 
