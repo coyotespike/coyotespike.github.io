@@ -40,12 +40,15 @@ a tough time getting funding to open her own lab, an independent researcher with
 
 If you want to do top-tier research, then, you'd better go where the smart people, and big money is: academia.
 Right? Probably, but here's more bad news. As [How to succeed in science: a concise guide for young biomedical scientists](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2685175/) points
-out, the average age at which a postdoc receives a major grant is 43. That's for someone who went straight through grad school,
-I presume. [Science](http://www.sciencemag.org/careers/2009/07/independent-postdocs-resources) and [Nature](http://blogs.nature.com/naturejobs/2015/03/30/the-postdoc-series-finding-funding/) discuss some of the problems a postdoc faces in moving out on her own. The "concise guide" above
+out, the average age at which a postdoc receives a major grant is 43. 
+
+That's for someone who went straight through grad school, I presume. Now you're two decades away from retirement, and you're just
+getting in a position to do the research you're really interested in.The "concise guide" above
 notes that it really did use to be easier thirty or forty years ago.
+For more, [Science](http://www.sciencemag.org/careers/2009/07/independent-postdocs-resources) and [Nature](http://blogs.nature.com/naturejobs/2015/03/30/the-postdoc-series-finding-funding/) discuss some of the problems a postdoc faces in moving out on her own. 
 
 Even under the relatively pro-science - in economic terms - Obama administration, the funding for science has remained flat.
-Because this flatlining follows a small boom, the field is now glutted with postdoctoral researchers: the ["Postdocalypse"](http://www.motherjones.com/environment/2014/03/inquiring-minds-ethan-perlstein-postdocalypse).
+Because this flatlining followed a small funding boom, the field is now glutted with postdoctoral researchers: the ["Postdocalypse"](http://www.motherjones.com/environment/2014/03/inquiring-minds-ethan-perlstein-postdocalypse).
 
 Now, if you do get a lab up and running, unaffiliated with a university or hospital, you have the advantage of
 nimbleness, which may help you to generate results faster, and result in a better track record of getting
@@ -96,7 +99,7 @@ the NSF's standards are as restrictive as the NIH's).
 
 ### Personal and societal ignorance
 I'm going to end with a big "I don't know" for the full-time prospects of an indie scientist.
-Crowdfunding may not (or, less likely, may) provide sufficient funding for a few. Entrepreneurship still works a few,
+Crowdfunding may not (or, less likely, may) provide sufficient funding for a few. Entrepreneurship will work for a few,
 but biotech is perhaps harder than academia. Big grants from the NIH are out. For synthetic biology, funding [may increase](http://www.synbioproject.org/publications/u.s-trends-in-synthetic-biology-research-funding/) in the future. 
 Smaller grants are a possibility, but I don't know, and I suspect few others do either.
 
