@@ -78,7 +78,7 @@ of doing science, and allow more people [to get started as independent researche
 
 ### Diversifying funding sources?
 In the same vein, Rhiannon argues that science funding may be diversifying. Private grant-giving institutions and patrons
-such as Peter Thiel, Facebook guy, Elon Musk, and Y Combinator prefer to give to non-government labs - 
+such as Peter Thiel, Mark Zuckerberg, Elon Musk, and Y Combinator prefer to give to non-government labs - 
 a good sign for independent researchers. If government grantors follow suit, then both funding, and active scientists, will become more diverse.
 However, that's stil an if.
 
