@@ -58,8 +58,8 @@ funding. Or that was the [case 30 years ago, anyway.](http://www.the-scientist.c
 Okay, if the big money goes to established researchers, and it's very hard to become one, how about the prospects
 as an indie researcher?
 
-Let's start by pointing out the obvious, as [Quora post](https://www.quora.com/What-is-it-like-to-be-an-indie-scientist) does well. Although an independent research theoretically has more
-research freedom by not worrying about grant proposals and restrictions, and freedom from bureaucratic administration,
+Let's start by pointing out the obvious, as this [Quora post](https://www.quora.com/What-is-it-like-to-be-an-indie-scientist) does well. Although an independent research theoretically has more
+research freedom by not worrying about grant proposals and restrictions, about bureaucratic administration,
 lack of time, money, and equipment make going indie very hard.
 
 For those reasons, I think, very few people become indie researchers, and "citizen science" doesn't do hard, cutting-edge science.
