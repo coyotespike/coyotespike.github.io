@@ -45,7 +45,7 @@ This is because the program involves working on other people's research and teac
 ### Unbundling the doctorate?
 
 How much money would it take to replicate graduate school in molecular biology?
-Let's say you had $45-60,000 to live on for three years. Access to research is free.
+Let's say you had $45-60000 to live on for three years. Access to research is free.
 You need equipment, most of which you can create for about $1000. 
 You need further materials, such as reagents, so budget a few thousand for that.
 You need a lab space, though perhaps you could get lucky and use a friend's garage.
