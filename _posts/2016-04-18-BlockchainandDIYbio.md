@@ -116,7 +116,7 @@ However, a million atomized researchers all working in perfect openness have sol
 of making science work faster - transparency, reproducibility in principle - yet we now have a search problem.
 How do you efficiently find other work, and how do others find (and credit you for!) your work?
 
-[Figshare](https://figshare.com/), [Dataverse Project](http://dataverse.org/), and [Open Science Framework](https://osf.io/) are three pieces of that puzzle.
+[Dryad](http://datadryad.org/), [Figshare](https://figshare.com/), [Dataverse Project](http://dataverse.org/), and [Open Science Framework](https://osf.io/) are three pieces of that puzzle.
 Figshare and Dataverse function like GitHub in that they are repositories for open data, and
 also say they assist with publication venues.
 
@@ -127,14 +127,17 @@ wiki, privacy settings, citation assistance, and more, all for free!
 
 ### Open access, post-pub peer review
 
-[PLoS](https://www.plos.org/open-access/), BiorXiv and rXiv are obvious examples. [eLife](https://elifesciences.org/) looks like a wonderful venue.
+[PLoS](https://www.plos.org/open-access/), BiorXiv and rXiv are obvious examples. [eLife](https://elifesciences.org/) and [PeerJ](https://peerj.com/) look like wonderful venues,
+and [Peerage of Science](https://www.peerageofscience.org/) does free peer reviews and publishing (!).
+
 In addition, [The Winnower](https://thewinnower.com/) and [Hypothesis](https://hypothes.is/) look like good ways to collect and annotate existing research.
 
 ### Funding
 
 [Walacea](https://walacea.com/) and [Experiment.com](https://Experiment.com) both look like excellent sources of crowd-funding, Kickstarter-style.
 There is an art to running a successful crowdfunding campaign, just as there's an art to a successful grant application.
-Maybe the first can lead to the second?
+Maybe the first can lead to the second: maybe some successful crowd-funded experiments can give you
+the credentials to land a real grant via [Instrumentl](https://www.instrumentl.com/).
 
 ### A hypothetical work process
 
