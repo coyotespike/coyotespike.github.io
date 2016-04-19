@@ -63,6 +63,7 @@ For those reasons, I think, very few people become indie researchers, and "citiz
 I'm sure training and funding are the major reasons for this, but again let's stick to funding and assume
 you can self-train ([like this](https://www.quora.com/How-does-one-get-started-as-an-independent-researcher)).
 
+### It's the end of the world as we know it, and I feel fine
 [Some](http://brightworkcoresearch.com/postdocalypse-opportunity-disguise/) hope the postdocalypse could be a biotech boom opportunity in disguise. [Ethan Perlstein](http://www.sciencemag.org/careers/2013/05/going-rogue) couldn't find an acadmic
 position despite sterling Ivy-league credentials, and decided to crowdfund his work before forming
 a [public benefit corporation](http://www.plab.co/) to continue researching "orphan diseases".
@@ -72,10 +73,11 @@ a [public benefit corporation](http://www.plab.co/) to continue researching "orp
 More broadly, others argue the dual rise of crowdfunding and cheaper tools will pave the way for [an alternative to the university system](http://www.theguardian.com/higher-education-network/blog/2014/jun/16/diy-labs-exciting-alternative-university-science-research)
 of doing science, and allow more people [to get started as independent researchers](http://brightworkcoresearch.com/how-does-one-get-started-as-an-independent-researcher/).
 
+### Diversifying funding sources?
 In the same vein, Rhiannon argues that science funding may be diversifying. Private grant-giving institutions and patrons
 such as Peter Thiel, Facebook guy, Elon Musk, and Y Combinator prefer to give to non-government labs - 
-a good sign for independent researchers. If government grantors follow suit - and there are some indications
-that they are - then both funding, and active scientists, will become more diverse.
+a good sign for independent researchers. If government grantors follow suit, then both funding, and active scientists, will become more diverse.
+However, that's stil an if.
 
 Are these resources sufficient for a full-time researcher to live on and build a private lab? 
 That's a tough sell, but maybe.
@@ -83,14 +85,20 @@ That's a tough sell, but maybe.
 -   If you identify as a [citizen scientist](https://www.zooniverse.org/), you have a [couple](http://www.citizensciencecenter.com/citizen-science-funding/) of [resources](http://www.grants.gov/web/grants/search-grants.html?keywords=citizen%20science) to investigate.
 
 -   Entrepreneurship is always an option. Nobelist Peter Mitchell, Craig Venter, Stephen Wolfram, Ray Kurzweil, and
-
 Ethan Perlstein all became independent researchers, funding their work through entrepreneurship or other means 
 (Venter combined entrepreneurship with staggeringly large NIH grants).
 
--   Much of the question may come down to whether you can get access to slighly larger amounts of money.
+-   Much of the question may come down to whether you can get access to slighly larger amounts of money via grant-giving institutions.
 
 I don't really know whether, with the assistance of [Instrumentl](https://www.instrumentl.com/), or quasi-grant institutions 
 like [BreakoutLabs](http://www.breakoutlabs.org/), or [other grantors](http://oedb.org/ilibrarian/100_places_to_find_funding_your_research/), one can move beyond [RocketHub](https://www.rockethub.com/) or Experiment. (I also don't know whether
 the NSF's standards are as restrictive as the NIH's).
 
-For synthetic biology, funding [may increase](http://www.synbioproject.org/publications/u.s-trends-in-synthetic-biology-research-funding/) in the future. **But the present remains uncertain.**
+### Personal and societal ignorance
+I'm going to end with a big "I don't know" for the full-time prospects of an indie scientist.
+Crowdfunding may not (or, less likely, may) provide sufficient funding for a few. Entrepreneurship still works a few,
+but biotech is perhaps harder than academia. Big grants from the NIH are out. For synthetic biology, funding [may increase](http://www.synbioproject.org/publications/u.s-trends-in-synthetic-biology-research-funding/) in the future. 
+Smaller grants are a possibility, but I don't know, and I suspect few others do either.
+
+The path forward remains uncertain for someone who doesn't want to suffer through the academic meat grinder - but
+it remains uncertain as well for those who do.
