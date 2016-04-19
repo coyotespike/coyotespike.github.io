@@ -39,14 +39,14 @@ for convincing investors or academics to give you a job.
 
 If you are able to provide yourself sufficient resources and training, and don't need
 the credibility, then a Ph.D. may possibly be an inefficient way to get the training and 
-begin research. You don't need credibility to have your scientific work accepted.
-This is because the program involves working on other people's research and teaching classes.
+begin research. While the program involves a lot of cutting-edge classes, it also involves 
+working on other people's research, doing lab scut work, and teaching classes.
 
 ### Unbundling the doctorate?
 
 How much money would it take to replicate graduate school in molecular biology?
-Let's say you had 45-60,000 dollars to live on for three years. Access to research is free.
-You need equipment, most of which you can create for about 1000 dollars.
+Let's say you had \$45-60,000 to live on for three years. Access to research is free.
+You need equipment, most of which you can create for about \$1000.
 You need further materials, such as reagents, so budget a few thousand for that.
 You need a lab space, though perhaps you could get lucky and use a friend's garage.
 
@@ -61,7 +61,7 @@ By grouping the papers, you can prepare ahead of time for the groups in which yo
 
 This course of action would probably result in a better quality education than found
 in many university laboratories. The sticking point is cost. A university provides the
-$45000, equipment, materials, and lab space.
+\$45000, equipment, materials, and lab space.
 
 ### A recent innovation
 
