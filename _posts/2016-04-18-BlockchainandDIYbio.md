@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Open science: research, equipment, education, data sharing, publication, funding"
+title: "A quick round-up of possibilities for open science: research, equipment, education, data sharing, publication, funding."
 date: 2016-04-18 15:50
 # Should be longer than 150 words, so it will appear as post summary
 description: "How to become a 'real scientist' as an indie researcher, and how to practice open science 'from farm to market'"
@@ -116,7 +116,7 @@ However, a million atomized researchers all working in perfect openness have sol
 of making science work faster - transparency, reproducibility in principle - yet we now have a search problem.
 How do you efficiently find other work, and how do others find (and credit you for!) your work?
 
-[Dryad](http://datadryad.org/), [Figshare](https://figshare.com/), [Dataverse Project](http://dataverse.org/), and [Open Science Framework](https://osf.io/) are three pieces of that puzzle.
+[Dryad](http://datadryad.org/), [Figshare](https://figshare.com/), [Dataverse Project](http://dataverse.org/), and [Open Science Framework](https://osf.io/) are four pieces of that puzzle.
 Figshare and Dataverse function like GitHub in that they are repositories for open data, and
 also say they assist with publication venues.
 
