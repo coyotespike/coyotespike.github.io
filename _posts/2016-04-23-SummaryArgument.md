@@ -34,8 +34,10 @@ nofollow: false
 </div>
 </div>
 
+\*
+\*\*
 
-### <a name="orgheadline1"></a>1. The goal is to do aging research, possibly via synthetic biology.
+# The goal is to do aging research, possibly via synthetic biology.
 
 That requires a lab, funding, and education and training.
 
@@ -45,7 +47,7 @@ The options are:
 -   get a Ph.D. and start a biotech company; start a biotech company and use the lab and money to fund research;
 -   start any other sort of company and use the money to fund research.
 
-## Timeline
+# Timeline
 
 Any path to researching aging, any working on synthetic biology, must take nearly
 a decade. 
@@ -73,7 +75,7 @@ then yes. If not, then possibly not.
 If no investor or employee or co-founder in their right minds would let me near a lab,
 then yes. If I can have more control, then probably not.
 
-## Assorted Arguments
+# Assorted Arguments
 
 -   Resources arguments: With a Ph.D., I'd have credibility and access to grant money.
 -   The "timeline argument": see above. A Ph.D. is not a shortcut.
@@ -91,7 +93,7 @@ I feel entitled to disregard the parade of horribles, as I watched it go by befo
 attending law school, and I'm not unmotivated (perhaps most grad students are motivated,
 but some are not).
 
-## Chances of success
+# Chances of success
 
 Those arguments are pros and cons. They do not assess chances of success.
 Next, the chances of succeeding in any startup are quite low. However, the chances
@@ -119,7 +121,7 @@ Motivation is a test of my cognitive wherewithal, then.
 Since I am motivated by directly working on the causes I care about, can I keep in mind
 that the (Ph.D./startup) is the most direct route?
 
-## Why direct research, and why in a lab?
+# Why direct research, and why in a lab?
 
 Why do direct research? Isn't it more efficient to hire someone else to do it?
 Two reasons. First, without some personal input, I'm not sure someone else will do the
@@ -134,7 +136,7 @@ However, assuming that the literature does not hold the complete solution, then 
 and physical research, and the statement that "there's no world where we just dive
 in and solve this" holds true.
 
-## Chances and Timeline
+# Chances and Timeline
 
 In summary, chances of receiving lab and funding 
 
@@ -154,12 +156,14 @@ Even if I started planning for Fall 2018 (applying January 2018), with more inte
 coursework, how will we live until then? A biotech startup would seem to be a logical
 preparation for a master's or doctorate. It is a good story to tell.
 
-## What information would make the Ph.D. more necessary?
+# What information would make the Ph.D. more necessary?
 
 -   Can we get funding or customers without a Ph.D.? Bearing in mind most biotech companies
+
 are staffed almost entirely by Ph.D.'s.
 
 -   Can my role in the company include science, or will I be pushed out by inevitable internal
+
 forces?
 
 -   Do we have, or can we acquire in time, the education and training necessary for a biotech startup?
@@ -168,7 +172,7 @@ forces?
 If the goal is to promote aging research in the long run, and realistically government-funded Big Science is the best way to accomplish that,
 then a 10-year timeline may result in a local maxima.
 
-## Other impacts
+# Other impacts
 
 Government funding has dropped, and if the private sector continues to grow in importance
 for basic research, will continue to drop.
@@ -181,7 +185,7 @@ This can be fixed as a PI, privately or publicly funded.
 Does a private company afford more latitude and speed for scientific research?
 Does it help free up the system to yet more entrepreneurs without formal training?
 
-## Intangible considerations
+# Intangible considerations
 
 -   The prestige of a Ph.D.
 
