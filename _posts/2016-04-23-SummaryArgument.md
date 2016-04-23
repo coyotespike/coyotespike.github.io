@@ -156,11 +156,9 @@ preparation for a master's or doctorate. It is a good story to tell.
 # What information would make the Ph.D. more necessary?
 
 -   Can we get funding or customers without a Ph.D.? Bearing in mind most biotech companies
-
 are staffed almost entirely by Ph.D.'s.
 
 -   Can my role in the company include science, or will I be pushed out by inevitable internal
-
 forces?
 
 -   Do we have, or can we acquire in time, the education and training necessary for a biotech startup?

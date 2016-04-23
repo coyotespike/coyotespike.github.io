@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Links and summaries
+title: "Links and summaries"
 date: 2016-04-21 20:52
 # Should be longer than 150 words, so it will appear as post summary
-description: Here are four excellent articles pertinent to the future of synthetic biology: Transcriptic, protein design and manufacturing, the future of science, and an update to the Carlson Curve.
+description: "Here are four excellent articles pertinent to the future of synthetic biology: Transcriptic, protein design and manufacturing, the future of science, and an update to the Carlson Curve."
 # tags will also be used as html meta keywords.
 tags:
   - synthetic biology
