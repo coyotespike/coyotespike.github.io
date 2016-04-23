@@ -18,7 +18,7 @@ nofollow: false
 ---
 
 
--   [Transcriptic: Building the Lab of the Future](http://synbiobeta.com/transcriptic-building-the-lab-of-the-future/)
+###  [Transcriptic: Building the Lab of the Future](http://synbiobeta.com/transcriptic-building-the-lab-of-the-future/)
 
 Although the title makes the article sound like a puff piece, it's an enthusiastic review by a life sciences Ph.D.
 He quotes Max Hodak: "People spend 15 years in school to end up moving small volumes of liquid around."
@@ -26,12 +26,12 @@ It's funny because it's true, he notes. Many labs actually have a large pipettin
 often wind up underused. Learning to use them is too much trouble.
 A cloud lab can solve that problem, adding reliability and reproducibility.
 
--   [How to Make Any Protein You Want for $360](http://blog.booleanbiotech.com/genetic_engineering_pipeline_python.html)
+###  [How to Make Any Protein You Want for $360](http://blog.booleanbiotech.com/genetic_engineering_pipeline_python.html)
 
 A very long article, in which the author walks through design and assembly of a protein assembled with synthetic biology,
 using Transcriptic. Complete with code and analysis, a great overview.
 
--   [The Changing Frontier of Science](https://medium.com/@lux_capital/the-changing-frontier-of-science-6ad4ce229935#.h4n4fusvr)
+###   [The Changing Frontier of Science](https://medium.com/@lux_capital/the-changing-frontier-of-science-6ad4ce229935#.h4n4fusvr)
 
 A historical argument by a VC that government-funded scientific research was successful, but peaked in the Cold War.
 He argues that we are seeing a shift to privately-funded, smaller labs taking the lead in scientific innovation.
@@ -39,7 +39,7 @@ Aqui-hires are the new R&D. The NIH funding decline will continue, and that's a 
 
 Pair this essay with Paul Graham's lengthy meditation on the decline of very large, centralized corporations.
 
--   [On DNA and Transistors](http://www.synthesis.cc/2016/03/on-dna-and-transistors.html)
+###  [On DNA and Transistors](http://www.synthesis.cc/2016/03/on-dna-and-transistors.html)
 
 Rob Carlson's latest look at the economics of synthetic biology. In particular, he notes that while the cost curve
 for synthesis continues to lag behind the cost curve for sequencing - that is, writing DNA is still more expensive than
