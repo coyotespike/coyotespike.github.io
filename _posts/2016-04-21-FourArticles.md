@@ -17,6 +17,7 @@ noindex: false
 nofollow: false
 ---
 
+
 -   [Transcriptic: Building the Lab of the Future](http://synbiobeta.com/transcriptic-building-the-lab-of-the-future/)
 
 Although the title makes the article sound like a puff piece, it's an enthusiastic review by a life sciences Ph.D.
