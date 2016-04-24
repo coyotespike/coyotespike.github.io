@@ -1,3 +1,21 @@
+---
+layout: post
+title: Arguments for and against a doctoral program
+date: 2016-04-23 13:17
+# Should be longer than 150 words, so it will appear as post summary
+description: In this post, I'm summarising my latest thoughts on whether to get a Ph.D., a topic worth considering in depth!
+# tags will also be used as html meta keywords.
+tags:
+  - synthetic biology
+
+show_meta: true
+comments: true
+mathjax: true
+gistembed: true
+published: true
+noindex: false
+nofollow: false
+---
 <div id="table-of-contents">
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
@@ -22,25 +40,6 @@
 </ul>
 </div>
 </div>
-
----
-layout: post
-title: Arguments for and against a doctoral program
-date: 2016-04-23 13:17
-# Should be longer than 150 words, so it will appear as post summary
-description: In this post, I'm summarising my latest thoughts on whether to get a Ph.D., a topic worth considering in depth!
-# tags will also be used as html meta keywords.
-tags:
-  - synthetic biology
-
-show_meta: true
-comments: true
-mathjax: true
-gistembed: true
-published: true
-noindex: false
-nofollow: false
----
 
 ### The goal is to do aging research, possibly via synthetic biology.<a id="orgheadline1"></a>
 
