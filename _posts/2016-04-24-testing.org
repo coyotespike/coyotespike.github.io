@@ -1,0 +1,3 @@
+* howdy all
+** this is
+*** my blog post

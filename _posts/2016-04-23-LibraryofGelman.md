@@ -16,6 +16,7 @@ published: true
 noindex: false
 nofollow: false
 ---
+
 <div id="table-of-contents">
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
@@ -31,14 +32,13 @@ nofollow: false
 </div>
 </div>
 
-
 The best thing about reading Andrew Gelman's blog is Andrew Gelman.
 
 Like Tyler Cowen or Noahpinion, he's genuinely open to changing his mind - indeed, even eager to do so!
 I've seen him do it in in the comments to his own post. While he frequently criticises folks who use trashy statistics,
 he also thoughtfully considers the value their work might have, despite its lack of factual basis.
 
-He's just an open, decent guy, with a sense of humor about himself, who's also written what looks like some of the best work in the field (Bayesian Data Analysis, Stan).
+He comes across as an open, decent guy, with a sense of humor about himself, who's also written what looks like some of the best work in the field (Bayesian Data Analysis, Stan).
 
 ### [Statistics Done Wrong](http://www.statisticsdonewrong.com/)<a id="orgheadline1"></a>
 

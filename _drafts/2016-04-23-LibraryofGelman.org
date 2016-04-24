@@ -1,3 +1,4 @@
+#+STARTUP: oddeven markdownstarsfile
 #+BEGIN_HTML
 ---
 layout: post
@@ -25,7 +26,7 @@ Like Tyler Cowen or Noahpinion, he's genuinely open to changing his mind - indee
 I've seen him do it in in the comments to his own post. While he frequently criticises folks who use trashy statistics,
 he also thoughtfully considers the value their work might have, despite its lack of factual basis.
 
-He's just an open, decent guy, with a sense of humor about himself, who's also written what looks like some of the best work in the field (Bayesian Data Analysis, Stan).
+He comes across as an open, decent guy, with a sense of humor about himself, who's also written what looks like some of the best work in the field (Bayesian Data Analysis, Stan).
 
 *** [[http://www.statisticsdonewrong.com/][Statistics Done Wrong]]
 Gelman links to this fun read on the most common statistical errors in science, since expanded into a book.
