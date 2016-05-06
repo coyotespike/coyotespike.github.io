@@ -19,6 +19,7 @@ nofollow: false
 ---
 
 I started learning Emacs because I wanted its compounding returns on increasing skill level: over time you move ever faster, as you add to your repertoire of document-editing tricks.
+
 Later I learned that the openness and flexibility that comes with having all of your source code in the same format as the editor itself, and all in just plain text, were actually
 part and parcel of the entire Unix philosophy of software. (The Unix philosophy allowed me to work with a lot of data, in a way that Excel or other tools just couldn't).
 
