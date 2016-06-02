@@ -43,20 +43,14 @@ the books are clearly written, or online interactively.
 
 Here are some areas that I believe remain arts: 
 
--   martial arts, which globalization
+-   martial arts, which globalization has done so much for in the past 30 years, systematizing, cross-fertilizing, refining.
 
-has done so much for in the past 30 years, systematizing, cross-fertilizing, refining.
+-   meta-learning, because generations of students have no idea that there is more to learning beyond "this subject is hard or easy" and "I am smart or slow." 
 
--   meta-learning, because generations of students
-
-have no idea that there is more to learning beyond "this subject is hard or easy"
-and "I am smart or slow." 
-
--   conflict resolution: again, most people, even elite university graduates, only
-
-have mental tools at the level of  "this person is nice or mean," and "good or bad relationship." 
+-   conflict resolution: again, most people, even elite university graduates, only have mental tools at the level of  "this person is nice or mean," and "good or bad relationship." 
 
 -   exercise and mobilization are subject to so much disinformation that the good stuff remains a bit of an art.
+
 -   Finally, pair programming communicates some of the art or craft of software creation.
 
 One hallmark of an art is that among the communities which lack such arts - most
@@ -83,6 +77,4 @@ art's place in the world, and the community's place in the world - those who pos
 the art may not turn it into a subject.
 
 To discover arts in this sense, you need a broad range of friends, and you need to be
-on the alert for them. Because the most useful subjects tend to spread rapidly,
-just as good foods like coffee spread throughout the world, I'm betting there aren't
-very many useful arts.
+on the alert for them, to realize what you're looking at.
