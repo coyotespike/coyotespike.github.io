@@ -50,7 +50,7 @@ their criminal records online, for free. Right now you have to wade through scam
 websites, and pay for it. This app might have made calls to Google Maps, to the background
 company Checkr, to maybe another reverse-lookup services like Intelius or Pipl, 
 and to a criminal records database. For several of these, we'd probably 
-have to agree to a basic monthly rate, and then hope they don't go down.
+have to agree to a basic monthly rate, and then hope those websites run reliably.
 
 With 21.co's bitcoin for machines, our app could contract these lookups, these 
 API calls, automatically, to the lowest bidder. That would reduce cost, and 
