@@ -3,7 +3,7 @@ layout: post
 title: Review of "Notes on the Synthesis of Form"
 date: 2016-06-24 16:50
 # Should be longer than 20 words, so it will appear as post summary
-description:
+description: Christopher Alexander crafts a conceptual and practical toolset for design thinking.
 # tags will also be used as html meta keywords.
 tags:
   - programming
