@@ -77,13 +77,14 @@ We'll begin to see the many subsystems which form the overall system. We can kee
 score of which requirements are satisfied or not satisfied (and even for requirements
 like price, we still count "cheap enough" or "not cheap enough," to avoid over-optimization).
 
+We can see that the structure of the problem itself, and our process of design, 
+are deeply linked and must mirror each other.
+
 By using diagrams in this way, we'll be able to manage the overwhelming complexity
 of designing from scratch, and we'll be able to solve more of the small problems
 and misfits, which when solved make up "good design," a good way of living with
 and within man-made structures.
 
-We can see that the structure of the problem itself, and our process of design, 
-are deeply linked and must mirror each other.
 
 So much for my brief précis!
 
