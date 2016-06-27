@@ -1,4 +1,3 @@
-#+BEGIN_HTML
 ---
 layout: post
 title: The European Union is what the United States was meant to be
@@ -19,12 +18,11 @@ published: true
 noindex: false
 nofollow: false
 ---
-#+END_HTML
 
 If there's one single issue which is the defining aspect of American conservatism,
 one core principle which sits in conservatives' very bones, which they breathe in
-and breathe out, it might be /limited government/, which you can recast without
-too much trouble into /the federal government has too much damn power (and got it through underhanded means)/.
+and breathe out, it might be *limited government*, which you can recast without
+too much trouble into *the federal government has too much damn power (and got it through underhanded means)*.
 
 Yet for some reason, American conservatives and libertarians tend to look with approval
 on the Brexiteers. A bold bid for independence, striking back at the chilly gray
@@ -41,7 +39,7 @@ instead just started a Constitutional Convention to hammer out a brand-new gover
 This new federal government eliminated interstate tariffs and barriers, demanded
 that each state give full faith and credit to each other's judgments, ensured that
 no state could discriminate against the citizens of another state. Suddenly, the country
-open up /within/.
+open up *within*.
 
 However, over the past couple of centuries the federal government has also demanded
 the power to regulate (for instance) how much wheat a single farmer can grow on his
@@ -84,11 +82,11 @@ states. Who decides if the government has a new power? The states do.
 Way back when, Alexander Hamilton argued that even though the Constitution didn't
 explicitly give the government the power to establish a national bank, the federal
 government had that power, because otherwise they couldn't do their job. The Constitution
-/implicitly/ granted the government that power.
+*implicitly* granted the government that power.
 
 Look, I'm not accusing anyone of bad faith. I'm just noting that if you ask the
 government if they have a legal power, which would help them do their job better,
-usually they're going to say /yes/. In the EU, they tend to ask the member states.
+usually they're going to say *yes*. In the EU, they tend to ask the member states.
 
 Freedom does not equal isolationism. No state should have to go all Idaho-militia,
 live-in-the-woods-alone, to avoid surrendering local government to a central and
@@ -96,4 +94,3 @@ coordinating government. The EU, so far, has managed to unify without over-regul
 American conservatives and libertarians should celebrate the EU. The Europeans finally
 figured out what our Founding Fathers were talking about - and they may have done
 it even better than we did.
-
