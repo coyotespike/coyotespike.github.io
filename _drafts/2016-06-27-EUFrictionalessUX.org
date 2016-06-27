@@ -1,7 +1,7 @@
 #+BEGIN_HTML
 ---
 layout: post
-title: The EU as Frictionaless UX
+title: The EU as Frictionless UX
 date: 2016-06-27 17:49
 # Should be longer than 20 words, so it will appear as post summary
 description: The European Union's best contributions are nearly invisible - and the Leave campaign took advantage of that fact.
