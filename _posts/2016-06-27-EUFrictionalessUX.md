@@ -1,4 +1,3 @@
-#+BEGIN_HTML
 ---
 layout: post
 title: The EU as Frictionaless UX
@@ -19,13 +18,12 @@ published: true
 noindex: false
 nofollow: false
 ---
-#+END_HTML
 
-A good user experience is made up of a lot of [[http://www.littlebigdetails.com/][small, well-considered product decisions]].
+A good user experience is made up of a lot of [small, well-considered product decisions](http://www.littlebigdetails.com/).
 Ideally, you want to make a product that so naturally does what the user expects,
 that guides the user to the right way of using your product, that the user doesn't
 even notice it. The "right way of using" your product is invisible. You can't see
-it. The UX is /frictionless/. The iPad is a good example, as you can see in all
+it. The UX is *frictionless*. The iPad is a good example, as you can see in all
 those videos of three-year-olds picking it up and figuring out how to use it on
 their own.
 
