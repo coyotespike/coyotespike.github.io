@@ -62,11 +62,11 @@ or two I broke the social rules pain me.
 \\
 Jon and I practiced random bits of math. We heard a talk advocating moving all
 your application logic into your database. Chris Drane and Chris Granger got me
-started learning Clojure and ClojureScript, and I used them to build the
+started learning Clojure and ClojureScript, Rok inspired me to use them to build the
 websites for my startup. This helped us get into Y Combinator's Fellowship
 (where we figured out the idea wouldn't work but that's another story).
 \\
-That was the coldest winter in ten years, and I had adequate but not complete
+That was the coldest winter in ten years, and I had barely adequate
 winter gear. I bought a kettlebell and carried it back on the subway and swung
 it in the room I rented from two Ukrainian Buddhists who never seemed to work,
 instead spending 4 hours a day meditating. I rode the subway, ate in grunge
@@ -83,9 +83,9 @@ together, helped each other, saw each other struggle, saw each other succeed.
 It's both humbling and empowering. Everyone is always trying something at which
 they are a complete beginner, and yet they can do it, eventually.
 \\
-Recently I've been thinking about community and ritual, how they're important
-and how hard to build. It seems to me that RC has always been more about
-building a community than cashing out on the continuing, and likely-to-continue,
-shortage of software developers. That's unique, and rather prescient.
+Recently I've been thinking about communities, how they're important and hard to
+build. It seems to me that RC has always been more about building a community
+than cashing out on the continuing, and likely-to-continue, shortage of software
+developers. That's unique, and rather prescient.
 \\
 I still miss everyone, which is sentimental but there you go.
