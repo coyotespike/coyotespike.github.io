@@ -66,8 +66,8 @@ links:
     url: /
   - title: <i class="iconside iconm-user"></i> About
     url: /about/
-  ## - title: <i class="iconside iconm-quill"></i> Blog
-  ##   url: /blog/
+  - title: <i class="iconside iconm-quill"></i> Blog
+    url: /blog/
   - title: <i class="fa fa-tags"></i> Tags
     url: /tags/
   - title: <i class="fa fa-archive"></i> Archive
