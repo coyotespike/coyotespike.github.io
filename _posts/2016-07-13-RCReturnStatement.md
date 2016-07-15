@@ -55,7 +55,7 @@ I regret not spending more time pair programming, largely because I didn't know
 what I was doing and felt awkward. I regret jumpstarting yet another
 let's-read-the-entirety-of-SICP group before letting it die out (these *never*
 work, though "SICP slowly" could). I don't really regret doing webdev even
-though this kind of a little bit annoys the good facilitators et al. The time
+though this (kind of, a little bit) annoys the good facilitators et al. The time
 or two I broke the social rules pain me.
   
 Jon and I practiced random bits of math. We heard a talk advocating moving all
