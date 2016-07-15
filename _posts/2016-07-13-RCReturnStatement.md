@@ -45,7 +45,7 @@ unwashen sinners peer in awe into a theater straight out of the gilded age.
   
 Another Friday night everyone wanted to do karaoke but we were all too cheap to
 pay for it, so we got drunk on shots of vodka (and when that ran out, shots of
-fine scotch, to my dismay) and screamed our lungs out in Turing (name?)
+fine scotch, to my dismay) and screamed our lungs out in Hopper
 instead. Nathaniel danced like a hero.
   
 Martino, David, Marin, and I went to the museum and got increasingly
