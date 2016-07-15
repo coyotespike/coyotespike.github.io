@@ -1,7 +1,7 @@
 #+BEGIN_HTML
 ---
 layout: post
-title: An Org-Mode Worfklow
+title: An Org-Mode Workflow
 date: 2016-04-30 12:00
 # Should be longer than 20 words, so it will appear as post summary
 description: While the text editor Emacs may not be for everyone, one of its many rewards is the flexible to-do and research tool Org-Mode, developed by astronomist Carsten Dominik.
