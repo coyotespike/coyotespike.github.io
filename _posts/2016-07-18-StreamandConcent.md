@@ -86,6 +86,8 @@ The stream, on the other hand, says that real-time information processing leads
 to faster work, exposure to and creation of new ideas, allows you dynamically
 shape the world and its direction.
 
+## Yin or Yang?
+
 Note that neither of these approaches entails solitude. Both are meant to
 involve community - other people. I think the key difference is what counts as
 news, what grabs your attention.
