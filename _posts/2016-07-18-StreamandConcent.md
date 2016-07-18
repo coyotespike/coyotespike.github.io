@@ -1,12 +1,3 @@
-<div id="table-of-contents">
-<h2>Table of Contents</h2>
-<div id="text-table-of-contents">
-<ul>
-<li><a href="#orgheadline1">1. Stream and Concent</a></li>
-</ul>
-</div>
-</div>
-
 ---
 layout: post
 title: Stream and Concent
