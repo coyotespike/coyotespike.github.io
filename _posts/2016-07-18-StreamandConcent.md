@@ -18,24 +18,31 @@ noindex: false
 nofollow: false
 ---
 
-# Stream and Concent<a id="orgheadline1"></a>
+# Stream and Concent
 
 I propose a thought experiment, comprised of the logical ends of two tendencies
 of being in the modern hyper-connected era, two ways of interacting with
 information.
+
+
+## Stream
 
 Venkatesh Rao has talked a lot about, and championed, the idea of inhabiting
 multiple streams. In a stream, you choose what to pay attention to, you gain
 access by figuring what's interesting and who to follow (potentially a
 substantial barrier to entry), you gain critical advantage through access to
 relatively raw information, and you contribute by curating and processing and
-passing information to your stream. The stream is dynamic, evolving, and can
-lead to genuine insights, collaborations, projects, and friendships.
+passing information to your stream. 
+
+The stream is dynamic, evolving, and can lead to genuine insights,
+collaborations, projects, and friendships.
 
 The stream way of being has a lot of room remaining for further development. We
 have already walked down a path leading from email, to Facebook, to Instagram,
 to Twitter, but Twitter is not as "always on" and immersed in the stream as we
-can get. Pokemon Go indicates that Vernor Vinge's *Rainbow's End* scenario may be
+can get. 
+
+Pokemon Go indicates that Vernor Vinge's *Rainbow's End* scenario may be
 realistic. In Vinge's novel, high school students practice the sort of stream
 processing that Venkat Rao has described, but on steroids. You earn your bread
 and butter by receiving micropayments for researching and weaving infographics
@@ -46,13 +53,15 @@ Glass-like interface, we'll be in-the-moment connected with even more of our
 friends, perhaps making the sort of information/media product that Vinge
 envisioned.
 
-In *Deep Work*, Cal Newport advocates scheduling daily, weekly, monthly, or yearly
-periods of complete focus, cutting oneself off from outside communication and
-chores. Tim Ferriss has advocated information diets.
+## Concent
+
+By contrast, in *Deep Work*, Cal Newport advocates scheduling daily, weekly,
+monthly, or yearly periods of complete focus, cutting oneself off from outside
+communication and chores. Similarly, Tim Ferriss has advocated minimalist
+information diets.
 
 Newport and Ferriss represent partial advances toward the concent way of
-being. Ignore all the irrelevant stuff. Still, they still compromise (i.e. live
-practically) with the hubbub of news.
+being. Still, they compromise (i.e. live practically) with the hubbub of news.
 
 In *Anathem*, Neal Stephenson describes the culmination of this tendency. His
 academic/mathematical monks inhabit several different orders: the Unarians,
@@ -60,11 +69,11 @@ whose gates open to interact with the outside world and its news once every
 year; the Decenarians; the Centenarians; and the Millenarians.
 
 Because all these orders live within the same physical complex, the group as a
-whole has developed strict rules to prevent any information contamination.
-Hundreders/Centenarians should not receive any news, any hint of political
-controversy, from the Tenners. Once per century is enough for them. To them,
-political news abstracts to "it seems outside society has a new form of
-government."
+whole has developed strict rules ("the Discipline") to prevent any information
+contamination. Hundreders/Centenarians should not receive any news, any hint of
+political/cultural controversy, from the Tenners, who get updates every
+decade. Once per century is enough for the Hundreders! To them, political news
+abstracts to "it seems outside society has a new form of government."
 
 The concent, the ivory tower raised to near-literal heights, sharpens the idea
 of deep work. *All* information relevant on a timescale less than a year, ten
