@@ -51,17 +51,20 @@ As [this video](https://www.youtube.com/watch?v=s7tWHJfhiyo) colorfully explains
 voting system imposes minority rule, *and* it *inevitably*, *unavoidably*, leads to a
 two-party system.
 
-We as individuals vote not just on what we want, but strategically, based on how
-we think others will vote. Voting for a third-party candidate hands more power
-to your furthest ideological opponents. "Don't throw your vote away," people
-say, and they're not completely wrong.
+We as individuals vote based not just on what we want, but strategically, based
+on how we think others will vote. Voting for a third-party candidate hands more
+power to your furthest ideological opponents. "Don't throw your vote away,"
+people say, and they're not completely wrong.
 
 In fact, a third-party vote is *worse* than just thrown away. Voting for the
 candidate closest to your preferences helps ensure the outcome farthest from
 your preferences! Think Ralph Nader voters - they probably didn't like Al Gore,
-but they really, really didn't like Dubya. In fact, the Republican party would
-have been smart to fund Ralph Nader (though I'm not aware of any evidence that
-they did), and that's true in general.
+but they really, really didn't like Dubya.
+
+In fact, the Republican party would have been smart to fund Ralph Nader (though
+I'm not aware of any evidence that they did), and that's true in general. In a
+close election, you'd do well to fund your opponent's closest ideological
+challenger.
 
 (At this point, Clay Shirky comes in the room to argue that Ralph Nader didn't
 teach the Democrats a lesson - their platform remained unchanged following his
