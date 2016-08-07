@@ -1,4 +1,4 @@
-g---
+---
 layout: post
 title: Voting Our Egos
 date: 2016-08-07 18:26
