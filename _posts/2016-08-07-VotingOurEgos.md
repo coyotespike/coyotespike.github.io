@@ -1,4 +1,4 @@
----
+g---
 layout: post
 title: Voting Our Egos
 date: 2016-08-07 18:26
@@ -34,6 +34,8 @@ I like this argument because I had not heard it before. By this argument, a
 small-party elected representative does no good at all - there is no advantage
 to having a representative in Parliament/Congress with a purer version of your
 politics.
+
+## Third Parties in America
 
 This argument reminded me of an old question: what prevents third parties from
 succeeding in America? Pure political tradition, voter inertia? Given how pissed
@@ -74,6 +76,8 @@ Looking at these structural reasons, and playing out the game theory, convinced
 me that Shirky is essentially right. In the United States, third parties do not
 and cannot have any lasting effect.
 
+## Multi-party Systems
+
 That still leaves me with Shirky's dig at multi-party systems. Is a two-party
 system, which leaves many voters with no elected representative remotely close
 to their beliefs, morally superior to a proportionally representative,
@@ -93,6 +97,8 @@ compromise. But that compromise lasted beyond an early-stage primary. In the
 United States, candidates must veer to the extremes to win the primaries, and
 then dance their way back to the middle. The multi-party system seems to have a
 more lasting, and hence real, effect.
+
+## The dirty work of democratic compromise
 
 Here's one other passing argument that caught my eye. Shirky also argues that
 not voting, or voting third party, shoves the dirty work of democracy on
@@ -117,5 +123,6 @@ representative would give you less rather than more democracy, Shirky's essay
 changed my mind about third parties. No one is listening to our protest votes -
 ours, my friends, is a lone voice crying in the wilderness. Nevertheless, in our
 two-party system, there's no way to join in the work of deciding unless I vote
-in the primaries or move to a swing state. And that's why, come Election Day,
-I'll vote my ego.
+in the primaries or move to a swing state. 
+
+And that's why, come Election Day, I'll vote my ego.
