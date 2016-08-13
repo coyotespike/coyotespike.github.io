@@ -18,7 +18,7 @@ noindex: false
 nofollow: false
 ---
 
-# Humans, Infrastructure, Government<a id="orgheadline1"></a>
+## Humans, Infrastructure, Government<a id="orgheadline1"></a>
 
 Vinay Gupta has been called "the original cypherpunk." He's an Irish
 entrepreneur with a background in sustainable thinking and development.
@@ -40,17 +40,18 @@ use our collective resources by sharing and coordinating:
 -   Coordinating by resolving or mitigating disagreement
 -   Coordinating by providing and enforcing common standards (quality and communication)
 
-A central organization uses our excess capacity to help solve our shared individual problems.
+So a central organization uses our excess capacity to help solve our shared individual problems.
 
+### Small is Beautiful
 Now, the size of the coordinating entity - the solution to all these problems - is a
 function of the size of the problem and of the efficency of the coordinator.
 
-For instance, puilding places for people to stay - clean, quiet, affordable,
+For instance, building places for people to stay - clean, quiet, affordable,
 warm, inviting - is a big problem. Governments are big, lumbering, inefficient,
 and hotels are more efficient. When each attacks the same problem, we end up
 with a larger government than hotel solution. Building government-sponsored
 housing costs the taxpayer staggering sums; a global hotel chain also costs a
-lot but much less than government does. 
+lot but much less than government does!
 
 Because governments are inefficient, government bureacracy has to get big.
 
@@ -63,7 +64,7 @@ Unfortunately, if we have not got a lot of money, we will make do with
 small-scale, individual or community-level solutions. For many problems,
 eliminating coordination just isn't an option.
 
-# A Smaller Solution<a id="orgheadline2"></a>
+### A Smaller Solution<a id="orgheadline2"></a>
 
 If you want to found a billion-dollar company, solve a problem for a billion
 people, they say. The foregoing suggests one way to figure out how to solve a
@@ -85,6 +86,7 @@ AirBnB is solving the same large problem, but because AirBnB is much more
 efficient than government or hotels, they are much smaller and we each have to
 contribute much less (pay less) to build our global network of reliable housing.
 
+### The Blockchain Cometh
 We can take our new perspective about reducing transaction and coordination
 costs to solve shared problems, and our example of AirBnB, and extend it to
 blockchain technologies.
@@ -96,18 +98,18 @@ dispute resolution (partially replacing the mediation agreement or mediator)
 
 In the process each of these tasks becomes much cheaper. More resources turn
 into excess resources, and fewer people paying less money can solve their
-problems at a larger, more-coordinated, hence more-effective scale.
+problems at a larger, more-coordinated, more-effective scale.
 
-# Summary<a id="orgheadline3"></a>
+### Summary<a id="orgheadline3"></a>
 
 If the developing world suffers partly because solutions to their problems cost
 too much to coordinate, then we can try to find a way to help them get more
-money, or we can make coordination cheaper (optimally of course, both).
+money, or we can make coordination cheaper (optimally, of course, both).
 
-In the developed world as well, viewing companies as distributing and
-coordinating resources more effectively by coordinating more cheaply helps us
-understand why peer-to-peer companies like AirBnB and Lyft have succeeded so
-quickly.
+In the developed world as well, we can understand why peer-to-peer companies
+like AirBnB and Lyft have succeeded so quickly by viewing companies as (a)
+distributing and coordinating resources more effectively by (b) coordinating
+more cheaply.
 
 There is plenty of room at the bottom, the bottom of the price point, if we can
 work cheaply enough and reach broadly enough.
