@@ -1,9 +1,9 @@
 ---
 layout: post
-title: There's Plenty of Room at the Bottom
+title: "There's Plenty of Room at the Bottom"
 date: 2016-08-13 14:54
 # Should be longer than 20 words, so it will appear as post summary
-description: Thinking about how governments help us with infrastructure can provoke new ideas and applications for blockchain technologies.
+description: "Thinking about how governments help us with infrastructure can provoke new ideas and applications for blockchain technologies."
 # tags will also be used as html meta keywords.
 tags:
   - programming
