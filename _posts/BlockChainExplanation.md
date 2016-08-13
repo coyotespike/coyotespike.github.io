@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An Intuitive Description of the Blockchain"
-date: "2016-08-13 12:30"
+date: 2016-08-13
 
 description: "The blockchain is one of the most exciting software innovations of the decade - a very simple guide to what it's all about."
 
