@@ -1,14 +1,3 @@
-<div id="table-of-contents">
-<h2>Table of Contents</h2>
-<div id="text-table-of-contents">
-<ul>
-<li><a href="#orgheadline1">1. Humans, Infrastructure, Government</a></li>
-<li><a href="#orgheadline2">2. A Smaller Solution</a></li>
-<li><a href="#orgheadline3">3. Summary</a></li>
-</ul>
-</div>
-</div>
-
 ---
 layout: post
 title: There's Plenty of Room at the Bottom
