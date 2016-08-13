@@ -1,3 +1,27 @@
+---
+layout: post
+title: "An Intuitive Description of the Blockchain"
+date: "2016-08-13 12:30"
+
+description: "The blockchain is one of the most exciting software innovations of the decade - a very simple guide to what it's all about."
+
+tags:
+
+- programming
+
+show_meta: true
+comments: true
+mathjax: true
+gistembed: true
+published: true
+noindex: false
+nofollow: false
+# hide QR code, permalink block while printing.
+hide_printmsg: false
+# show post summary or full post in RSS feed.
+summaryfeed: false
+---
+
 ## A Society Built on Trust<a id="orgheadline1"></a>
 
 For you and I to work together, we need to trust each other. If either of us thinks
