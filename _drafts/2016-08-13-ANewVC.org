@@ -1,0 +1,68 @@
+#+BEGIN_HTML
+---
+layout: post
+title:
+date: 2016-08-13 15:25
+# Should be longer than 20 words, so it will appear as post summary
+description:
+# tags will also be used as html meta keywords.
+tags:
+  - synthetic biology
+
+show_meta: true
+comments: true
+mathjax: true
+gistembed: true
+published: true
+noindex: false
+nofollow: false
+---
+#+END_HTML
+
+*** A New Hope?
+In a 45-minute-long video, Vinay Gupta explained his rationale for starting a
+new VC fund. He has two main ideas: /sustainability/ and /peers/.
+
+These two ideas seem to fit naturally with Gupta's previous work, especially his
+work with Ethereum.
+
+*** Sustainability
+Sustainability means avoiding externalizing costs. Traditional VC funds view
+money as a scarce resource and entrepreneurs as a plentiful and short-term
+resource. VCs don't know what will succeed, so they invest in many ideas, flog
+them all hard, and hope one will get off the ground.
+
+In the process, VCs externalize the psychological costs. The entrepreneurs burn
+out, become depresed or alienated, and go to work for someone else.
+
+Instead, we should view the entrepreneurs as the scarce resource. Working on a
+project that will fail to be a unicorn is extremely taxing. Only a few people
+have the complex mix of market analysis, technical competence, and team building
+skills necessary to build a company. Instead of flogging the company, shut it
+down and support the team while they decide whether and how to transition to a
+new project. In the long run, on their next few projects, a healthy team is far
+more likely to pay off.
+*** Interlude: Not All VCs
+The best in Silicon Valley have fully embraced the concept of multiple projects,
+moving lightly from one to one, following and developing the individuals most
+likely to make it. But it's far too rare.
+
+In particular, YC embodies Gupta's advice.
+
+#+BEGIN_QUOTE
+"VC's increasingly begin to look like something between investment banking and
+loan sharking. At the very high end, things like Y Combinator, you have things
+which are essentially finishing schools for entrepreneurs, with an intense
+cultural transmission and tuition. YC is essentially the American equivalent of
+Eton."
+#+END_QUOTE
+
+*** A Network of Peers
+Peers are the next brick in this edifice. Entrepreneurs drive themselve far too
+hard, because they fear only having one shot. A network of peers investing in
+each other's companies, a bootstrapped VC fund if you will, could provide more
+flexibility and support than currently available.
+
+A network of peer-to-peer support could then inspire and enable far riskier
+endeavours, which is what we need to have any hope of making real innovation
+happen.
