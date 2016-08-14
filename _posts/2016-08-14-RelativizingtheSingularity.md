@@ -65,9 +65,9 @@ hope every year for a new paradigmatic revolution, a tectonic plate theory that
 will upend all we know.
 
 We have relativized these revolutions. We have placed them within a loosely
-Hegelian framework of continuing revolution. Our meta-model, if you will, of the
-scientific process which constructs all our scientific models, now embraces
-revolution as the ordinary course of scientific work.
+Hegelian framework of continuing intellectual progress. Our meta-model, if you
+will, of the scientific process which constructs all our scientific models, now
+embraces revolution as the ordinary course of scientific work.
 
 We honor Crick and Watson, but we do not apotheosize them. No clouds and togas
 for them! Our awe at the shocks to our intellectual girdings has diminished.
@@ -79,7 +79,7 @@ next revolutionary idea, and about *what comes after* the world-shattering idea.
 
 Almost as soon as we realized that thought itself could be constructed from
 smaller, deterministically-programmed parts, we deduced that thinking machines
-might one day do all that we do, but bigger and faster. The Industrial
+might one day think and feel all that we do, but bigger and faster. The Industrial
 Revolution would move into mental work, just as powerfully as machines took over
 physical labor but perhaps more precisely.
 
@@ -93,7 +93,7 @@ superhuman general intelligence that is friendly to humans, those who point out
 the weak have never been able to control the strong, and those who believe we
 will unite with our machines to become silicon-carbon cyborgs.
 
-# A Word with Our Descendants<a id="orgheadline3"></a>
+## A Word with Our Descendants<a id="orgheadline3"></a>
 
 I don't know which scenario is more likely. If we are all wiped out, though,
 there's not much to say to the machines or organisms which succeed us and spread
