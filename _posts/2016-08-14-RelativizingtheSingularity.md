@@ -22,9 +22,10 @@ nofollow: false
 When Newton published the *Principia*, he was apotheosized. The god-like
 intellect, which o'er the cosmos casts its eye of light, that sort of thing.
 
-To quote Pope's eulogy:  
-> Nature and Nature's laws lay hid in night: 
-> God said, "Let Newton be!" and all was light.
+To quote Pope's eulogy:
+
+> Nature and Nature's laws lay hid in night:  
+> God said, "Let Newton be!" and all was light.  
 
 On the ceiling of the rotunda of the United States Capitol, there is a large
 painting called [The Apotheosis of George Washington](https://www.wikiwand.com/en/The_Apotheosis_of_Washington/), showing the great man
