@@ -22,7 +22,7 @@ nofollow: false
 When Newton published the *Principia*, he was apotheosized. The god-like
 intellect, which o'er the cosmos casts its eye of light, that sort of thing.
 
-To quote Pope's eulogy:
+To quote Pope's eulogy:  
 > Nature and Nature's laws lay hid in night: 
 > God said, "Let Newton be!" and all was light.
 
