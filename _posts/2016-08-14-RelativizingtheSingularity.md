@@ -19,8 +19,7 @@ nofollow: false
 
 ## The Ordinary Course of Revolution<a id="orgheadline1"></a>
 
-When Newton published the *Principia*, he was apotheosized. The god-like
-intellect, which o'er the cosmos casts its eye of light, that sort of thing.
+When Newton published the *Principia*, he was *apotheosized*.  
 
 To quote Pope's eulogy:
 
@@ -30,7 +29,10 @@ To quote Pope's eulogy:
 On the ceiling of the rotunda of the United States Capitol, there is a large
 painting called [The Apotheosis of George Washington](https://www.wikiwand.com/en/The_Apotheosis_of_Washington/), showing the great man
 seated in the clouds, clad in a Roman toga, having become a sort of demiurge.
-I mean, it's absurd, and that's what happened to Newton.
+
+I mean, that painting is absurd, and that's what happened to Newton. The
+god-like intellect, which o'er the cosmos casts its eye of light, that sort of
+thing.
 
 A similar kind of shock and awe overtook the Western world during the Industrial
 Revolution. Mendeleev's table had come out in 1869, Lovelace and Babbage and
