@@ -48,7 +48,7 @@ secrets of the universe.
 
 By that time, Kuhn and Popper and others had enough historical data to begin to
 think about the process of scientific revolutions. These worldview-shattering,
-humanity-shattering scientific discoveries were to be somewhat&#x2026; expected.
+humanity-altering scientific discoveries were to be somewhat&#x2026; expected.
 
 The scientific community in general became more adept at thinking about
 uncertainty in their theories. The vocabulary of *models* took over, a key change,
@@ -92,6 +92,15 @@ Roughly put, the field is divided between those who believe we can design a
 superhuman general intelligence that is friendly to humans, those who point out
 the weak have never been able to control the strong, and those who believe we
 will unite with our machines to become silicon-carbon cyborgs.
+
+As a result, we are currently discussing our latest world-altering intellectual
+revolution. Unlike previous revolutions, the idea of a technological singularity
+is more technological than scientific, but there's a similar sense that "this
+could change everything," a similarly apocalyptic tone.
+
+The debate is eschatological not only in the fear that we might not survive it,
+but also in the sense that a technological singularity would mean the end of
+history, in a sense.
 
 ## A Word with Our Descendants<a id="orgheadline3"></a>
 
