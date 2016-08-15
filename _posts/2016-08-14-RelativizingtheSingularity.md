@@ -98,9 +98,10 @@ revolution. Unlike previous revolutions, the idea of a technological singularity
 is more technological than scientific, but there's a similar sense that "this
 could change everything," a similarly apocalyptic tone.
 
-The debate is eschatological not only in the fear that we might not survive it,
-but also in the sense that a technological singularity would mean the end of
-history, in a sense.
+The debate is eschatological or apocalyptic not only in the fear that we might
+not survive it, but also in the sense that a technological singularity would
+mean the end of intellectual history, in a sense. If it comes, it comes, and
+then everything we've done will be dwarfed. What more is there to say?
 
 ## A Word with Our Descendants<a id="orgheadline3"></a>
 
@@ -123,7 +124,7 @@ What would they say about the Singularity? For them, it was a revolution in
 life, a historic step forward. Still, time and again they have encountered
 similar events of seemingly cosmic significance.
 
-Remember when - they say - the first time we figured out how to access a higher
+Remember - they say - the first time we figured out how to access a higher
 dimension? Remember when we hit 80% of lightspeed for the first time? Remember
 when we confirmed the existence of other universes? Remember when we encountered
 an older and more powerful civilization for the first time? (Boy were we lucky
