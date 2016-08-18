@@ -74,7 +74,7 @@ and dense. After that, Rich Hickey's [[http://clojure.org/about/spec][Rationale 
 The code I quote below is from the Lambda Island video.
 
 **** A Few Basic Notes
-Basically, Spec has "regexes" for data.
+Basically, Spec has "regexes" for data, which allows us to describe the shape of our data.
 
 `(s/valid? (s/cat :num number? :key keyword?) [5 :x])` will return true.
 
