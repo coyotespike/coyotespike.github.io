@@ -1,0 +1,131 @@
+#+BEGIN_HTML
+---
+layout: post
+title: A Shallow Dive into Clojure's core.spec
+date: 2016-08-18 11:49
+# Should be longer than 20 words, so it will appear as post summary
+description: Why the new Spec library can make us (me) better programmers
+# tags will also be used as html meta keywords.
+tags:
+  - programming
+
+show_meta: true
+comments: true
+mathjax: true
+gistembed: true
+published: true
+noindex: false
+nofollow: false
+---
+#+END_HTML
+
+*** Typing and Testing
+Typed languages force you to specify what sort of data you are passing to a
+function, and what you expect to get back. You have to /annotate/ your code as you
+write it. When you run your code, if you pass it the wrong data it will
+immediately fail.
+
+When I first tried out ML, types didn't make sense to me - I just want to write
+a function to do stuff! Especially because we don't have types, though it's even
+more important for us dynamic language users to practice Test-Driven
+Development. /First/ write your test, what you expect to see, and /then/ write your
+function, and then test your function. Did it do what you expected?
+
+Tests and types serve a similar purpose. They let us go on to write other parts
+of our program without worrying that we'll break previous parts of our program.
+
+An analogy may be in order. Search and curation are reciprocal problems. If you
+have a huge amount of information, you need to search through it and it's hard
+to lay your hand on what you want. So you need to curate it, to build a
+selective list. But then this list is too limited and starts to expand, and you
+need search.
+
+In the same way, dynamic and typed languages address reciprocal problems. If you
+describe your expected data too precisely, you are bogged down in endless type
+annotations (you have to write out a lot of stuff), and you cannot freely
+combine and build data. It's boring and suffocating. If you don't describe your
+data, you have no assurances of what will happen and you spend a lot of time
+addressing one bug after another, and you cannot change your program freely
+without introducing more bugs. It's tense and constricting.
+
+It's best to view dynamic and typed languages on a continuum. What gets checked
+where? Even in a dynamic language, (* 3 "myname") will throw an error, and even
+in a typed language you can get away with some stuff.
+
+*** Staying Light and Loose
+core.spec wants to avoid introducing too much restriction via the back door with
+excessive schemas for your data, while avoiding manual parsing and error
+reporting. Because property-based generative testing works better than writing
+your own tests, Spec wants to enable that. 
+
+Spec thus aims to be expressive, like a good dynamic language ought, while
+capturing some of the advantages of typing and avoiding its disadvantages, and
+also enable generative testing. Bold claim!
+
+clojure.spec allows you to describe the data your functions expect and return,
+and even better the /shape/ of the data. The /shape/ of your data tells you more, in
+many ways, than the mere static /type/ of your data.
+
+*** A Few Notes
+Lambda Island has a wonderful [[https://lambdaisland.com/episodes/clojure-spec][Introduction to Clojure Spec]] - it's fast-moving
+and dense. After that, Rich Hickey's [[http://clojure.org/about/spec][Rationale and Overview]], and the blog post
+[[http://gigasquidsoftware.com/blog/2016/05/29/one-fish-spec-fish/][One Fish Spec Fish]] are very helpful.
+
+The code I quote below is from the Lambda Island video.
+
+**** A Few Basic Notes
+Basically, Spec has "regexes" for data.
+
+`(s/valid? (s/cat :num number? :key keyword?) [5 :x])` will return true.
+
+`s/cat` gives you an ordered sequence of expected values, so you can tell Spec
+that you want a name followed by a telephone number. 
+
+If you use a namespaced keyword in your spec, Spec will use
+them as keywords, and will also use them as specs in their own right to validate
+the corresponding value.
+
+For instance, in `(s/def ::recipe (s/keys :req [::ingredients] :opt
+[::steps]))`, Spec will go look up `::ingredients`, a spec you've previously
+defined, and run a check on that as well.
+
+This technique is vital to Spec's goal of allowing you to dynamically compose
+and build up maps. What data should go in `::ingredients`? You won't tell Spec
+in the `::recipe` spec. That would limit you as you combine different recipe
+maps. Instead, tell Spec in the `::ingredients` map. Now you can provide specs
+for different maps, and also freely combine them.
+
+Further, your ::ingredients map spec will get checked first, before ::recipe's
+spec, and you will fail fast.
+
+(Interestingly, if you want `s/cat` adds a further operation. It checks that it
+gets all the data, but it returns the data slotted in with the keywords you
+specified. By using `s/conform` with `s/cat`, you've transformed your data.
+
+To build more sophisticated data descriptions, like "my user needs to provide
+either a phone number or an email," `s/alt` lets you pick one or the other. No
+more defining tests as you write your Reactive code!
+
+Be aware that our data regexes won't reach inside collections by default. We can
+use something like `(s/cat :nums (s/coll-of number? []))` to reach inside.  Or you
+can nest your s/spec calls to look at each nested collection, which is in
+particular the right way to use your regex spec: `(s/cat :nums (s/spec (s/+
+number?)))`.
+
+You can fully specify a function by providing three specs: one for its
+arguments, one for its return value, and one for the operation of the function.
+You can put all three of these in s/fdef, and you can call s/instrument on your
+function to get a wrapped version of your function testing the arguments spec.
+
+After you're done all that, as much as you would like, `s/gen` will generate
+tests for you. `s/explain` generates an error message, and formats it in a
+string with `s/explain-str` or as data with `s/explain-data`.
+
+*** Flexible and Powerful
+I'm hoping that Spec will make typing look downright /limited/ as a program
+description. Ambrose Bonnaire-Sergeant is working on generating automatic type
+annotations with Typed Clojure, and I'm curious to see how Spec could take
+advantage of that project.
+
+The future looks bright for an even more expressive and /safe/ language that goes
+beyond the old typed-dynamic antagonisms!

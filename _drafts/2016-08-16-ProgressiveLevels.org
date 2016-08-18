@@ -1,0 +1,194 @@
+#+BEGIN_HTML
+---
+layout: post
+title:
+date: 2016-08-16 11:19
+# Should be longer than 20 words, so it will appear as post summary
+description:
+# tags will also be used as html meta keywords.
+tags:
+  - synthetic biology
+
+show_meta: true
+comments: true
+mathjax: true
+gistembed: true
+published: true
+noindex: false
+nofollow: false
+---
+#+END_HTML
+
+I want to generalize one of the commonalities of approaching a new domain, an
+emotional tone of patience and attention to detail, to emotional and even
+existential progress.
+
+Talking about emotional or psychological or existential progress pushes us right
+away into dangerously woo territory. I'll try to be concrete without banality.
+
+*** The Mature Athlete
+The gymnastics strength training coach Christopher Sommers distinguishes between
+mature and immature athletes. Regardless of age, if an athlete recognizes the
+need to gradually build up joint strength, flexibility and mobility, and
+muscular strength, and is willing to put in the long hours to do so without
+trying to skip ahead to the cool stuff, then that athlete is mature.
+
+Many athletes are /impatient/. We're tough, we'll push through, we'll absorb the
+pain while we wait for our bodies to catch up. We'll hack this system. Or so we
+think. In reality, "glory is temporary, pain is forever." Most of us accumulate
+small niggling injuries which may not go away, and trying to do too much too
+soon is a great way to accumulate such injuries.
+
+Similarly, Pavel Tsatsouline's Simple and Sinister program dictates - a good
+word for Pavel's self-satirical style - that you do not progress until the
+weight feels easy. Be patient, don't get distracted by shiny new exercises. Milk
+the exercise for all it's worth.
+
+Sommers has kind of a mobility-first approach, while Pavel's approach is right
+in the name of his organization, "Strong First." Despite those differences, they
+hold each other in high regard. It's this attention to detail, this patience,
+this seemingly-excessive focus on the fundamentals, which I think unites
+Christopher Sommers and folks like Pavel Tsatsouline.
+
+*** Training as Personal Growth
+
+There's an idea in regions of psychology that it is not so much our cores which
+define us, but our boundaries. The boundaries of our psyche are what distinguish
+us from the world, and thus they are where we define ourselves. From infancy,
+our bodies and the limits of our physical abilities define our power over the
+world and our relation to it. As we mature, our physical abilities expand, and
+as we train they continue to expand and refine.
+
+For that reason, I think physical training can continue for the duration of our
+lives to be an area of psychological and emotional growth. Physical training can
+be an ever-expanding region of effort, of struggle, of self-definition and
+self-exploration. As our physical abilities expand, so does the edge where we
+continue to test and define ourselves.
+
+Partly because physical training can play such a key role in personal
+development, physical training can allow us to experience the mechanism and the
+benefits of patience, of attention to detail, and of long-term steady
+achievement.
+
+Now we are starting to get to where I really want to go.
+
+*** Hierarchy of Survival
+Venkatesh Rao gives Maslow's hierarchy of needs a life-and-death
+interpretation. Just as Maslow said, we generally don't care much about higher
+elements of the pyramid until we have satisfied lower elements. If I'm starving,
+I don't care much about the esteem of others. I'll beg.
+
+Religious or inspirational messages often seem to say that higher elements can
+be more fundamental in some way.
+
+You will know that you have reached a higher level of the pyramid when it
+becomes a matter of life and death. If you don't have enough food, you starve
+and die, that's easy to see. If you fail to win any love and affection from
+someone else, you might commit suicide, and at the least you'll live a shorter
+life (powerless or lonely people die sooner). And if you do satisfy those needs
+sufficiently, then you may encounter a challenge of self-actualization, and if
+you are unable to win this fight you may also die. You may burnout and become
+depressed, a broken person.
+
+Rao also comments that many young people take a gap year or five to travel the
+globe in search of self-actualization. But at their stages of personal
+development, the quest is delusional. They wouldn't know a self-actualization
+challenge if it hit them in the face. What they really need is to win the esteem
+of others and of themselves. Globe-trotting can be a means of avoiding that
+challenge, or of course a means of building one's prestige and friendships, in
+which case rock on.
+
+Just like physical training, it's foolish to attempt a higher level without
+laying the groundwork for it. You have to be honest, you have to accurate and
+precise, you have to be patient. Pretending to higher levels of the pyramid than
+you have got will only make you sound annoyingly pretentious, to yourself and to
+others.
+
+*** Egan's Five Stages
+The physical and the existential lead us to the emotional.
+
+David Chapman explains, with some additions of his own, Egan's stages of
+development.
+
+We all remember the hilarious, ridiculous drama of middle school. Who would
+attend whose party, so and so wanted to come but wasn't sure, and now we need to
+be concerned about their feelings. This exemplifies the third stage. The moral
+demands of each person are absolute. To be a good friend, to be the person who
+is these relationships, is to be in constant crisis mode.
+
+Without much thinking about most of us graduate to recognizing that prior
+obligations may come first, and certain roles may come first ("I'm sorry, but my
+mom is sick, so even though you /right now/ want me to come, I can't"). We have
+now emotionally and socially graduated to the fourth stage, that of systems.
+
+While most people graduate to systems in their social lives, prioritizing
+appointments and spouses and so on (some cultures do not), many people don't in
+their political lives. Both the political right and the political left
+
+Much of the historic antagonism toward businesspeople, lawyers, financiers,
+comes from this hostility toward seemingly-impersonal systematization.
+
+Moving to a higher stage takes place in fits and starts and over long periods of
+time. One may regress.
+
+To return to my theme, because a single person can range in different personal
+areas over stages, it's important to recognize where you are. In some ways I
+personally am stage 5, having recently moved on from a distressing valley in
+stage 4.5. In other ways I can see I'm stage three, or four, or hell even stage
+two (which distresses my friends).
+
+It will do me no good at all to geek out about stage 5 if I am back in
+stage 3. The transition takes time and attention to detail.
+
+*** Emotional Work
+It's at this point that I think the idea of emotional work, such as therapy or
+certain kinds of meditation, can come in.
+
+*** Tactics
+
+The chess and martial arts wunderkind Josh Waitzkin writes:
+"In performance training, first we learn to flow with whatever comes. Then we
+learn to use whatever comes to our advantage. Finally, we learn to be completely
+self-sufficient and create our own earthquakes, so our mental process feeds
+itself explosive inspirations without the need for outside stimulus."
+
+These three stages have much in common with the Stoic idea that "the obstacle
+becomes the way."
+
+Here is a toy problem illustrating how this might work. You're a budding film
+director, recruiting actors for your newest project. You're not entirely sure
+about your leading man. You ask your assistant director to do a casting call to
+line up some alternatives. Unfortunately, your assistant director somehow misses
+the "please be discreet" subtext and advertises on Facebook, using your
+name. You get a huffy email from your leading man's agent: sorry, the dates
+don't work out.
+
+Now you have no leading man, probably two new enemies (the former leading man
+and his agent), you're unhappy with your AD, and with such a bad start you fear
+the entire production will be this way.
+
+The most natural thing in the world is to freak out a bit, call a friend,
+withdraw, go into denial ("no worries, we'll be absolutely fine").
+
+At the first level, you gird your loins and flow with whatever comes. Let's go
+get a new leading man. At the second level, you use it to your advantage. Let's
+have a drink with the former leading man and explain how disappointed you are
+that he couldn't be in your film. This gives you a good relationship with the
+former leading man, and you also get to build relationships with new potential
+actors. The whole thing may work out to your long-term advantage. At the third
+level, you don't need setbacks to spur you on.
+
+To emotionally process and metabolize the challenge, and also to maintain one's
+center and be ready to move on, is a non-trivial challenge. Learning to do so is
+a problem worthy of an adult.
+
+Anyway, that's the general idea. However, I for one don't have much experience
+practically implementing these ideas. The temptation is to read it, or at least
+to feel it, as a "mind over matter" idea. Look, just get through it, have some
+faith that it will all pan out, it will work to your advantage.
+
+I am pretty sure such an approach simply will not work. As we said in the Army,
+"crawl, walk, run." Be specific: how many obstacles have we recently
+encountered? How fully did we face them and resolve them, and on what time
+scale? If we are not overcoming our obstacles steadily, we're not ready to start
+thinking about the seemingly-softer ideas of flow. It is just a waste of time.
