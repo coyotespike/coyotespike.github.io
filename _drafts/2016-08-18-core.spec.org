@@ -25,7 +25,7 @@ function, and what you expect to get back. You have to /annotate/ your code as y
 write it. When you run your code, if you pass it the wrong data it will
 immediately fail.
 
-When I first tried out ML, types didn't make sense to me - I just want to write
+When I first tried out [[https://en.wikipedia.org/wiki/Standard_ML][ML]], types didn't make sense to me - I just want to write
 a function to do stuff! Especially because we don't have types, though it's even
 more important for us dynamic language users to practice Test-Driven
 Development. /First/ write your test, what you expect to see, and /then/ write your
