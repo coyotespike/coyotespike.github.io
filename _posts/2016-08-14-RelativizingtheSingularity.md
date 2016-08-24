@@ -30,6 +30,8 @@ On the ceiling of the rotunda of the United States Capitol, there is a large
 painting called [The Apotheosis of George Washington](https://www.wikiwand.com/en/The_Apotheosis_of_Washington/), showing the great man
 seated in the clouds, clad in a Roman toga, having become a sort of demiurge.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Apotheosis_of_George_Washington.jpg/800px-Apotheosis_of_George_Washington.jpg">
+
 I mean, that painting is absurd, and that's what happened to Newton. The
 god-like intellect, which o'er the cosmos casts its eye of light, that sort of
 thing.
@@ -42,6 +44,7 @@ more physical laws to discover. You get the sense that the scientists in the
 late Victorian Age were just overcome with how much they knew, how much they'd
 discovered in such a short time.
 
+<img src="http://www.toptenz.net/wp-content/uploads/2014/01/lord-kelvin.jpg">
 Then, of course, Einstein, Bohr, Gödel, Turing, von Neumann struck. Again,
 Einstein in particular became a massive celebrity, the one who had unlocked the
 secrets of the universe.
@@ -69,6 +72,8 @@ Hegelian framework of continuing intellectual progress. Our meta-model, if you
 will, of the scientific process which constructs all our scientific models, now
 embraces revolution as the ordinary course of scientific work.
 
+<img src="http://s2.quickmeme.com/img/28/28f07d21fd547904a75ee9b6bff56cc2cd339ab298a02ec89cf72b58bdaaf9b5.jpg">
+
 We honor Crick and Watson, but we do not apotheosize them. No clouds and togas
 for them! Our awe at the shocks to our intellectual girdings has diminished.
 
@@ -93,6 +98,9 @@ superhuman general intelligence that is friendly to humans, those who point out
 the weak have never been able to control the strong, and those who believe we
 will unite with our machines to become silicon-carbon cyborgs.
 
+[![IMAGE ALT TEXT](http://na.square-enix.com/sites/default/files/imagecache/post-image/image_gallery/812/e35dae1fba741ba59cef4013db6ef373.png)](https://www.youtube.com/watch?v=QWm5m2L9w8I "Human by Design")
+(click to watch in YouTube)
+
 As a result, we are currently discussing our latest world-altering intellectual
 revolution. Unlike previous revolutions, the idea of a technological singularity
 is more technological than scientific, but there's a similar sense that "this
@@ -115,6 +123,8 @@ quasi-intelligent machines. Perhaps they are cyborgs, traces of humans who have
 evolved and merged into something beyond our comprehension still
 remaining. Perhaps humans and machines live together as equals, like in Iain
 Banks' *Culture* series.
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--B3VYwAjC--/17zfg4k1yv18jjpg.jpg">
 
 At any rate, even if they do not look much like us, they are something in whose
 history we played a role. They could look back to us as we look back to the
