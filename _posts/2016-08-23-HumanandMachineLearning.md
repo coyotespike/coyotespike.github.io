@@ -19,7 +19,7 @@ noindex: false
 nofollow: false
 ---
 
-# Learning More Better<a id="orgheadline1"></a>
+## Learning More Better<a id="orgheadline1"></a>
 
 Sometimes when I pause to reflect on how much we know about optimizing human
 learning, I'm just staggered. There's truly a craft and an art to learning
@@ -31,12 +31,12 @@ Young, [Kalid Azad](https://betterexplained.com/), [Dr. Barbara Oakley](https://
 tools such as Anki or [Memrise](https://www.memrise.com/).
 
 Metalearning has some core similarities across fields, but also some
-differences. For instances, in my experience spaced-repetition software works
-brilliantly for chemistry concepts or language vocabulary, but not so well for
-mathematics! For mathematics, a steady, clear-sighted deep dive into every
-single concept that supports the main chunked concept works better.
+differences. For instance, in my experience, spaced-repetition software like
+Anki works brilliantly for chemistry concepts or language vocabulary, but not so
+well for mathematics! For mathematics, a steady deep dive into every single
+concept that supports the main chunked concept works better.
 
-# Dreaming of Electric Sheep<a id="orgheadline2"></a>
+## Dreaming of Electric Sheep<a id="orgheadline2"></a>
 
 Suppose you're interested in data science. And why not? Programming lets us do
 more than ever before, statistics helps us view the world in exciting and more
@@ -52,7 +52,7 @@ Well, then, why not pause for a moment to consider the best and fastest way to
 learn this stuff? What's the most effective way for a human to learn how
 machines learn?
 
-# Actually that's easy<a id="orgheadline3"></a>
+## Actually that's easy<a id="orgheadline3"></a>
 
 Fortunately, several people have already done most of the hard thinking for us.
 
@@ -87,17 +87,17 @@ portfolio. This post backs up the post I described above, because building a
 portfolio bite by bite is a logical way to learn machine learning. You'll end up
 with a portfolio [that looks like this](http://www.learningwithdata.com/), and you'll know data science.
 
-# A structured course<a id="orgheadline4"></a>
+## A structured course<a id="orgheadline4"></a>
 
 There are also two websites that let you practice - not just learn
-theoretically, but practice - data science in your browser. The browser-based
+theoretically, but *practice* - data science in your browser. The browser-based
 format means you can get up and running quickly, and it means you can read and
 practice at the same time. 
 
 Both have good reviews, so choose based on your preferred language. [Dataquest](https://www.dataquest.io) is
 Python-focused, and [DataCamp](https://www.datacamp.com) is R-focused.
 
-# How is this metalearning?<a id="orgheadline5"></a>
+## How is this metalearning?<a id="orgheadline5"></a>
 
 A lot of smarter learning comes down to actually practicing what you need to
 practice, and avoiding ineffective or misleading study practices.
