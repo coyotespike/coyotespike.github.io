@@ -1,17 +1,3 @@
-<div id="table-of-contents">
-<div id="text-table-of-contents">
-<ul>
-<li><a href="#orgheadline1">1. The Why's and Wherefore's</a></li>
-<li><a href="#orgheadline2">2. Finding git files</a></li>
-<li><a href="#orgheadline3">3. Further Organizing Git: A Test</a></li>
-<li><a href="#orgheadline4">4. Setting up a new Git folder</a></li>
-<li><a href="#orgheadline5">5. Setting up the Shell Script</a></li>
-<li><a href="#orgheadline6">6. Scheduling with Crontab</a></li>
-<li><a href="#orgheadline7">7. And that's it!</a></li>
-</ul>
-</div>
-</div>
-
 ---
 layout: post
 title: Setting Git to Automatically Back Up My Files
@@ -30,8 +16,22 @@ published: true
 noindex: false
 nofollow: false
 ---
+<div id="table-of-contents">
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#orgheadline1">1. The Why's and Wherefore's</a></li>
+<li><a href="#orgheadline2">2. Finding git files</a></li>
+<li><a href="#orgheadline3">3. Further Organizing Git: A Test</a></li>
+<li><a href="#orgheadline4">4. Setting up a new Git folder</a></li>
+<li><a href="#orgheadline5">5. Setting up the Shell Script</a></li>
+<li><a href="#orgheadline6">6. Scheduling with Crontab</a></li>
+<li><a href="#orgheadline7">7. And that's it!</a></li>
+</ul>
+</div>
+</div>
 
-# The Why's and Wherefore's<a id="orgheadline1"></a>
+
+### The Why's and Wherefore's<a id="orgheadline1"></a>
 
 If you woke up to find your house burning, what would you grab as you ran out?
 Okay, yes, your children and significant other, but *besides* those?
@@ -64,7 +64,7 @@ With this system in place, I guess if my house burns down, my hands will be
 empty? What about my stash of chocolate chip cookies?? Whatever, let's get
 started.
 
-# Finding git files<a id="orgheadline2"></a>
+### Finding git files<a id="orgheadline2"></a>
 
 First things first: what do I even have lying around on my computer? Going to my
 Documents folder in my shell, I enter: `find . -name '.git' -type d`.
@@ -73,7 +73,7 @@ This command delivers a long list of Git repos - much more than I thought I had!
 Happily, I only see two (mostly empty) nested git folders, whew! I delete these
 folders.
 
-# Further Organizing Git: A Test<a id="orgheadline3"></a>
+### Further Organizing Git: A Test<a id="orgheadline3"></a>
 
 However, I kind of have a problem. I have a lot of git-tracked projects already
 underneath my Documents folder, and in the root of my Documents folder I have
@@ -105,7 +105,7 @@ confidence that I can make Git ignore nested Git repos safely, even if this
 isn't best practice. And so I can track files in Documents, without moving them
 or my existing Git repositories.
 
-# Setting up a new Git folder<a id="orgheadline4"></a>
+### Setting up a new Git folder<a id="orgheadline4"></a>
 
 All right, I `git init` in my Documents folder, and set up the Git remote -
 Bitbucket has free private repos, GitHub has paid ones for cheap.
@@ -134,7 +134,7 @@ Or I can set up my `.gitignore` the other way around, like this:
     # Ignore this directory
     BoringDirectory/*
 
-# Setting up the Shell Script<a id="orgheadline5"></a>
+### Setting up the Shell Script<a id="orgheadline5"></a>
 
 Now that we're all set up with Git, we need to write a shell script, and then
 set this script to run automatically.
@@ -158,7 +158,7 @@ me to do this instead:
 In the future, I can use [this guide](http://ptrbrtz.net/scheduled-automatic-local-backups-versioning-using-git-on-os-x/) or [this guide](http://www.michaelwnelson.com/2014/02/06/automatically-backup-git-with-cron/) as references if I want to
 upgrade my shell script.
 
-# Scheduling with Crontab<a id="orgheadline6"></a>
+### Scheduling with Crontab<a id="orgheadline6"></a>
 
 Crontab is a Unix utility, meaning it's a simple command-line program that does
 one thing and does it clearly and well.
@@ -174,7 +174,7 @@ And as [this guide backing up to Dropbox](https://eothred.wordpress.com/2010/08/
 If struggling with vim is too much for you, put the little crontab script above
 into a txt file, then run `crontab <filename>` on the command line.
 
-# And that's it!<a id="orgheadline7"></a>
+### And that's it!<a id="orgheadline7"></a>
 
 All important documents will now be safely stored, automatically and
 securely. Naturally I've encrypted private documents as necessary, as we
