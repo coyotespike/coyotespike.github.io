@@ -38,14 +38,18 @@ Okay, yes, your children and significant other, but *besides* those?
 
 As a data scientist, programmer, and lawyer, obviously I'd grab my computer, the
 caretaker of my personal information and thoughts, my gateway to education and
-opportunities. After all, most of us in the digital age have no valuable papers,
+opportunities.
+
+After all, most of us in the digital age have no valuable papers,
 stocks, or bonds lying around (hey, that's just how I imagine life 40 years ago,
 okay). If you've followed Marie Kondo's advice, your box of mementos might be
 trim and small too.
 
 Relying mainly on one piece of hardware allows unprecedented amounts of
 flexibility. That freedom has given rise to all of us (kind-of) digital nomads.
-Still, we can do better. What if the computer dies, or gets lost or stolen? What
+Still, we can do better.
+
+What if the computer dies, or gets lost or stolen? What
 if you're traveling across borders and don't want to lug a heavy computer
 around? And what if you're aware that the US government claims the right to copy
 your hard drive (yes, US citizens too) every time you cross the border? Clearly
@@ -61,8 +65,9 @@ accessible from any netbook, but making my information accessible wherever I am,
 and safe from local loss, is a great start.
 
 With this system in place, I guess if my house burns down, my hands will be
-empty? What about my stash of chocolate chip cookies?? Whatever, let's get
-started.
+empty? What about my stash of chocolate chip cookies??
+
+Whatever, let's get started.
 
 ### Finding git files<a id="orgheadline2"></a>
 
@@ -82,10 +87,11 @@ files I'd like to track.
 As a result, I have two options. I can remove all the git folders at the
 "leaves" of my directory structure, and then make a parent git folder with
 submodules, under Documents. Or, I can stray into forbidden territory and try to
-nest regular git folders in a safe way.  Why is nesting git folders a bad idea?
-This can cause issues, as the outer folder is also trying to track the inner
-folder. Git submodules are certainly the way to go if possible, and I'd
-definitely use them if starting from scratch. 
+nest regular git folders in a safe way.
+
+Why is nesting git folders a bad idea?  This can cause issues, as the outer
+folder is also trying to track the inner folder. Git submodules are certainly
+the way to go if possible, and I'd definitely use them if starting from scratch.
 
 For instance, this [Stackoverflow](http://stackoverflow.com/questions/10205438/can-i-have-a-nested-git-repo-inside-a-git-ignored-folder) thread warns that `git clean -dfx` in the outer
 repo will remove the nested repo altogether! I don't plan on running that
@@ -134,6 +140,9 @@ Or I can set up my `.gitignore` the other way around, like this:
     # Ignore this directory
     BoringDirectory/*
 
+Either way, I make sure that this Git repo will ignore all folders with Git
+repos inside them.
+
 ### Setting up the Shell Script<a id="orgheadline5"></a>
 
 Now that we're all set up with Git, we need to write a shell script, and then
@@ -170,6 +179,9 @@ See this [great little page](https://corenominal.org/2016/05/12/howto-setup-a-cr
 
 And as [this guide backing up to Dropbox](https://eothred.wordpress.com/2010/08/18/git-backup-with-dropbox/) explains, your crontab job should look something like:
 `@hourly ID=backupgitrepos nice -n 19 /path/to/script/backupGit.sh >> /path/to/script/backupLog.txt 2>&1`
+
+Theis command will make Crontab run your task every hour, although I used
+`@midnight` instead, and then put the log results into a text file.
 
 If struggling with vim is too much for you, put the little crontab script above
 into a txt file, then run `crontab <filename>` on the command line.
