@@ -167,9 +167,13 @@ me to do this instead:
 In the future, I can use [this guide](http://ptrbrtz.net/scheduled-automatic-local-backups-versioning-using-git-on-os-x/) or [this guide](http://www.michaelwnelson.com/2014/02/06/automatically-backup-git-with-cron/) as references if I want to
 upgrade my shell script.
 
-### Scheduling with Crontab<a id="orgheadline6"></a>
+Finally, we need to make this script executable - we need to give our computer
+permission to run it. You can google this, or run something like `chmod 0700 backupGit.sh`,
+which gives you as owner permission to run it.
 
-Crontab is a Unix utility, meaning it's a simple command-line program that does
+### Scheduling with Cron<a id="orgheadline6"></a>
+
+Cron is a Unix utility, meaning it's a simple command-line program that does
 one thing and does it clearly and well.
 
 To start using, run `crontab -e` on your command line. This will open your crontab
@@ -180,11 +184,13 @@ See this [great little page](https://corenominal.org/2016/05/12/howto-setup-a-cr
 And as [this guide backing up to Dropbox](https://eothred.wordpress.com/2010/08/18/git-backup-with-dropbox/) explains, your crontab job should look something like:
 `@hourly ID=backupgitrepos nice -n 19 /path/to/script/backupGit.sh >> /path/to/script/backupLog.txt 2>&1`
 
-Theis command will make Crontab run your task every hour, although I used
-`@midnight` instead, and then put the log results into a text file.
+This command will make Cron run your task every hour (although I used
+`@midnight` instead) and then put the log results into a text file.
 
 If struggling with vim is too much for you, put the little crontab script above
 into a txt file, then run `crontab <filename>` on the command line.
+
+You can check if Cron has your job with `crontab -l`, which will show all tasks.
 
 ### And that's it!<a id="orgheadline7"></a>
 
