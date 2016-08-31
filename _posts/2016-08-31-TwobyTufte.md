@@ -1,20 +1,3 @@
-<div id="table-of-contents">
-<h2>Table of Contents</h2>
-<div id="text-table-of-contents">
-<ul>
-<li><a href="#orgheadline4">1. <i>The Visual Display of Quantitative Information</i></a>
-<ul>
-<li><a href="#orgheadline1">1.1. The Lie Factor</a></li>
-<li><a href="#orgheadline2">1.2. Simplicity and Ink Minimization</a></li>
-<li><a href="#orgheadline3">1.3. Concrete Recommendations</a></li>
-</ul>
-</li>
-<li><a href="#orgheadline5">2. <i>Envisioning Information</i></a></li>
-<li><a href="#orgheadline6">3. Details and Data</a></li>
-</ul>
-</div>
-</div>
-
 ---
 layout: post
 title: Two by Tufte
@@ -34,13 +17,29 @@ published: true
 noindex: false
 nofollow: false
 ---
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#orgheadline4">1. <i>The Visual Display of Quantitative Information</i></a>
+<ul>
+<li><a href="#orgheadline1">1.1. The Lie Factor</a></li>
+<li><a href="#orgheadline2">1.2. Simplicity and Ink Minimization</a></li>
+<li><a href="#orgheadline3">1.3. Concrete Recommendations</a></li>
+</ul>
+</li>
+<li><a href="#orgheadline5">2. <i>Envisioning Information</i></a></li>
+<li><a href="#orgheadline6">3. Details and Data</a></li>
+</ul>
+</div>
+</div>
 
 Having heard Edward Tufte's name many times over the last few years, I thought
 I'd start with what seem to be his best books: *Envisioning Information* and *The
 Visual Display of Quantitative Information*. Both are under 200 pages, and of
 course have lots of pictures, though they reward leisurely reading.
 
-# *The Visual Display of Quantitative Information*<a id="orgheadline4"></a>
+## *The Visual Display of Quantitative Information*<a id="orgheadline4"></a>
 
 Some reviews thought VDQI read like a textbook. While it does clearly enunciate
 guiding principles - it consciously *teaches* - the book lacks the sterile and
@@ -69,7 +68,7 @@ three quite different skills: the substantive, statistical, and graphic."
 Tufte's many elegant examples, and dryly humorous commentary on the poor
 examples, illustrate a few fundamental and far-reaching principles.
 
-## The Lie Factor<a id="orgheadline1"></a>
+### The Lie Factor<a id="orgheadline1"></a>
 
 For one, the graphics must reflect the magnitude and ordering of the data. If
 for political reasons the graphic exaggerates the drop in revenue, or the
@@ -82,7 +81,7 @@ the data. A picture is not an excuse to make up proportions. With this idea in
 hand, you'll see lies everywhere in graphics, attempting to slip in under your
 critical radar.
 
-## Simplicity and Ink Minimization<a id="orgheadline2"></a>
+### Simplicity and Ink Minimization<a id="orgheadline2"></a>
 
 Tufte's Strunkian quest pursues another theme through many charts:
 
@@ -134,7 +133,7 @@ look attractive, for reasons hard to express until you know how it was done. The
 Lanyon Plus blog theme, for instance (like this website) is extremely simple,
 not elegant, yet easy to read. I mean, let's not end up with Word or Excel!
 
-## Concrete Recommendations<a id="orgheadline3"></a>
+### Concrete Recommendations<a id="orgheadline3"></a>
 
 Scattered throughout, and especially toward the end of the book, Tufte provides
 some specific rules. These are not *hard* rules, mostly, but helpful suggestions.
@@ -174,7 +173,7 @@ graphic.
 
 Design is choice, he enjoins us, and we should choose so as to reveal the complex.
 
-# *Envisioning Information*<a id="orgheadline5"></a>
+## *Envisioning Information*<a id="orgheadline5"></a>
 
 If VQDI was about accuracy and simplicity, EI is more about complexity. How can
 we represent many dimensions - all the aspects of the problem which matter - on
@@ -228,7 +227,7 @@ is subtle and exacting."
 > Often the less complex and less subtle the line, the more ambiguous and less
 > interesting is the reading.
 
-# Details and Data<a id="orgheadline6"></a>
+## Details and Data<a id="orgheadline6"></a>
 
 At the end of the day, the graphic should reveal as much of reality as possible.
 
