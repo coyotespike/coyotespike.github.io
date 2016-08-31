@@ -25,7 +25,8 @@ nofollow: false
 <ul>
 <li><a href="#orgheadline1">1.1. The Lie Factor</a></li>
 <li><a href="#orgheadline2">1.2. Simplicity and Ink Minimization</a></li>
-<li><a href="#orgheadline3">1.3. Concrete Recommendations</a></li>
+<li><a href="#orgheadline9">1.3  A Theory of Data Graphics</a></li>
+<li><a href="#orgheadline3">1.4. Concrete Recommendations</a></li>
 </ul>
 </li>
 <li><a href="#orgheadline5">2. <i>Envisioning Information</i></a></li>
@@ -56,9 +57,9 @@ stupid.
 
 John Tukey, also a colleague of Richard Hamming, changed all that by
 simply ignoring the dispiriting debate over *how not to mislead so much* and
-demonstrating graphics' use as a tool for substantive data analysis.
+instead demonstrating graphics' use as a tool for substantive data analysis.
 
-> Multifunctioning graphic elements, if designed with care and subtlely, can
+> Multifunctioning graphic elements, if designed with care and subtlety, can
 > effectively display complex, multivariate data.
 
 Data visualization developed so late, and matured into respectability even
@@ -71,7 +72,7 @@ examples, illustrate a few fundamental and far-reaching principles.
 ### The Lie Factor<a id="orgheadline1"></a>
 
 For one, the graphics must reflect the magnitude and ordering of the data. If
-for political reasons the graphic exaggerates the drop in revenue, or the
+for political reasons the graphic exaggerates a drop in revenue, or an
 increase in size over time of oil pollution, the graphic *lies*. Sure,
 the barrels should get bigger - but not *that* much bigger!
 
@@ -83,20 +84,20 @@ critical radar.
 
 ### Simplicity and Ink Minimization<a id="orgheadline2"></a>
 
-Tufte's Strunkian quest pursues another theme through many charts:
+Tufte pursues his Strunkian theme through many charts:
 
 > Maximise the data-ink ratio, within reason.
 
 I was surprised at how much of the ink on a chart can be removed, making for a
 simpler and clearer chart with an increase in understanding. 
 
-For instance, on a bar chart, not only gride lines, but even the *bars* are
+For instance, on a bar chart, not only grid lines, but even the *bars* are
 redundant! The bar chart becomes a white grid. Bar plots, which usually have a
 "barrel and whiskers," become lines with dots to show the mass. The range-frame,
 or even better, the dot-dash chart, replaces the usual scatter plot grid.
 
 Another way of putting the same lesson is, "Forgo chartjunk." I will steal a
-couple of quotations from EI, which continues the analysis of chartjunk. 
+couple of quotations from *EI*, which continues the analysis of chartjunk. 
 
 Some flavors of chartjunk are silly pictures designed to entertain at a simple
 level: "Lurking behind chartjunk is contempt both for information and for the
@@ -105,6 +106,7 @@ audience."
 Some flavors of chartjunk are just design choices which overwhelm the main
 information being imparted: For instance, "Dark grid lines are chartjunk."
 
+### A Theory of Data Graphics<a id="orgheadline9"><</a>
 > The first part of a theory of data graphics is in place. The idea, as described
 > in the previous three chapters, is that most of a graphic's ink should vary in
 > response to data variation.
@@ -129,9 +131,11 @@ then she will need Tufte's book as well.
 The ink-minimization principle forbids overwrought artistry and garish
 colors. Personally, I think if we are not using beautiful colors then we must
 pay more attention to hue, font, and lines. Very simple web pages and graphs can
-look attractive, for reasons hard to express until you know how it was done. The
-Lanyon Plus blog theme, for instance (like this website) is extremely simple,
-not elegant, yet easy to read. I mean, let's not end up with Word or Excel!
+look attractive, for reasons hard to express until you know how it was done.
+
+The Lanyon Plus blog theme, for instance (like this website) is extremely
+simple, not elegant, yet easy to read. I mean, let's not end up with Word or
+Excel!
 
 ### Concrete Recommendations<a id="orgheadline3"></a>
 
