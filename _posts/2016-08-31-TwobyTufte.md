@@ -106,7 +106,7 @@ audience."
 Some flavors of chartjunk are just design choices which overwhelm the main
 information being imparted: For instance, "Dark grid lines are chartjunk."
 
-### A Theory of Data Graphics<a id="orgheadline9"><</a>
+### A Theory of Data Graphics<a id="orgheadline9"></a>
 > The first part of a theory of data graphics is in place. The idea, as described
 > in the previous three chapters, is that most of a graphic's ink should vary in
 > response to data variation.
