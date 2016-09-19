@@ -190,7 +190,21 @@ This command will make Cron run your task every hour (although I used
 If struggling with vim is too much for you, put the little crontab script above
 into a txt file, then run `crontab <filename>` on the command line.
 
+### Debugging Cron
+
 You can check if Cron has your job with `crontab -l`, which will show all tasks.
+
+You can also put something like `*/1 * * * * ID=backupgitrepos nice -n 19 /path/to/script/backupGit.sh >> /path/to/script/backupLog.txt 2>&1`,
+which will run the task every minute. You can then check your log file to see if Cron is successful.
+
+If you get the `Permission denied publickey` error, You may need to give shell
+the SSH keys for your Github/Bitbucket repo. If you don't have those set up,
+their tutorials are pretty clear.
+
+And then [http://serverfault.com/a/236437](this Stackoverflow answer) can guide
+you through installing Funtoo's keychain ('brew install keychain' on OSX) and
+then adding a few lines to your bash/zsh profiles, and the backupGit.sh script.
+That way Cron will have the keys as well, and can run the job without you.
 
 ### And that's it!<a id="orgheadline7"></a>
 
