@@ -18,8 +18,7 @@ noindex: false
 nofollow: false
 ---
 
-I'm going to start off with something you already know: sitting is bad for
-us. 
+I'm going to start off with something you already know: **sitting is bad for us.**
 
 You might remember the study with the busmen in England. One man drove the bus,
 the other man walked up and down collecting tickets. Same socioeconomic classes,
@@ -33,9 +32,10 @@ time, fast or heavy some of the time.
 In addition, as the Gymnastics Strength Training creator Christopher Sommers
 reminds us, mobility is the golden key. Every day we train our bodies to bend
 just far enough to put our hands past our knees. Every day we train our legs not
-to split any farther than about 30 degrees. After years of this, our bodies
-adapt to what we've asked of it. And then we say, "Man, as you get old, you get
-stiff! Lucky kids!"
+to split any farther than about 30 degrees. 
+
+After years of this, our bodies adapt to what we've asked of it. And then we
+say, "Man, as you get old, you get stiff! Lucky kids!"
 
 Standing desks got popular a few years ago, and despite naysayers and mockery
 it's now clear they're here to stay. Just standing up *some* of the time, or
@@ -43,16 +43,17 @@ alternating between sitting and standing, is a huge improvement. It gets you
 moving, it allows you to stretch, many people find their energy improves.
 
 Still, it's hard to stand all day. And here, ladies and gentlemen, I introduce
-my latest movement innovation: you're allowed to sit, just not in a chair. I use
+my latest movement innovation: **you're allowed to sit, just not in a chair.** I use
 a standalone keyboard with a long cord and position my computer at some
 appropriate height in front of me, so I can work in almost any position.
 
 With back against the wall, I sit on a cushion or towel on the floor, with my
 legs straight, or stretched apart, or soles of the feet together. Recognize any
-of these? That's right, each is a normal stretch. Pavel Tsatsouline tells the
-story of a man who sat with his feet stretched apart every day as he watched TV,
-in a completely comfortable position. Over the course of a year, he reached the
-splits.
+of these? That's right, each is a normal stretch. 
+
+Pavel Tsatsouline tells the story of a man who sat with his feet stretched apart
+every day as he watched TV, in a completely comfortable position. Over the
+course of a year, he reached the splits.
 
 Each of these positions allows me to gently work on passive stretching. Without
 thinking about it, I'm naturally shifting my position slightly most of the
