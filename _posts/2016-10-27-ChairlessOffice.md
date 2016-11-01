@@ -18,38 +18,50 @@ noindex: false
 nofollow: false
 ---
 
-I'm going to start off with something you already know: **sitting is bad for us.**
+The personal movement revolution has presented us with an overwhelming range of
+options.
 
-You might remember the study with the busmen in England. One man drove the bus,
-the other man walked up and down collecting tickets. Same socioeconomic classes,
-same pay, living in the same places, everything. Result? The man who walked up
-and down lived longer and healthier.
+The best thing for humans is to move slowly almost all the time, and then move
+fast or heavy or both for short periods of time. You're supposed to train
+cardio, strength, explosiveness, trying out as many sports as possible. On top
+of that, you're still supposed to put in an hour of mobility work every day.
 
-Every day, I think, "How can I be a good movement human today?" Humans need to
-move, preferably slowly almost all the time, and then dynamically some of the
-time, fast or heavy some of the time.
+And *then* you need to add extra stretches to undo the damage you've done by
+sitting all day: your legs going dead, your hamstrings shortening, your hip
+flexors stiffening and shortening. Of course, when you're sitting, you're *not
+moving slowly*, which is what we want for our default.
 
-In addition, as the Gymnastics Strength Training creator Christopher Sommers
-reminds us, mobility is the golden key. Every day we train our bodies to bend
-just far enough to put our hands past our knees. Every day we train our legs not
-to split any farther than about 30 degrees. 
+As the Gymnastics Strength Training creator Christopher Sommers reminds us,
+mobility is the golden key. Every day we train our bodies to bend just far
+enough to put our hands past our knees. Every day we train our legs not to split
+any farther than about 30 degrees.
 
 After years of this, our bodies adapt to what we've asked of it. And then we
 say, "Man, as you get old, you get stiff! Lucky kids!"
 
-Standing desks got popular a few years ago, and despite naysayers and mockery
-it's now clear they're here to stay. Just standing up *some* of the time, or
-alternating between sitting and standing, is a huge improvement. It gets you
-moving, it allows you to stretch, many people find their energy improves.
+It's like in the original *Alice in Wonderland*. The Red Queen tells Alice, here
+we have to run twice as fast just to stay in place. You'll have to run even
+faster if you want to get ahead!
 
-Still, it's hard to stand all day. And here, ladies and gentlemen, I introduce
-my latest movement innovation: **you're allowed to sit, just not in a chair.** I use
-a standalone keyboard with a long cord and position my computer at some
-appropriate height in front of me, so I can work in almost any position.
+I know what you're thinking: not another standing desk plug! Standing desks got
+popular a few years ago, and despite naysayers and mockery it's now clear
+they're here to stay. Just standing up *some* of the time, or alternating between
+sitting and standing, is a huge improvement. It gets you moving, it allows you
+to stretch, many people find their energy improves.
+
+But that's not what I'm here to tell you. I have something better. What if you
+could turn the *entirety of your work day* into a training session?  What if you
+could avoid damaging yourself just by doing your job, and actually help
+yourself?
+
+And here, ladies and gentlemen, I introduce my latest movement innovation:
+**you're allowed to sit, just not in a chair.**
 
 With back against the wall, I sit on a cushion or towel on the floor, with my
-legs straight, or stretched apart, or soles of the feet together. Recognize any
-of these? That's right, each is a normal stretch. 
+legs straight, or stretched apart, or soles of the feet together, or in the
+90-90 position. Recognize any of these? That's right, each is a normal stretch
+which just happens to be comfortable for long periods of time and easily
+supports a keyboard in front of you.
 
 Pavel Tsatsouline tells the story of a man who sat with his feet stretched apart
 every day as he watched TV, in a completely comfortable position. Over the
@@ -81,5 +93,13 @@ than an hour before coming up for air.
 Clearly this won't be right for every office setup, but if you can get one of
 those IKEA standing desks that adjust all the way up or down, or just put your
 laptop or monitor on a chair, you can easily transition all the way from
-standing to sitting on the floor. The benefits are enormous, and now you can sit
-guilt-free.
+standing to sitting on the floor. I use a standalone keyboard with a long cord
+and position my computer at some appropriate height in front of me, so I can
+work in almost any position.
+
+In a nutshell, move like ancient humans did: stand or sit on the ground. Stretch
+in as many ways as you can think of, while exercising your brain as only the
+modern world ever has. Now your entire work day trains your supporting muscles
+in many postures, and your entire work day is a mobility training session.
+
+The benefits are enormous, and now you can sit guilt-free.
