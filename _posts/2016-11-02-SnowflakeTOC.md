@@ -1,16 +1,3 @@
-<div id="table-of-contents">
-<h2>Table of Contents</h2>
-<div id="text-table-of-contents">
-<ul>
-<li><a href="#orgheadline1">1. </a></li>
-<li><a href="#orgheadline2">2. Mood-Based Productivity</a></li>
-<li><a href="#orgheadline3">3. The Theory of Constraints, briefly</a></li>
-<li><a href="#orgheadline4">4. The Theory of Constraints for Precious Snowflakes</a></li>
-<li><a href="#orgheadline5">5. Radical Candor Starts at Home</a></li>
-</ul>
-</div>
-</div>
-
 ---
 layout: post
 title: The Theory of Constraints for Precious Snowflakes
@@ -30,7 +17,7 @@ noindex: false
 nofollow: false
 ---
 
-# <a id="orgheadline1"></a>
+## Temporarily Enlightened<a id="orgheadline1"></a>
 
 Hinduism and Buddhism have this idea that a truly enlightened person can
 perceive metaphysical truths that other people cannot. Like, you reach this
@@ -47,7 +34,7 @@ In general, some moods or states of minds make certain facts and relations and
 concepts feel really obvious. Some work, then, can only be done in certain
 moods, or at least it's better done in those moods.
 
-# Mood-Based Productivity<a id="orgheadline2"></a>
+## Mood-Based Productivity<a id="orgheadline2"></a>
 
 Tiago Forte has a [whole essay](https://medium.com/forte-labs/productivity-for-precious-snowflakes-68bb9d312362#.lu8v3mjr9) based around this idea. If you judge your mood or
 mental state accurately and match a project to it wisely, you'll produce much
@@ -71,7 +58,7 @@ excite you in different moods, then you can get multiple outputs from the same
 project, depending which Mood You. Like, maybe you have an essay, and a
 workshop, and a SAAS product, or whatever. I don't know.
 
-# The Theory of Constraints, briefly<a id="orgheadline3"></a>
+## The Theory of Constraints, briefly<a id="orgheadline3"></a>
 
 Thinking about multiple mood-based selves, sort of working as a team to get
 something done, prepares us to apply the Theory of Constraints to ourselves as
@@ -107,7 +94,7 @@ the bottleneck department.
 
 (There is a final essay which I won't summarize here, but it's also helpful)
 
-# The Theory of Constraints for Precious Snowflakes<a id="orgheadline4"></a>
+## The Theory of Constraints for Precious Snowflakes<a id="orgheadline4"></a>
 
 Back to us, the special snowflakes! Suppose we're working on whatever project
 best suits our current mood, so that we get the best results possible. We start
@@ -139,7 +126,7 @@ to figure out what to slow down.
 It takes focus and "finger feeling" to discover the true bottleneck, and
 patience to slow everything else down.
 
-# Radical Candor Starts at Home<a id="orgheadline5"></a>
+## Radical Candor Starts at Home<a id="orgheadline5"></a>
 
 I'll start this essay as I ended it, with a Buddhist reference. In meditation,
 we have this idea of observation without judgment. You're just experiencing
