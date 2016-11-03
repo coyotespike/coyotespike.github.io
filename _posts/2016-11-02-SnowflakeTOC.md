@@ -13,13 +13,13 @@
 
 ---
 layout: post
-title:
+title: The Theory of Constraints for Precious Snowflakes
 date: 2016-11-02 22:07
 # Should be longer than 20 words, so it will appear as post summary
-description:
+description: Deciding not to wait for Tiago Forte to combine two of his best essays, here I apply management theory to mood-based producivity.
 # tags will also be used as html meta keywords.
 tags:
-  - 
+  - philosophy doggerel
 
 show_meta: true
 comments: true
