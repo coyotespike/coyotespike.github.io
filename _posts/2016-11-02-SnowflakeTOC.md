@@ -47,7 +47,7 @@ with my multiple projects with the essay in the back of my mind, the more I've
 agreed with and implemented it.
 
 One implication of the essay is that you need to organize your work in such a
-way that you can return to it at different times, when you're returned to the
+way that you can return to it at different times, when you've returned to the
 right mood to focus on that project or that applicaiton of the project. 
 
 And you need to choose goals that excite you in many different moods. If
@@ -109,7 +109,7 @@ and that's your bottleneck, then starting more new projects may actively harm
 your writing efforts.
 
 If you just don't feel highly motivated, an exciting new project might help for
-a little while. More likely, you'll end up feeling unmotivated, and also
+a little while. More likely, you'll end up feeling unmotivated again, and in addition
 overwhelmed. Your bottleneck is motivation. Adding anything else will harm total
 output.
 
@@ -127,13 +127,13 @@ patience to slow everything else down.
 
 ## Radical Candor Starts at Home<a id="orgheadline5"></a>
 
-I'll start this essay as I ended it, with a Buddhist reference. In meditation,
+I'll end this essay as I began it, with a Buddhist reference. In meditation,
 we have this idea of observation without judgment. You're just experiencing
 whatever's there.
 
-This contemplation without judgement allows accurate assessements of
-shortcomings, without the usual accompanying angst. It's this attitude which is
-most helpful in applying the theory of constraints to ourselves.
+This contemplation without judgement allows accurate assessements of shortcomings,
+without the usual accompanying angst. It's this attitude which is most helpful in
+applying the theory of constraints to ourselves.
 
 In great managers, this same quality of great honesty coupled with caring rather
 than condemnation is often called radical candor.
