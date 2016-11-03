@@ -53,10 +53,9 @@ right mood to focus on that project or that applicaiton of the project.
 And you need to choose goals that excite you in many different moods. If
 necessary you can let the goal remain a little vague. The goal or project has to
 be definite enough that you get buy-in from yourself in many different moods,
-and it can solidify as you go. Even better, if different aspects of the project
-excite you in different moods, then you can get multiple outputs from the same
-project, depending which Mood You. Like, maybe you have an essay, and a
-workshop, and a SAAS product, or whatever. I don't know.
+and it can solidify as you go.
+
+Even better, if different aspects of the project excite you in different moods, then you can get multiple outputs from the same project. Maybe you produce essays, and a SAAS product, and a workshop, and so on, related to the same project.
 
 ## The Theory of Constraints, briefly<a id="orgheadline3"></a>
 
