@@ -3,7 +3,7 @@ layout: post
 title: The Chaos Monkey and Productive Habits
 date: 2016-11-03 13:39
 # Should be longer than 20 words, so it will appear as post summary
-description: In which I raid yet [another](https://medium.com/forte-labs/the-fall-of-neo-pavlovianism-and-rise-of-emergent-behavior-change-896261c88202#.936iuwfrp) Tiago Forte essay.
+description: In which I raid yet <a href="{{ https://medium.com/forte-labs/the-fall-of-neo-pavlovianism-and-rise-of-emergent-behavior-change-896261c88202#.936iuwfrp }}">{{ another }}</a> Tiago Forte essay.
 # tags will also be used as html meta keywords.
 tags:
   - philosophy doggerel
