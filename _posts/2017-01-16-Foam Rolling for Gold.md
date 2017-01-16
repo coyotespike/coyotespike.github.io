@@ -19,11 +19,9 @@ noindex: false
 nofollow: false
 ---
 
-Strength training is important to life. When I was younger, I used to train
-without doing any maintenance, a bad mistake. 
-
-No strength movement should be learned or practiced without also learning and
-practicing the accompanying maintenance skill.
+When I was younger, I used to train without doing any maintenance, a bad
+mistake. No strength movement should be learned or practiced without also
+learning and practicing the accompanying maintenance skill.
 
 These skills include balanced strength training, flexibility training, and other
 mobility training, especially rolling on foam rollers or tennis/lacrosse
@@ -56,7 +54,7 @@ whole tricep burns for a couple of days and then heals. I can keep training.
 
 I'm now applying this technique elsewhere. I find the pain, and then mine that
 vein of pain up and down, spreading the pain, preventing that muscle from
-stubbornly pushing its problems elsewhere.
+stubbornly pushing its problems elsewhere. Again, the muscle will soon feel and perform better.
 
 **3. Only a Quarter of an Area at a Time**
 
