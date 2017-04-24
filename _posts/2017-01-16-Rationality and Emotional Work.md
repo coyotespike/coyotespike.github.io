@@ -26,9 +26,11 @@ approach to optimal decision-making.  Taking rational choice theory as a
 standard, we can then note that humans are not *homo economicus*, we are *homo
 crazyus*, we have many cognitive biases resulting from heuristics which allow our
 brains to make efficient decisions in many situations but very poor decisions in
-many other (often modern) situations. And we go, gee, it would be nice to act
-more rationally. It would be nice to always act in a way that achieves my goals
-and values, as a person, in my career, for the world.
+many other (often modern) situations.
+
+And we go, gee, it would be nice to act more rationally. It would be nice to
+always act in a way that achieves my goals and values, as a person, in my
+career, for the world.
 
 We then try to apply rational choice theory and probabilistic thinking to the
 task of acting more rationally. I think many rationalists spend a fair amount of
@@ -48,5 +50,7 @@ quite a lot of time talking about emotions.
 
 We start off with a lot of math, move to cognitive biases, and we wind up
 needing to work on our emotions and temperament. How can we become mature and
-balanced people, emotionally resilient people? We are now far away from
-"rationality" but much closer to our goals.
+balanced people, emotionally resilient people?
+
+We are now far away from "rationality," far away from extensive mathematical
+analyses, but much closer to our goals.
