@@ -212,10 +212,10 @@ pre {
     @extend %clearfix;
 
     @include media-query($on-laptop) {
-        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-        max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
-        padding-right: $spacing-unit * 3;
-        padding-left: $spacing-unit * 3;
+        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
+        max-width:         calc(#{$content-width} - (#{$spacing-unit}));
+        padding-right: $spacing-unit / 2;
+        padding-left: $spacing-unit / 2;
     }
 }
 
@@ -300,6 +300,10 @@ pre {
 .postContent {
   padding-top: 3.5em;
   text-align: center;
+  max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+  max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+  padding-right: $spacing-unit * 4;
+  padding-left: $spacing-unit * 4;
 }
 .postDate {
   float: left;
