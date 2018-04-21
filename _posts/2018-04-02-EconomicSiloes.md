@@ -1,20 +1,8 @@
 ---
 layout: post
-title: Economic Data Siloes
-date: 2018-04-02
-<!-- # Should be longer than 20 words, so it will appear as post summary -->
-<!-- description: Information wants to be free, and the decentralized web can help break it out of technical data siloes. But might we build economic data siloes by accident? -->
-<!-- # tags will also be used as html meta keywords. -->
-<!-- tags: -->
-<!--   - blockchain -->
+title: "Economic Data Siloes"
+date: 2018-04-02 19:45:31 +0530
 categories: ["blockchain"]
-<!-- show_meta: true -->
-<!-- comments: true -->
-<!-- mathjax: true -->
-<!-- gistembed: true -->
-<!-- published: true -->
-<!-- noindex: false -->
-<!-- nofollow: false -->
 ---
 
 ### Data Siloes
