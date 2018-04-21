@@ -14,7 +14,7 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 // Width of the content area
-$content-width:    600px;
+$content-width:    800px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
@@ -79,7 +79,7 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-    margin-bottom: $spacing-unit / 2;
+    margin-bottom: $spacing-unit / 1.75;
 }
 
 
@@ -524,6 +524,7 @@ pre {
 .post-content {
   margin-bottom: $spacing-unit;
   padding-bottom: 3em !important;
+  width: 75%;
   p {
     font-size: 1rem;
   }
