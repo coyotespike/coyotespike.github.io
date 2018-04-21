@@ -34,5 +34,3 @@ Tim Roy is a software engineer and writer based in Austin, Texas.
 In previous lives he served as a paratrooper in Alaska and Afghanistan, motorcycled from Alaska to Argentina, and clerked for a federal judge after graduating UT Austin’s law school. 
 
 He’s now coding for a blockchain startup, and enjoys practicing movement culture, lifting barbells and swinging kettlebells, meditating, and bouldering.
-
-*[movement culture]: Sadly, [this](https://www.instagram.com/p/BhOPoCcF7U0/?taken-by=pratiquemovimento) is not me.

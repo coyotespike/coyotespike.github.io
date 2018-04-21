@@ -41,15 +41,13 @@ author:
 # Owner/author information
 owner:
   name:           Tim Roy
-  avatar:         
-  #email:          
+  avatar:         https://media.licdn.com/dms/image/C4D03AQEDVn3r49XWqA/profile-displayphoto-shrink_200_200/0?e=1529463600&v=beta&t=5Nc9O2TWj7ArjrU1KrtadTsZxutCAL_qVviYZTV0EJQ
+  email:         timothy.roy@protonmail.ch 
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:
   # Social networking links used in footer. Update and remove as you like.
   twitter:        coyotespike
-  facebook:       
   github:         github.com/coyotespike
-  stackexchange:  
   linkedin:       https://www.linkedin.com/in/timothydroy
   # orcid and google scholar IDs are different than standard username.
   # orcid: xyz123abc
