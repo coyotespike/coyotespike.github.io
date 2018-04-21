@@ -20,14 +20,6 @@ $on-palm:          600px;
 $on-laptop:        800px;
 
 
-
-// Use media queries like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
         @content;
@@ -335,16 +327,14 @@ pre {
   position: relative;
 }
 .site-title {
-  font-size: 32px;
+  font-size: 48px;
   font-weight: 100;
   font-family: 'PT Sans';
   text-transform: capitalize;
   font-weight: 500;
   margin-top: 1em;
   @include media-query($on-palm) {
-      .wrapper {
         font-size: 24px;
-      }
   }
 }
 .site-description {
@@ -534,12 +524,12 @@ pre {
   margin-bottom: $spacing-unit;
   padding-bottom: 3em !important;
 
-  @include media-query($on-laptop) {
-    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
-    padding-right: $spacing-unit * 4;
-    padding-left: $spacing-unit * 4;
-  }
+  // @include media-query($on-laptop) {
+  //   max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+  //   max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+  //   padding-right: $spacing-unit * 4;
+  //   padding-left: $spacing-unit * 4;
+  // }
   p {
     font-size: 0.9rem;
   }
