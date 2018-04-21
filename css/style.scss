@@ -292,10 +292,13 @@ pre {
 .postContent {
   padding-top: 3.5em;
   text-align: center;
-  max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-  max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
-  padding-right: $spacing-unit * 4;
-  padding-left: $spacing-unit * 4;
+
+  @include media-query($on-laptop) {
+    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+    padding-right: $spacing-unit * 4;
+    padding-left: $spacing-unit * 4;
+  }
 }
 .postDate {
   float: left;
@@ -524,12 +527,12 @@ pre {
   margin-bottom: $spacing-unit;
   padding-bottom: 3em !important;
 
-  // @include media-query($on-laptop) {
-  //   max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-  //   max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
-  //   padding-right: $spacing-unit * 4;
-  //   padding-left: $spacing-unit * 4;
-  // }
+  @include media-query($on-laptop) {
+    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+    padding-right: $spacing-unit * 4;
+    padding-left: $spacing-unit * 4;
+  }
   p {
     font-size: 0.9rem;
   }
