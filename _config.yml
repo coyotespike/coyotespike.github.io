@@ -82,7 +82,7 @@ links:
 
 # Twitter stream widget:
 # Replace xyz123abc with your twitter widget id from https://twitter.com/settings/widgets
-#twitter_widget_id: xyz123abc
+twitter_widget_id: coyotespike
 
 # Add disqus username for Disqus comment board:
 disqus_shortname: Tim
@@ -91,6 +91,4 @@ disqus_shortname: Tim
 #google_analytics:   xyz123abc
 
 #### For dummy website only - remove if you wish ####
-github_repo: https://github.com/dyndna/lanyon-plus
-version: 1.1.0
 ## END ##
