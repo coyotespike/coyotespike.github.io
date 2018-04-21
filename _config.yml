@@ -6,15 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Gravity
-email: hemangsk@gmail.com
-description: The Liberal Jekyll Theme
+title: A Rhythm in Notion
+email: timothy.roy@protonmail.ch
+description: Small(er) Steps Toward a Much Better World
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "coyotespike.github.io" # the base hostname & protocol for your site
-twitter_username: hemang_kumar
-github_username:  hemangsk
+url: "/" # the base hostname & protocol for your site
+twitter_username: coyotespike 
+github_username:  coyotespike
 paginate: 5
-theme-dark: false #Set to true to change to dark website theme
+theme-dark: true #Set to true to change to dark website theme
 
 plugins: [jekyll-paginate, kramdown]
 # Build settings
