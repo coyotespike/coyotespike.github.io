@@ -5,9 +5,7 @@ date: 2017-04-24 11:57
 # Should be longer than 20 words, so it will appear as post summary
 description: Using tokens to govern startup and project creation will open doors for founders and workers.
 # tags will also be used as html meta keywords.
-tags:
-  - Blockchain
-  - Ethereum
+categories: ["blockchain", "ethereum"]
 
 show_meta: true
 comments: true
