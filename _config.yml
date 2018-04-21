@@ -36,7 +36,7 @@ author:
   name:           Tim   
   url:               https://twitter.com/coyotespike
   avatar:         
-  #email:           
+  email:          timothy.roy@protonmail.ch 
 
 # Owner/author information
 owner:
@@ -46,18 +46,14 @@ owner:
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        abcd
+  twitter:        @coyotespike
   facebook:       
-  github:         xyz123abc
+  github:         github.com/coyotespike
   stackexchange:  
-  linkedin:       https://www.linkedin.com/in/foo
-  instagram:      
-  flickr:
-  tumblr:  
-  google_plus:    https://plus.google.com/+foo
+  linkedin:       https://www.linkedin.com/in/timothydroy
   # orcid and google scholar IDs are different than standard username.
-  orcid: xyz123abc
-  gscholar: xyz123abc
+  # orcid: xyz123abc
+  # gscholar: xyz123abc
 
 ## sidebar links:
 # For external links add external: true
@@ -76,10 +72,10 @@ links:
   - title: <i class="iconside iconm-envelop"></i> Contact
     url: /contact/
   - title: <i class="iconside iconm-twitter"></i> Twitter
-    url: https://twitter.com/abcd
+    url: https://twitter.com/coyotespike
     external: true
-  - title: <i class="iconside iconm-feed2"></i> Feed
-    url: /feed.xml
+  # - title: <i class="iconside iconm-feed2"></i> Feed
+  #   url: /feed.xml
 
 # Google Custom Search:
 #google_search: xyz123abc
