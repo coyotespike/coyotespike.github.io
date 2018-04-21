@@ -5,10 +5,7 @@ date: 2017-01-16 13:24
 # Should be longer than 20 words, so it will appear as post summary
 description: No strength movement should be learned or practiced without also learning and practicing the accompanying maintenance skill.
 
-# tags will also be used as html meta keywords.
-tags:
-  - Strength training
-  - Mobility
+categories: ["movement", "mobility", "fitness"]
 
 show_meta: true
 comments: true

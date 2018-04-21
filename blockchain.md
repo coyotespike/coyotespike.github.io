@@ -2,6 +2,6 @@
 layout: archive
 title: Blockchain
 permalink: /blockchain/
-category: ["blockchain", "ethereum"]
+categories: ["blockchain", "ethereum"]
 tagline: "#buidl a better world"
 ---
