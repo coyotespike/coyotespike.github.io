@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: Blockchain
-permalink: /design/
-category: "Blockchain"
+permalink: /blockchain/
+category: "blockchain"
 tagline: "#buidl a better world"
 ---
