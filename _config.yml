@@ -35,7 +35,7 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 author:
   name:           Tim   
   url:               https://twitter.com/coyotespike
-  avatar:         
+  avatar:         https://media.licdn.com/dms/image/C4D03AQEDVn3r49XWqA/profile-displayphoto-shrink_200_200/0?e=1529463600&v=beta&t=5Nc9O2TWj7ArjrU1KrtadTsZxutCAL_qVviYZTV0EJQ
   email:          timothy.roy@protonmail.ch 
 
 # Owner/author information
