@@ -9,8 +9,8 @@
 title: A Rhythm in Notion
 email: timothy.roy@protonmail.ch
 description: Small(er) Steps Toward a Much Better World
-baseurl: "coyotespike.github.io" # the subpath of your site, e.g. /blog
-url: "/" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "coyotespike.github.io" # the base hostname & protocol for your site
 twitter_username: coyotespike 
 github_username:  coyotespike
 paginate: 5
