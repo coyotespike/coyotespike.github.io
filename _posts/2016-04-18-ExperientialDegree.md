@@ -5,8 +5,7 @@ date: 2016-04-18 23:26
 # Should be longer than 150 words, so it will appear as post summary
 description: What if you decided to make your own grad school by reproducing the best results in the field?
 # tags will also be used as html meta keywords.
-tags:
-  - synthetic biology
+categories: ["science", "learning", "metalearning"]
 
 show_meta: true
 comments: true

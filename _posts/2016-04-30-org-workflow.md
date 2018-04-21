@@ -5,9 +5,7 @@ date: 2016-04-30 12:00
 # Should be longer than 20 words, so it will appear as post summary
 description: While the text editor Emacs may not be for everyone, one of its many rewards is the flexible to-do and research tool Org-Mode, developed by astronomist Carsten Dominik.
 # tags will also be used as html meta keywords.
-tags:
-  - Emacs
-  - org-mode
+categories: ["software", "Emacs", "Org-Mode", "programming", "productivity"]
 
 show_meta: true
 comments: true

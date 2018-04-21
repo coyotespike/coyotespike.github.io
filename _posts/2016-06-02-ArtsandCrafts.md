@@ -5,8 +5,7 @@ date: 2016-06-02 14:50
 # Should be longer than 20 words, so it will appear as post summary
 description: "Over the years I've noticed rich arts which encapsulate years of experience - yet have only recently begun to be taught as subjects."
 # tags will also be used as html meta keywords.
-tags:
-  - random thoughts
+categories: ["philosophy", "community"]
 
 show_meta: true
 comments: true

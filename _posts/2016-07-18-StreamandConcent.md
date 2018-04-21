@@ -5,9 +5,7 @@ date: 2016-07-18 15:32
 # Should be longer than 20 words, so it will appear as post summary
 description: "A thought experiment: should we only pay attention to information good for long-term thinking, or should we dive right in?"
 # tags will also be used as html meta keywords.
-tags:
-  - speculative
-  - philosophy
+categories:  ["philosophy", "futurism", "productivity"]
 
 show_meta: true
 comments: true
@@ -70,17 +68,20 @@ year; the Decenarians; the Centenarians; and the Millenarians.
 
 Because all these orders live within the same physical complex, the group as a
 whole has developed strict rules ("the Discipline") to prevent any information
-contamination. Hundreders/Centenarians should not receive any news, any hint of
-political/cultural controversy, from the Tenners, who get updates every
-decade. Once per century is enough for the Hundreders! To them, political news
-abstracts to "it seems outside society has a new form of government."
+contamination. 
+
+Hundreders/Centenarians should not receive any news, any hint of
+political/cultural controversy, from the Tenners, who get updates every decade.
+Once per century is enough for the Hundreders! To them, political news abstracts
+to "it seems outside society has a new form of government."
 
 The concent, the ivory tower raised to near-literal heights, sharpens the idea
 of deep work. *All* information relevant on a timescale less than a year, ten
-years, a hundred years, a thousand years, should be eschewed. It will distract
-you, contaminate your ideas, cause short-term thinking, impatience, short
-attention span. Time scale and information purity and attention span: these are
-connected.
+years, a hundred years, a thousand years, should be eschewed. 
+
+It will distract you, contaminate your ideas, cause short-term thinking,
+impatience, short attention span. Time scale and information purity and
+attention span: these are connected.
 
 The stream, on the other hand, says that real-time information processing leads
 to faster work, exposure to and creation of new ideas, allows you dynamically
@@ -95,10 +96,11 @@ news, what grabs your attention.
 Both of these ideas appeal to me in different ways, and I'm not sure what the
 best concession to each is. Bryan Caplan lives in a bubble (his description),
 and maybe a Twitter feed composed of a select group would allow for community
-while lessening the irrelevant. Maybe you read your few brilliant Twitter
-friends, but no magazines. Maybe you adopt one of Cal Newport's deep work
-styles. Maybe the irrelevant is how you sort through the rough to find the gems,
-and contribute to your community. 
+while lessening the irrelevant. 
+
+Maybe you read your few brilliant Twitter friends, but no magazines. Maybe you
+adopt one of Cal Newport's deep work styles. Maybe the irrelevant is how you
+sort through the rough to find the gems, and contribute to your community.
 
 Maybe you really can't compromise and you need to adopt one or the other
 depending on goals and temperament. I don't know.

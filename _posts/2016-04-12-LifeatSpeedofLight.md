@@ -5,8 +5,7 @@ date: 2016-04-12 12:47
 # Should be longer than 150 words, so it will appear as post summary
 description: "Venter's second book focuses more on the history and science of genomics and synthetic biology, as well as promises and perils. A little dryer than the autobiography, but a good read."
 # tags will also be used as html meta keywords.
-tags:
-  - synthetic biology
+categories: ["science", "book review"]
 
 show_meta: true
 comments: true

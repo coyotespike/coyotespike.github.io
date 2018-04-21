@@ -2,13 +2,8 @@
 layout: post
 title: The European Union is what the United States was meant to be
 date: 2016-06-27 17:32
-# Should be longer than 20 words, so it will appear as post summary
 description: American conservatives and libertarians should celebrate the EU and deplore Brexit.
-# tags will also be used as html meta keywords.
-tags:
-  - EU
-  - Britain
-  - law
+categories: ["politics", "comparative politics"]
 
 show_meta: true
 comments: true
@@ -49,12 +44,16 @@ too much power.
 The EU has also dealt with all the problems that we had under the Articles of Confederation,
 but all the states remain sovereign, a true federation.
 
-In fact, you can think of a sort of Goldilocks process of governmental design.
-First the Founders tried the Articles of Confederation. This was too little centralization,
-not enough unification. Then they tried the Constitution, which allows the federal
+Maybe you can think of a sort of Goldilocks process of governmental design.
+First the American Founders tried the Articles of Confederation. This was too
+little centralization, not enough unification.
+
+Then American Founders tried the Constitution, which allows the federal
 government, over time and after a war, to arrogate to itself every more powers.
-Too much government! Finally, over half a century, the European Union was formed,
-and this is just about enough.
+Too much government! 
+
+Finally, over half a century, the European Union was formed, and this is just
+about enough.
 
 The Europeahn Union has so far managed to avoid excessive centralization for two
 main reasons. 
@@ -63,11 +62,14 @@ First, they built themselves bottom-up, piece by piece, over a long time.
 I can hear the British Euroskeptics snorting now: "What do you mean it was built
 bottom up? Unelected bureaucrats sitting on their fat arses in Brussels passing
 down abstruse commandments from on high, is more like!"
+
 Be that as it may, every power the European Council has gained has beeen granted
 it by the member states. The United States binds itself in this way too, through
-international treaties. By accepting one treaty at a time, which are then part of
-the laws of the United States, we've also built up international law piece by
-piece. It's a slow, modular process.
+international treaties. 
+
+By accepting one treaty at a time, which are then part of the laws of the United
+States, we've also built up international law piece by piece. It's a slow,
+modular process.
 
 Contrast this, again, with the relatively one-shot deal of the American Constitution.
 Ratified by the states, and boom, all the core powers of the federal government
@@ -90,7 +92,9 @@ usually they're going to say *yes*. In the EU, they tend to ask the member state
 
 Freedom does not equal isolationism. No state should have to go all Idaho-militia,
 live-in-the-woods-alone, to avoid surrendering local government to a central and
-coordinating government. The EU, so far, has managed to unify without over-regulating.
-American conservatives and libertarians should celebrate the EU. The Europeans finally
-figured out what our Founding Fathers were talking about - and they may have done
-it even better than we did.
+coordinating government. 
+
+The EU, so far, has managed to unify without over-regulating. American
+conservatives and libertarians should celebrate the EU. The Europeans finally
+figured out what our Founding Fathers were talking about - and they may have
+done it even better than we did.

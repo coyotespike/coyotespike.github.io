@@ -5,8 +5,7 @@ date: 2016-04-23 22:49
 # Should be longer than 20 words, so it will appear as post summary
 description: The actual "Andrew Gelman Library" would have to include his books, articles, and Stan. Here's a collection of blog posts I enjoyed.
 # tags will also be used as html meta keywords.
-tags:
-  - synthetic biology
+categories: ["science", "links"]
 
 show_meta: true
 comments: true

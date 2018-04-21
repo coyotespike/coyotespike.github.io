@@ -3,6 +3,7 @@ layout: post
 title: "Economic Data Siloes"
 date: 2018-04-02 19:45:31 +0530
 categories: ["blockchain"]
+description: In the centralized web, consumers' data has become siloed amongst a handful of powerful players centered in Silicon Valley. In the decentralized web, we split data up amongst many participants. Information, like books, shared on a decentralized network will persist long after a corporation, like Facebook, goes out of business. It will persist as long as participants on the network keep the information alive by sharing it. This is a hopeful thought, because it implies the information will die out only when no one wants it anymore.
 ---
 
 ### Data Siloes
