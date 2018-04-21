@@ -5,8 +5,7 @@ date: 2016-11-03 13:39
 # Should be longer than 20 words, so it will appear as post summary
 description: In which I raid yet another Tiago Forte essay.
 # tags will also be used as html meta keywords.
-tags:
-  - philosophy doggerel
+categories: ["productivity"] 
 
 show_meta: true
 comments: true

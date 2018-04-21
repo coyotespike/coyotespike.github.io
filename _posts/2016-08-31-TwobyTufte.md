@@ -5,9 +5,7 @@ date: 2016-08-31 09:56
 # Should be longer than 20 words, so it will appear as post summary
 description: Edward Tufte is the Strunk & White of data visualization. My brief reviews of *Envisioning Information* and *The Visual Display of Quantitative Information*.
 # tags will also be used as html meta keywords.
-tags:
-  - data science
-  - data visualization
+categories: ["book reviews", "data science", "data visualization"]
 
 show_meta: true
 comments: true

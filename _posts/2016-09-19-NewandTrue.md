@@ -5,10 +5,7 @@ date: 2016-09-19 13:44
 # Should be longer than 20 words, so it will appear as post summary
 description: At times, programmers' incessant quest for the perfect language or framework can look like time-wasting self-indulgence. In the longer run this leads to good things.
 # tags will also be used as html meta keywords.
-tags:
-  - programming
-  - web development
-  - startups
+categories: ["software", "programming", "startups"]
 
 show_meta: true
 comments: true

@@ -5,9 +5,7 @@ date: 2016-08-13
 
 description: "The blockchain is one of the most exciting software innovations of the decade - a very simple guide to what it's all about."
 
-tags:
-
-- programming
+categories: ["blockchain"]
 
 show_meta: true
 comments: true

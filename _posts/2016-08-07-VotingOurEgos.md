@@ -5,8 +5,7 @@ date: 2016-08-07 18:26
 # Should be longer than 20 words, so it will appear as post summary
 description: "The technology thinker and write Clay Shirky argues that voting third party is an act of ego, not of conscience"
 # tags will also be used as html meta keywords.
-tags:
-  - Politics
+categories: ["politics", "game theory", "comparative politics"]
 
 show_meta: true
 comments: true
@@ -23,12 +22,13 @@ along, Shirky throws out in passing some arguments which are interesting enough
 by themselves to warrant reading the essay.
 
 First, he argues that the United States's two-party system is more democratic
-and hence morally superior to a multi-party system. Only one coalition can
-govern at any time; that coalition must be formed at some stage; in the United
-States the voters form those coalitions during primaries, while in countries
-such as Britain elected representatives form those coalitions; hence, in the
-United States the voters do the dirty democratic work, but in other countries
-the voters hide from this necessity.
+and hence morally superior to a multi-party system. 
+
+Only one coalition can govern at any time; that coalition must be formed at some
+stage; in the United States the voters form those coalitions during primaries,
+while in countries such as Britain elected representatives form those
+coalitions; hence, in the United States the voters do the dirty democratic work,
+but in other countries the voters hide from this necessity.
 
 I like this argument because I had not heard it before. By this argument, a
 small-party elected representative does no good at all - there is no advantage
@@ -96,10 +96,11 @@ system provides precisely such an avenue of democractic expression!
 Further, to provide just one example, in very recent history in Britain, the
 government has been forced to share power with a minority party. The Liberal
 Democrats did need to form a coalition, to do the dirty work of democratic
-compromise. But that compromise lasted beyond an early-stage primary. In the
-United States, candidates must veer to the extremes to win the primaries, and
-then dance their way back to the middle. The multi-party system seems to have a
-more lasting, and hence real, effect.
+compromise. But that compromise lasted beyond an early-stage primary. 
+
+In the United States, candidates must veer to the extremes to win the primaries,
+and then dance their way back to the middle. The multi-party system seems to
+have a more lasting, and hence real, effect.
 
 ## The dirty work of democratic compromise
 
@@ -113,9 +114,11 @@ lot in life and do your damn duty.
 Let's go back to winner-take-all game theory. We have a two-party system: we can
 join one of two parties, or have no voice at all. As an inevitable consequence
 of that fact and of stable demographics, entire states reliably vote one way or
-the other. Because I don't live in a swing state, *whatever* I vote will be
-symbolic, even if I join the majority party! (I'm assuming joining the majority
-party counts for more participation than voting for the opposition party) 
+the other. 
+
+Because I don't live in a swing state, *whatever* I vote will be symbolic, even
+if I join the majority party! (I'm assuming joining the majority party counts
+for more participation than voting for the opposition party)
 
 By voting Republican in Texas, or Democrat in New York, am I really joining in
 "the work of deciding," to use Shirky's phrase? No - that's just as much a
@@ -124,8 +127,8 @@ By voting Republican in Texas, or Democrat in New York, am I really joining in
 Except for the spiel about why having an elected Libertarian or Green
 representative would give you less rather than more democracy, Shirky's essay
 changed my mind about third parties. No one is listening to our protest votes -
-ours, my friends, is a lone voice crying in the wilderness. Nevertheless, in our
-two-party system, there's no way to join in the work of deciding unless I vote
-in the primaries or move to a swing state. 
+ours, my friends, is a lone voice crying in the wilderness. 
 
-And that's why, come Election Day, I'll vote my ego.
+Nevertheless, in our two-party system, there's no way to join in the work of
+deciding unless I vote in the primaries or move to a swing state. And that's
+why, come Election Day, I'll vote my ego.

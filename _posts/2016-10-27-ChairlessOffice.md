@@ -5,9 +5,7 @@ date: 2016-10-27 19:41
 # Should be longer than 20 words, so it will appear as post summary
 description: Maybe an actual lifehack, for once! Here's how to sit healthily and guilt-free, improve your range of motion and feel better.
 # tags will also be used as html meta keywords.
-tags:
-  - Health
-  - Fitness
+categories: ["movement", "mobility", "fitness"]
 
 show_meta: true
 comments: true

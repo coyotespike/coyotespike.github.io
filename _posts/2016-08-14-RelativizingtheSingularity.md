@@ -5,8 +5,7 @@ date: 2016-08-14 11:12
 # Should be longer than 20 words, so it will appear as post summary
 description: If there is a technological singularity, whoever comes after us will look forward to other singularities.
 # tags will also be used as html meta keywords.
-tags:
-  - philosophy doggerel
+categories: ["futurism", "philosophy"]
 
 show_meta: true
 comments: true

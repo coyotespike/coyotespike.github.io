@@ -5,10 +5,7 @@ date: 2016-10-21 12:38
 # Should be longer than 20 words, so it will appear as post summary
 description: How can we tell which blockchain and artificial intelligence ideas will work out? Start by asking if the idea is born in the darkness.
 # tags will also be used as html meta keywords.
-tags:
-  - Startups
-  - AI
-  - blockchain
+categories: ["strategy", "startups", "blockchain", "AI"]
 
 show_meta: true
 comments: true

@@ -5,8 +5,7 @@ date: 2016-11-02 22:07
 # Should be longer than 20 words, so it will appear as post summary
 description: Deciding not to wait for Tiago Forte to combine two of his best essays, here I apply management theory to mood-based producivity.
 # tags will also be used as html meta keywords.
-tags:
-  - philosophy doggerel
+category: "producivity"
 
 show_meta: true
 comments: true

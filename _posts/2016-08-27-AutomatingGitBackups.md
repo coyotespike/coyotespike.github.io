@@ -5,8 +5,7 @@ date: 2016-08-27 13:19
 # Should be longer than 20 words, so it will appear as post summary
 description: A project to organize files into Git, create a shell script to back them up, and make it run automatically.
 # tags will also be used as html meta keywords.
-tags:
-  - programming
+categories: ["software", "programming"]
 
 show_meta: true
 comments: true
