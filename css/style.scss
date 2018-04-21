@@ -528,6 +528,11 @@ pre {
 .post-content {
   margin-bottom: $spacing-unit;
   padding-bottom: 3em !important;
+  max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+  max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+  padding-right: $spacing-unit * 4;
+  padding-left: $spacing-unit * 4;
+
   p {
     font-size: 0.9rem;
   }
