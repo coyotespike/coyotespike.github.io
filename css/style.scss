@@ -14,7 +14,7 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 // Width of the content area
-$content-width:    800px;
+$content-width:    600px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
@@ -526,7 +526,6 @@ pre {
   padding-bottom: 3em !important;
   p {
     font-size: 1rem;
-    width: 80em;
   }
   h2 {
     font-size: 32px;
