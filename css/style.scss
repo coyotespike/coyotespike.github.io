@@ -14,7 +14,7 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 // Width of the content area
-$content-width:    800px;
+$content-width:    1000px;
 
 $on-palm:          768px;
 $on-laptop:        800px;
@@ -25,7 +25,6 @@ $on-laptop:        800px;
         @content;
     }
 }
-
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
@@ -204,7 +203,7 @@ pre {
     @extend %clearfix;
 
     @include media-query($on-laptop) {
-        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
+        max-width: -webkit-calc(#{$content-width * 1.5} - (#{$spacing-unit}));
         max-width:         calc(#{$content-width} - (#{$spacing-unit}));
         padding-right: $spacing-unit / 2;
         padding-left: $spacing-unit / 2;
@@ -242,7 +241,7 @@ pre {
 
 .post {
   font-family: "Source Sans Pro";
-  font-size: 18px;
+  font-size: 24px;
   font-weight: 300;
   padding-top: 0;
 }
@@ -347,7 +346,7 @@ pre {
 }
 .site-navigation {
   text-transform: uppercase;
-  font-size: 14px;
+  font-size: 16px;
   letter-spacing: 2px;
   text-indent: 6px;
   font-family: 'Josefin Sans';
