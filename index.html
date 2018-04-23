@@ -6,7 +6,7 @@ layout: default
 
 
   {% for post in paginator.posts%}
-  <div class="post postContent">
+  <div class="post postContent postPreviews">
     <div  class="postDate"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>
     </div>
     <div class="postTag">
