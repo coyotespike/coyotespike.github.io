@@ -293,17 +293,8 @@ pre {
   padding-top: 3.5em;
   text-align: center;
 
-  @include media-query($on-laptop){
-    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
-    padding-right: $spacing-unit * 4;
-    padding-left: $spacing-unit * 4;
-  }
-  @include media-query($on-palm){
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
-  }
 }
+
 .postDate {
   float: left;
   text-transform: uppercase;
@@ -563,12 +554,6 @@ pre {
       font-size: 18px;
     }
   }
-}
-.postPreviews {
-  max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
-  max-width:         calc(#{$content-width} - (#{$spacing-unit}));
-  padding-right: $spacing-unit / 2;
-  padding-left: $spacing-unit / 2;
 }
 
 /**
