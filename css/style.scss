@@ -317,7 +317,7 @@ pre {
   float: right;
 }
 .postTitle {
-  font-weight: 300;
+  font-weight: 400;
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 3px;
@@ -518,11 +518,11 @@ pre {
   margin-bottom: $spacing-unit;
 }
 .post-title {
-  font-size: 62px;
+  font-size: 48px;
 
   text-align: center;
   font-family: "PT Sans";
-  font-weight: 900;
+  font-weight: 700;
   @include media-query($on-laptop) {
     font-size: 36px;
   }
