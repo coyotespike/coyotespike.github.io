@@ -5,7 +5,7 @@ date: 2018-05-05
 # Should be longer than 20 words, so it will appear as post summary
 description: "A quick introduction to Token-Curated Registries, their sources of value and game theory, and where to apply them"
 # tags will also be used as html meta keywords.
-categories: ["blockchain", "game theory"]
+categories: ["blockchain"]
 
 show_meta: true
 comments: true

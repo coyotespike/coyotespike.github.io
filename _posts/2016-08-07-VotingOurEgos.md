@@ -5,7 +5,7 @@ date: 2016-08-07 18:26
 # Should be longer than 20 words, so it will appear as post summary
 description: "The technology thinker and write Clay Shirky argues that voting third party is an act of ego, not of conscience"
 # tags will also be used as html meta keywords.
-categories: ["politics", "game theory", "comparative politics"]
+categories: ["gametheory", "politics"]
 
 show_meta: true
 comments: true

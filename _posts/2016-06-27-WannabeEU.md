@@ -3,7 +3,7 @@ layout: post
 title: The European Union is what the United States was meant to be
 date: 2016-06-27 17:32
 description: American conservatives and libertarians should celebrate the EU and deplore Brexit.
-categories: ["politics", "comparative politics"]
+categories: ["politics"]
 
 show_meta: true
 comments: true
