@@ -107,6 +107,6 @@ best tools are worthless without a community that knows how to use them.
 Blockchain hype and penny-stock fluctuations in token prices at least have the
 effect of educating a community who knows how to use this new social technology.
 
-One benefit to a TCR factory would be learning how much work coordinating via
-TCRs will be, and hence where they can be applid, and when they must be combined
+One benefit to building a TCR factory would be learning how much work coordinating via
+TCRs will be, and hence where they can be applied, and when they must be combined
 with other cryptoeconomic primitives.
