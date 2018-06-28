@@ -3,7 +3,7 @@ layout: post
 title: Sword of Daedalus 
 date: 2018-06-28 12:38
 # Should be longer than 20 words, so it will appear as post summary
-description: How can we tell which blockchain and artificial intelligence ideas will work out? Start by asking if the idea is born in the darkness.
+description: American citizens sit in apparent security but actual fragility. 
 # tags will also be used as html meta keywords.
 categories: ["politics"]
 
