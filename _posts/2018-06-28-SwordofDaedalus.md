@@ -22,7 +22,7 @@ Nor did the king exaggerate: ancient and medieval monarchs were murdered regular
 
 Like Daedalus, we middle-class Americans sit in apparent security, but in actual vulnerability.
 
-If you have a mortgage, the bank can seize the smallest pretext - they can mess up your payment themselves - and use it to seize your house. The courts favor their cause almost without question.
+If you have a mortgage, the bank can seize the smallest pretext - they can mess up your payment themselves - and use it to foreclose on your house. The courts favor their cause almost without question.
 
 The police may be dispatched to the wrong house, kick in your door, beat you up. They may seize any cash you hold during travel. And you will not be able to hold the police or the police department or the city or anyone to account. I've read the cases, it's almost impossible.
 

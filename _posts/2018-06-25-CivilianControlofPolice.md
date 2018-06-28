@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Civilian Control of the Police"
+description: The best way to police the police would be to fire bad actors, yet we can't do this. 
 date: 2018-06-28 19:45:31 +0530
 categories: ["politics"]
 ---
