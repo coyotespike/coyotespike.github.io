@@ -15,8 +15,7 @@ published: true
 noindex: false
 nofollow: false
 ---
-![bernine]({{coyotespike.github.io}}/_images/Botticelli.jpg)
-<img src="/_images/Botticelli.jpg" />
+
 ## Bring on the Philistines
 I've always been literary, but have rarely visited art museums. When I got the
 opportunity I had to start my art education from scratch. 
@@ -40,7 +39,7 @@ embarrassment of unpopular opinions (which I will share shortly) is outweighed
 by the pleasant surprise of a discriminating taste.
 
 We can't make judgments without some standard or other, and the more I make
-these judgments the more I grow my own philosophy of art.
+these judgments the more I discover and grow my own philosophy of art.
 
 ## Surrealists Yes, Impressionists No
 In MOMA I enjoyed many of the surrealist paintings, finding the concepts
@@ -74,7 +73,7 @@ he imagined, the guiding angel looks strong rather than ethereal.
 Speaking of ethereal, Botticelli cuts such a contrast with the surrounding
 artwork. 
 
-<img src="/_images/Botticelli.jpg" />
+![Botticelli](/images/Botticelli.jpg)
 
 Light, golden, ethereal, hazy, I wonder if Italy has more of his
 contemporaries and if any are closer in technique.
@@ -126,18 +125,18 @@ This electric painting stood out from everything around it, I was pleased to dis
 I did not expect to enjoy much of the African collection, but in fact many of
 the pieces there displayed an astounding and thrilling level of abstraction.
 
-<img src="/_images/Sinuous.jpg" />
+![Sinuous](/images/Sinuous.jpg)
 
-<img src="/_images/FemaleForm.jpg" />
+![FemaleForm](/images/FemaleForm.jpg)
 
 And her counterpart:
 
-<img src="/_images/SlightlyPhallic.jpg" />
+![SlightlyPhallic](/images/SlightlyPhallic.jpg)
 
 The blue man needs to be walked around to be fully appreciated.
-<img src="/_images/BlueMan.jpg" />
+![BlueMan](/images/BlueMan.jpg)
 
-<img src="/_images/IvoryHorn.jpg" />
+![IvoryHorn](/images/IvoryHorn.jpg)
 
 I have no misguided sense of political correctness here - many of the pieces are
 interesting anthropologically but not artistically.
@@ -164,7 +163,7 @@ One other note about the Louvre - like the British Museum, it has jawdropping
 statues nicked from Egypt and elsewhere, 1500 years BC and more, in mint
 condition, and just shoved out where anyone can touch them.
 
-<img src="/_images/EasterIslandHead.jpg" />
+![EasterIslandHead](/images/EasterIslandHead.jpg)
 
 I have more than my fair share of anti-authoritarianism but touching statuary
 and relics, which many people do, is a social norm which should be more strongly
@@ -172,7 +171,7 @@ enforced. Human touch degrades these, and they belong to the ages.
 
 This bleak landscape is by one of the few Scandinavians they have got.
 
-<img src="/_images/BleakScandinavian.jpg" />
+![BleakScandinavian](/images/BleakScandinavian.jpg)
 
 Tyler Cowen's advice to stick mainly with Michelangelo's work, and Flemish
 paintings, is very sound, at least if we count the Dutch painters (like
@@ -187,14 +186,14 @@ After you have appreciated the callipygous form on display here, notice how the
 hands indent the skin they are gripping - but compare with Bernini's Rape of
 Proserpina. 
 
-<img src="/_images/HermesandPsyche.jpg" />
+![HermesandPsyche](/images/HermesandPsyche.jpg)
 
 Bernini is vastly superior.
 
 The colors here are even more vivid in person. How he must have worked at the
 chemistry of his paint!
 
-<img src="/_images/Orange.jpg" />
+![Orange](/images/Orange.jpg)
 
 Campi's work is amazing, but a bit bonkers. Is that the Death Star impinging on the Crucifixion?
 
