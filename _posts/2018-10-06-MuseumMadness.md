@@ -73,7 +73,6 @@ he imagined, the guiding angel looks strong rather than ethereal.
 Speaking of ethereal, Botticelli cuts such a contrast with the surrounding
 artwork. 
 
-![Botticelli]({{ coyotespike.github.io }}/_images/Botticelli.jpg)
 <img src="/_images/Botticelli.jpg" />
 
 Light, golden, ethereal, hazy, I wonder if Italy has more of his
@@ -126,10 +125,8 @@ This electric painting stood out from everything around it, I was pleased to dis
 I did not expect to enjoy much of the African collection, but in fact many of
 the pieces there displayed an astounding and thrilling level of abstraction.
 
-![Sinuous]({{ coyotespike.github.io }}/_images/Sinuous.jpg)
 <img src="/_images/Sinuous.jpg" />
 
-![La Femme]({{ coyotespike.github.io }}/_images/FemaleForm.jpg)
 <img src="/_images/FemaleForm.jpg" />
 
 And her counterpart:
@@ -137,10 +134,8 @@ And her counterpart:
 <img src="/_images/SlightlyPhallic.jpg" />
 
 The blue man needs to be walked around to be fully appreciated.
-![Blue Man]({{ coyotespike.github.io }}/_images/BlueMan.jpg)
 <img src="/_images/BlueMan.jpg" />
 
-![Ivory Horn]({{ coyotespike.github.io }}/_images/IvoryHorn.jpg)
 <img src="/_images/IvoryHorn.jpg" />
 
 I have no misguided sense of political correctness here - many of the pieces are
@@ -177,7 +172,6 @@ enforced. Human touch degrades these, and they belong to the ages.
 
 This bleak landscape is by one of the few Scandinavians they have got.
 
-![Scandinavia of course]({{coyotespike.github.io}}/_images/BleakScandinavian.jpg)
 <img src="/_images/BleakScandinavian.jpg" />
 
 Tyler Cowen's advice to stick mainly with Michelangelo's work, and Flemish
@@ -193,7 +187,6 @@ After you have appreciated the callipygous form on display here, notice how the
 hands indent the skin they are gripping - but compare with Bernini's Rape of
 Proserpina. 
 
-![Hermes and Psyche]({{ coyotespike.github.io }}/_images/HermesandPsyche.jpg)
 <img src="/_images/HermesandPsyche.jpg" />
 
 Bernini is vastly superior.
@@ -201,7 +194,7 @@ Bernini is vastly superior.
 The colors here are even more vivid in person. How he must have worked at the
 chemistry of his paint!
 
-![Colors]({{ coyotespike.github.io }}/_images/Orange.jpg)
+<img src="/_images/Orange.jpg" />
 
 Campi's work is amazing, but a bit bonkers. Is that the Death Star impinging on the Crucifixion?
 
