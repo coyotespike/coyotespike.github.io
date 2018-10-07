@@ -15,7 +15,8 @@ published: true
 noindex: false
 nofollow: false
 ---
-
+![bernine]({{coyotespike.github.io}}/_images/Botticelli.jpg)
+<img src="/_images/Botticelli.jpg" />
 ## Bring on the Philistines
 I've always been literary, but have rarely visited art museums. When I got the
 opportunity I had to start my art education from scratch. 
@@ -130,7 +131,7 @@ the pieces there displayed an astounding and thrilling level of abstraction.
 <img src="/_images/FemaleForm.jpg" />
 
 And her counterpart:
-![L'Homme]({{ coyotespike.github.io }}/_images/SlightlyPhallic.jpg)
+
 <img src="/_images/SlightlyPhallic.jpg" />
 
 The blue man needs to be walked around to be fully appreciated.
@@ -163,7 +164,6 @@ One other note about the Louvre - like the British Museum, it has jawdropping
 statues nicked from Egypt and elsewhere, 1500 years BC and more, in mint
 condition, and just shoved out where anyone can touch them.
 
-![Easter Island or thereabouts]({{ coyotespike.github.io }}/_images/EasterIslandHead.jpg)
 <img src="/_images/EasterIslandHead.jpg" />
 
 I have more than my fair share of anti-authoritarianism but touching statuary
