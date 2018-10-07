@@ -25,8 +25,8 @@ the next few decades.
 ## The Good Life and Economic Growth 
 At a political level, Tyler argues that the good life is made up of many values,
 not just one or a few, and in addition different people weight these values very
-differently. As a result you cannot devise a philosophy that promotes a singular
-good as its goal.
+differently. As a result you cannot devise a good civic philosophy that promotes
+a singular good as its goal.
 
 Consider Prohibition - its goal was to prevent spousal abuse, which is a good
 goal from any legitimate perspective, but it also promoted a righteous, sober,
