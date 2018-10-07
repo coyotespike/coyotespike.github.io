@@ -26,9 +26,9 @@ opinion such reverence is a mistake.
 
 When I visited MOMA in New York, and the Louvre in Paris, I gave myself full
 license to be completely judgmental. This means setting aside any fear of coming
-across as a bourgeous philistine, and really it means making many judgments without
-any formal education in art criticism or background in art history. It means
-making judgments which one is not entitled to make, in a sense.
+across as a bourgeouis philistine, and making many judgments without any formal
+education in art criticism or background in art history. It means making
+judgments which one is not entitled to make, in a sense.
 
 I do not claim that sweeping generalizations will help you become an educated
 and informed critic, someone making sound and well-established judgments.
@@ -133,17 +133,17 @@ And her counterpart:
 
 ![SlightlyPhallic](/images/SlightlyPhallic.jpg)
 
-The blue man needs to be walked around to be fully appreciated.
+The blue man needs to be walked around to appreciate how his face stands out in an ncanny way.
 ![BlueMan](/images/BlueMan.jpg)
 
 ![IvoryHorn](/images/IvoryHorn.jpg)
 
-I have no misguided sense of political correctness here - many of the pieces are
-interesting anthropologically but not artistically.
+I have no misguided sense of political correctness here - many of the pieces in
+this section are interesting anthropologically but not artistically.
 
-Note that a painting does not need to act as literature, I think - those
-enjoyable 18th-centry French landscapes I mentioned above don't aspire to
-commentary.
+Note that a painting does not need to act as literature, I think, though that is
+a valid and valuable aim - those enjoyable 18th-centry French landscapes I
+mentioned above don't aspire to commentary.
 
 And of course then there are the compositions which cannot be done in
 photographs without huge budgets, such as the wreckage of the Medusa.
