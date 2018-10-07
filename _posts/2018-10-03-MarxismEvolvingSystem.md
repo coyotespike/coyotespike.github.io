@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Marxism as an Evolving System
-date: 2018-05-05
+date: 2018-10-03
 # Should be longer than 20 words, so it will appear as post summary
 description: "Summing up a few characteristics of Marxist thought as a system"
 # tags will also be used as html meta keywords.

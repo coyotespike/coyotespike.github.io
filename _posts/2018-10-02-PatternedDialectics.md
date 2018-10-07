@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Patterns and Marxist Ideology
-date: 2018-05-05
+date: 2018-10-02
 # Should be longer than 20 words, so it will appear as post summary
 description: "Christopher Alexander's concept of nested patterns helps explain how Marxists thought about ideology"
 # tags will also be used as html meta keywords.

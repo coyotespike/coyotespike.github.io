@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Compound Interest and the Family 
-date: 2018-05-05
+date: 2018-10-05
 # Should be longer than 20 words, so it will appear as post summary
 description: "Applying the idea of increasing returns to effort to the family across generations"
 # tags will also be used as html meta keywords.
