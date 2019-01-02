@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A New Year's Resolution is a Risky Business
-date: 2018-12-24
+date: 2019-01-01
 # Should be longer than 20 words, so it will appear as post summary
 description: "Turns out old proverbs hide a canny assessment of risk. Stop and smell the roses, and never put off till tomorrow what can be done today"
 # tags will also be used as html meta keywords.
