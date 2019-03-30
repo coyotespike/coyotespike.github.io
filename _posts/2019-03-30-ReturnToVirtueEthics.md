@@ -153,7 +153,9 @@ The result of a lifetime of labor and vigilance may be the development of a sens
 > As arching vastness, as depthless springs, he brings forth all this according to the times.
 
 ***
+
 ***
+
 ***
 
 ### A Word to Our Sponsors<a id="sec-6"></a>
