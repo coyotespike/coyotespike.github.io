@@ -152,11 +152,15 @@ The result of a lifetime of labor and vigilance may be the development of a sens
 > 
 > As arching vastness, as depthless springs, he brings forth all this according to the times.
 
-## A Word to Our Sponsors<a id="sec-6"></a>
+***
+***
+***
+
+### A Word to Our Sponsors<a id="sec-6"></a>
 
 I am grateful to Robert Eno of Indiana University Bloomington for his generosity in providing us all with elegant and open translations of the Four Books and other works of the Confucian and Daoist canon. All my quotations of the Four Books here are from those translations, which you may find [here](http://www.indiana.edu/~p374/Resources.html).
 
-## Extra<a id="sec-7"></a>
+### Extra<a id="sec-7"></a>
 
 I cannot resist mentioning that the rewards of this path may go beyond the development of moral wisdom. Mencius thought he himself excelled primarily in possessing a "flood-like *qi*," which I imagine as a sense of inner unity and confidence. 
 
