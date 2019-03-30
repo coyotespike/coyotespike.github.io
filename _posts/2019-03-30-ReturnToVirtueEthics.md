@@ -62,7 +62,7 @@ How does each of these options mesh with my own temperament and desires? With wh
 
 In my deliberative process, as Bernard Williams put it, these considerations all enter in, and they aren't handled well by moral systems. 
 
-Even more broadly, when I relate to another human being and experience them (an ethical endeavour if ever there was one) moral systems haven't the faintest clue of the most important aspects of that experience. They lack all interiority. As Wiliams expressed it,
+Even more broadly, when I relate to another human being and experience them (an ethical endeavour if ever there was one) moral systems haven't the faintest clue of the most important aspects of that experience. They lack all interiority. As Williams expressed it,
 
 > The notion of being friendly, ruthless, sensitive, fearless, devious, dependent, sullen&#x2026; Moral systems cannot capture the force of such concepts by the simple duality of 'ought' and 'ought not,' however hard they may try.
 
@@ -154,7 +154,7 @@ The result of a lifetime of labor and vigilance may be the development of a sens
 
 ## A Word to Our Sponsors<a id="sec-6"></a>
 
-I am grateful to Robert Eno of Indiana University Bloomington for his generosity in providing us all with elegant and open translations of the Four Books. All my quotations here are from those translations, which you may find here.
+I am grateful to Robert Eno of Indiana University Bloomington for his generosity in providing us all with elegant and open translations of the Four Books and other works of the Confucian and Daoist canon. All my quotations of the Four Books here are from those translations, which you may find [here](http://www.indiana.edu/~p374/Resources.html).
 
 ## Extra<a id="sec-7"></a>
 
