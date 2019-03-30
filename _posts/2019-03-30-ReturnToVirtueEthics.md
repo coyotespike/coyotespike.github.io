@@ -104,13 +104,13 @@ To repeat, there are two parts to my solution, and I think this is reflected in 
 
 One is hard study, the collection of near-infinite judgments such that few situations have not been encountered before. This in itself partly overcomes the problem of non-transferability (which I remind you is itself a problem resulting from a situational ethics).
 
-The Doctrine of Timeliness about sums up my idea of a situational ethics. Like the Confucians' opponents the Mohists, utilitarians do not distinguish moral duties based on identity. If something should be done, *you* should do it. To neglect a starving child on the other side of the world is the same as walking by a drowning child not ten feet from you. There is no such thing as a moral emergency.
+The Doctrine of Timeliness about sums up my idea of a situational ethics. If you haven't gone far enough, you immediately go farther; if you've overstepped, you stop on a dime. Making a mistake isn't dishonorable to a *junzi*, says Mencius, as long as it's a reasonable mistake - and she corrects the mistake immediately.
 
-A situational ethics allows for priorities, indeed can even insist upon them.
+A situational ethics allows for priorities, indeed can even insist upon them. Like the Confucians' opponents the Mohists, utilitarians do not distinguish moral duties based on identity. If something should be done, *you* should do it. To neglect a starving child on the other side of the world is the same as walking by a drowning child not ten feet from you. There is no such thing as a moral emergency. The same thing goes for a deontological approach, but not so for the ethical actor who pays attention to context.
 
 > When a gentleman speaks on a matter he should not have addressed, that is appropriating what is not his to take. When he does not speak on a matter he should address, that too is appropriating what is not his to take.
 
-These judgments should take into account the totality of the circumstances and the lived experience, the interiority, of each human being.
+These context-dependent moral judgments should take into account the totality of the circumstances and the lived experience, the interiority, of each human being.
 
 > Mencius said, "'Humanity' means 'human.' When these two are conjoined you have the Dao."
 
@@ -143,8 +143,6 @@ Or, from The Doctrine of the Mean, we have:
 > The manner in which the *junzi* surpasses others lies in what others cannot see.
 
 A capacity to finely tailor an ethical recommendation to a person's their financial situation, professional and personal capacities, long-term desires, short-term options and happiness, with due regard to the moral obligations owed to friends and family and colleagues, cannot easily be summed up. A broad rule cannot be stated, and others cannot discern the decision-making process.
-
-If you haven't gone far enough, you immediately go farther; if you've overstepped, you stop on a dime. Making a mistake isn't dishonorable to a *junzi*, says Mencius, as long as it's a reasonable mistake - and she corrects the mistake immediately.
 
 The result of a lifetime of labor and vigilance may be the development of a sensitive and powerful ethical capacity, the development of virtues which are effective in proportion to their difficulty in being apprehended.
 
