@@ -76,7 +76,7 @@ Broad rules of thumb are less helpful, as we cannot rely on ethical systems to g
 
 I think we are left with something approaching a virtue ethics, but not as we know it, so to speak. I will argue that a situational approach, an insistence that we can judge an ethical matter only with regard to a particular person in their particular place and time, pushes us to say that an ethical actor must develop good judgment.
 
-First I must reference the continuing debate, worry really, about transferability. When all gentlemen were meant to study classics, the justification was that anyone who could survive the rigors of classical study was prepared for anything else. As the Duke of Wellington said (apocryphally) that Waterloo was won on the playing fields of Eton, so the Victorian Empire might have been said to be sustained in the halls of Oxbridge.
+First I must reference the continuing debate, worry really, about academic transferability. When all gentlemen were meant to study classics, the justification was that anyone who could survive the rigors of classical study was prepared for anything else. As the Duke of Wellington said (apocryphally) that Waterloo was won on the playing fields of Eton, so the Victorian Empire might have been said to be sustained in the halls of Oxbridge.
 
 Much the same argument survives today, only for other fields of study, but I am pessimistic that much if anything transfers elsewhere. To speak plainly, we don't become better reasoners across the board merely because we have played chess well or studied higher mathematics. Sadly our skills seem largely confined to the area of mastery (there may be some slight transfer with statistics).
 
