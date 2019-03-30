@@ -70,7 +70,7 @@ Even going back to ethical pluralism, the more precise the ethical questions I r
 
 # The Situation Room and Transferability<a id="sec-4"></a>
 
-At this point we have left ethical systems far behind and are relying in a confused, nebulous fashion on a situational ethics.
+At this point we have left ethical systems far behind and are relying in a confused, [nebulous fashion](https://meaningness.com/nebulosity) on a situational ethics.
 
 Broad rules of thumb are less helpful, as we cannot rely on ethical systems to guide us. Instead, paying due regard to conflicting ethical systems that refine and push our intuitions this way and that, we have to muddle our way on a case by case basis.
 
