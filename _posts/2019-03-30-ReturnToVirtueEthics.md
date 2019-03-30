@@ -124,8 +124,6 @@ As a result, the Master
 
 An expert is simply a person who's made all the mistakes possible to make in a limited domain; in the wide domain of moral action there will be few who have made or at least studied most of the mistakes possible. 
 
-> "No one does not eat, but few can know the taste."
-
 Hence, and as the second part of a solution to a situational ethics, we have a sort of organic virtue ethics.
 
 This quasi-virtue ethics can't be codified, I think, into lists of virtues, perhaps lying in between the extremes and in the mean. It's a taste for a finely measured response to the complexities of a moral quandary.
@@ -143,6 +141,8 @@ Or, from The Doctrine of the Mean, we have:
 > The manner in which the *junzi* surpasses others lies in what others cannot see.
 
 A capacity to finely tailor an ethical recommendation to a person's their financial situation, professional and personal capacities, long-term desires, short-term options and happiness, with due regard to the moral obligations owed to friends and family and colleagues, cannot easily be summed up. A broad rule cannot be stated, and others cannot discern the decision-making process.
+
+> "No one does not eat, but few can know the taste."
 
 The result of a lifetime of labor and vigilance may be the development of a sensitive and powerful ethical capacity, the development of virtues which are effective in proportion to their difficulty in being apprehended.
 
