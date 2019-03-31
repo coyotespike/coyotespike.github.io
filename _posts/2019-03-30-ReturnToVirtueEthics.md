@@ -146,7 +146,7 @@ A capacity to finely tailor an ethical recommendation to a person's financial si
 
 The result of a lifetime of labor and vigilance may be the development of a sensitive and powerful ethical capacity, the development of virtues which are effective in proportion to their difficulty in being apprehended.
 
-> Only the greatest sage in the world possesses the keen powers of **listening and seeing, penetration and wisdom** that fit him to approach men as a ruler; the **magnanimity, generosity, gentleness, and flexibility** that fit him to accommodate others; the **vigor, strength, firmness, and resolution** that fit him to take a firm grip; the **focus, seriousness, balance, and uprightness** that fit him to be reverent; the **pattern, order, concentration, and incisiveness** that fit him to discriminate among different things.
+> Only the greatest sage in the world possesses the keen powers of *listening and seeing, penetration and wisdom* that fit him to approach men as a ruler; the *magnanimity, generosity, gentleness, and flexibility* that fit him to accommodate others; the *vigor, strength, firmness, and resolution* that fit him to take a firm grip; the *focus, seriousness, balance, and uprightness* that fit him to be reverent; the *pattern, order, concentration, and incisiveness* that fit him to discriminate among different things.
 > 
 > As arching vastness, as depthless springs, he brings forth all this according to the times.
 
@@ -159,8 +159,6 @@ The result of a lifetime of labor and vigilance may be the development of a sens
 ### A Word to Our Sponsors<a id="sec-6"></a>
 
 I am grateful to Robert Eno of Indiana University Bloomington for his generosity in providing us all with elegant and open translations of the Four Books and other works of the Confucian and Daoist canon. All my quotations of the Four Books here are from those translations, which you may find [here](http://www.indiana.edu/~p374/Resources.html).
-
-The emphasis in the final quotation is mine.
 
 ### Extra<a id="sec-7"></a>
 
