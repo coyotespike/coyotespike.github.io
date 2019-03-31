@@ -40,7 +40,7 @@ To be fair, one can break any of these three ethical systems by posing the right
 
 Each of them fails to give answers that satisfy our intuitions, at least some of the time, and I'm not convinced the fault always lies in our intuitions. For that reason I prefer to hedge my bets and mix my ethical systems - as most people do in daily life anyway - into an ethical pluralism.
 
-Each of these approaches can inspire an answer and guide our approach, and there is no reason not to use all three when we can, even if they conflict. I am in good company here. Tyler Cowen in his recent "Stubborn Attachments" suggests that we should use human rights as a deontological backstop to our political efforts, while taking the improvement of life for our more-numerous descendants as our consequentialist lodestone.
+Each of these approaches can inspire an answer and guide our approach, and there is no reason not to use all three when we can, even if they conflict. I am in good company here. Tyler Cowen in his recent [Stubborn Attachments](https://www.amazon.com/Stubborn-Attachments-Prosperous-Responsible-Individuals/dp/1732265135) suggests that we should use human rights as a deontological backstop to our political efforts, while taking the improvement of life for our more-numerous descendants as our consequentialist lodestone.
 
 Still, despite my philosophical promiscuity, virtue ethics remained for me a red-headed stepchild. I would have said, give me consequentialism first, deontology second, and leave virtue ethics as a vague inspiration in biographies. Utilitarianism with deontology as a corrective, or for use in personal relationships, seemed to give good answers most of the time.
 
@@ -116,7 +116,7 @@ These context-dependent moral judgments should take into account the totality of
 
 Accumulating such deep experience takes time, of course, and Confucius thought he himself became an expert moral actor only after the age of 70. The result is a flexible and tailored response to shifting ethical demands. Mencius said of Confucius,
 
-> When speed was appropriate he was fast, when delay was appropriate he was slow. Where it was appropriate to dwell apart he dwelt apart, where it was appropriate to serve he served."
+> When speed was appropriate he was fast, when delay was appropriate he was slow. Where it was appropriate to dwell apart he dwelt apart, where it was appropriate to serve he served.
 
 As a result, the Master
 
@@ -130,7 +130,7 @@ This quasi-virtue ethics can't be codified, I think, into lists of virtues, perh
 
 The Confucians would say the way is subtle, unseen, an invisible pattern.
 
-> "Nothing is more visible than the obscure, nothing is plainer than the subtle."
+> Nothing is more visible than the obscure, nothing is plainer than the subtle.
 
 Or, from The Doctrine of the Mean, we have:
 
@@ -140,13 +140,13 @@ Or, from The Doctrine of the Mean, we have:
 > 
 > The manner in which the *junzi* surpasses others lies in what others cannot see.
 
-A capacity to finely tailor an ethical recommendation to a person's their financial situation, professional and personal capacities, long-term desires, short-term options and happiness, with due regard to the moral obligations owed to friends and family and colleagues, cannot easily be summed up. A broad rule cannot be stated, and others cannot discern the decision-making process.
+A capacity to finely tailor an ethical recommendation to a person's financial situation, professional and personal capacities, long-term desires, short-term options and happiness, with due regard to the moral obligations owed to friends and family and colleagues, cannot easily be summed up. A broad rule cannot be stated, and others cannot discern the decision-making process.
 
-> "No one does not eat, but few can know the taste."
+> No one does not eat, but few can know the taste.
 
 The result of a lifetime of labor and vigilance may be the development of a sensitive and powerful ethical capacity, the development of virtues which are effective in proportion to their difficulty in being apprehended.
 
-> Only the greatest sage in the world possesses the keen powers of listening and seeing, penetration and wisdom that fit him to approach men as a ruler; the magnanimity, generosity, gentleness, and flexibility that fit him to accommodate others; the vigor, strength, firmness, and resolution that fit him to take a firm grip; the focus, seriousness, balance, and uprightness that fit him to be reverent; the pattern, order, concentration, and incisiveness that fit him to discriminate among different things.
+> Only the greatest sage in the world possesses the keen powers of **listening and seeing, penetration and wisdom** that fit him to approach men as a ruler; the **magnanimity, generosity, gentleness, and flexibility** that fit him to accommodate others; the **vigor, strength, firmness, and resolution** that fit him to take a firm grip; the **focus, seriousness, balance, and uprightness** that fit him to be reverent; the **pattern, order, concentration, and incisiveness** that fit him to discriminate among different things.
 > 
 > As arching vastness, as depthless springs, he brings forth all this according to the times.
 
@@ -160,8 +160,16 @@ The result of a lifetime of labor and vigilance may be the development of a sens
 
 I am grateful to Robert Eno of Indiana University Bloomington for his generosity in providing us all with elegant and open translations of the Four Books and other works of the Confucian and Daoist canon. All my quotations of the Four Books here are from those translations, which you may find [here](http://www.indiana.edu/~p374/Resources.html).
 
+The emphasis in the final quotation is mine.
+
 ### Extra<a id="sec-7"></a>
 
 I cannot resist mentioning that the rewards of this path may go beyond the development of moral wisdom. Mencius thought he himself excelled primarily in possessing a "flood-like *qi*," which I imagine as a sense of inner unity and confidence. 
 
-> "It is hard to describe&#x2026;This is a *qi* that is as vast and firm as can be. If one nurtures it by means of straightforward action and never impairs it, then it will fill all between heaven and earth. It is a *qi* that is a companion to righteousness and the Dao. Without these, it will starve away. It is generated through the long accumulation of acts of right. It is not something that can be seized through a single righteous act. If in your actions there is any sense of inadequacy in your heart, it will starve away."
+> "It is hard to describe&#x2026;
+>
+> This is a *qi* that is as vast and firm as can be. If one nurtures it by means of straightforward action and never impairs it, then it will fill all between heaven and earth. It is a *qi* that is a companion to righteousness and the Dao. Without these, it will starve away. 
+>
+> It is generated through the long accumulation of acts of right. It is not something that can be seized through a single righteous act. 
+>
+> If in your actions there is any sense of inadequacy in your heart, it will starve away."
