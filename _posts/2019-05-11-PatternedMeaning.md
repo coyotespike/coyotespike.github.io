@@ -211,7 +211,7 @@ shadows and ambience are replaced by harsh shadows and glare.
 # Meaning Upon Meaning
 
 Straitjacketing meaning not only is too rigid, for someone used to more flexible
-and multidinuous sources of meaning, it is even distorting. When we release our
+and multitudinuous sources of meaning, it is even distorting. When we release our
 attachment to the artificial light of a single transcendent source of meaning,
 we may find the twilight play of subtle shadows more complex and more
 satisfying.
