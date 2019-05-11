@@ -66,9 +66,7 @@ Honestly, maybe most secular people today feel this attitude to some degree.
 Considered *sub specie aeternitatis*, goes the story, our life is meaningless.
 Our sense of meaning is false, illusory, but at least it's there.
 
-Look a little closer, and you'll see that this argument can be expressed in a
-syllogism - but actually it is an enthymeme, leaving out the most important
-step. 
+This argument can be expressed in a syllogism, like so:
 
 > (A) Compared to the cosmos, we are insignificant. 
 
@@ -77,7 +75,7 @@ step.
 > (C) Therefore, our lives are meaningless. 
 
 Few philosphers make explicit this second step, skipping straight from (A) to
-(C), probably because it does not occur to them to question it.
+(C), turning our syllogism into an enthymeme. Probably they skip the all-important second step because it does not occur to them to question it.
 
 
 <a id="org6170b63"></a>
