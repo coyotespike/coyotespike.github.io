@@ -3,7 +3,7 @@ layout: post
 title: Patterned Meaning and Polytheistic Materialism
 date: 2019-05-11
 # Should be longer than 20 words, so it will appear as post summary
-description: Some meaningful activity nests within others, but most don't, and we can develop the skill of appreciating meaning wherever it arises.
+description: Some meaningful activities nest within others, but most don't, and we can develop the skill of appreciating meaning wherever it arises.
 # tags will also be used as html meta keywords.
 categories: ["philosophy"]
 
@@ -29,12 +29,14 @@ nofollow: false
 8.  [Sources](#orgc41b4a8)
 
 > Alvy Singer: Well, the universe is everything, and if it's expanding, someday it will break apart, and that will be the end of everything.
-> Mrs. Singer: What is that your business? He's stopped doing his homework.
-> Alvy Singer: What's the point?
-> Mrs. Singer: What has the universe got to do with it. You're here, in Brooklyn. Brooklyn is not expanding.
-> Dr. Flicker: It won't be expanding for billions of years yet, Alvy. And we've gotta try and enjoy ourselves while we're here. Huh? Huh? Huh?
 
-"Annie Hall"
+> Mrs. Singer: What is that your business? He's stopped doing his homework.
+
+> Alvy Singer: What's the point?
+
+> Mrs. Singer: What has the universe got to do with it. You're here, in Brooklyn. Brooklyn is not expanding.
+
+> Dr. Flicker: It won't be expanding for billions of years yet, Alvy. And we've gotta try and enjoy ourselves while we're here. Huh? Huh? Huh?
 
 
 <a id="orgfe90523"></a>
@@ -69,11 +71,13 @@ syllogism - but actually it is an enthymeme, leaving out the most important
 step. 
 
 > (A) Compared to the cosmos, we are insignificant. 
-> (B) *Unless we matter to the cosmos, life is meaningless.* 
+
+> (B) **Unless we matter to the cosmos, life is meaningless.**
+
 > (C) Therefore, our lives are meaningless. 
 
-Few philosphers make explicit this second step, probably because it does not
-occur to them to question it.
+Few philosphers make explicit this second step, skipping straight from (A) to
+(C), probably because it does not occur to them to question it.
 
 
 <a id="org6170b63"></a>
@@ -203,9 +207,6 @@ Seen in this way, a higher, larger, or more extreme meaning may mar an ordinary
 meaning. It is like shining a floodlamp on a candlelit dinner. The subtle
 shadows and ambience are replaced by harsh shadows and glare.
 
-I think it was William James who said he did not become a Marxist because he had
-not given up one religion only to take up another.
-
 
 <a id="org444de56"></a>
 
@@ -234,7 +235,12 @@ a bridge, which will not bear too heavy a load. Drive on and keep going.
 
 We sense meaning with finger-feeling, *fingerspitzengefühl*. The meaning waxes
 and wanes in importance. We cannot force it to remain in place. Nor, often, can
-we precisely define or express it.
+we precisely define or express it. The sensed meaning often remains irreducibly
+confusing, in a particularly annoying way. 
+
+Gautama's definition of life as *dukkha* is often translated as *suffering* but
+is better translated as *dissatisfying*, and the confusing, transitory qualities
+of meaningful experience contributes no small part of the *dukkha* of life.
 
 Experiencing many small meanings, in a highly context-dependent way, becomes a
 skill, an appreciation and cultivation of many forms of excellence.
@@ -258,10 +264,14 @@ the sacred:
 # Laughing at Nihilism
 
 We are now ready to return to the contempt with which Chapman and others regard
-existentialist nihilism. What does our eventual death and atom-like proportion
-to the rest of the universe *matter* to the grand sweep of human history, to our
-projects and ambitions, to the lunch meeting with friends, to the baby in the
-cradle?
+existentialist nihilism. The fact that most patterns of meaning interlock with
+other patterns only loosely if at all, and usually do not nest within larger
+patterns of meanings, implies that our meaninglessness to the cosmos doesn't
+boomerang back home.
+
+What does our eventual death and atom-like proportion to the rest of the
+universe *matter* to the grand sweep of human history, to our projects and
+ambitions, to the lunch meeting with friends, to the baby in the cradle?
 
 We can gaze peacefully at aeons of time and space without lapsing into
 despairing nihilism. The two have not much to do with each other.
@@ -278,7 +288,6 @@ should the cosmic observer's indifference affect us any more?
 The more and longer you observe that most meanings stand independent of one
 another, the more absurd becomes the notion that the vastness of space destroys
 the many rippling meanings that make up a worthwhile human life.
-
 
 <a id="org58c8be7"></a>
 
@@ -346,16 +355,17 @@ many meanings to experience and to work out.
 
 # Sources
 
-All quotations above are from "All Things Shining" by Hubert Dreyfus et all,
-which is flawed but worth reading.
+All quotations above are from [All Things
+Shining](https://www.amazon.com/All-Things-Shining-Reading-Classics/dp/141659616X)
+by Hubert Dreyfus and Sean Kelly, which is flawed but worth reading.
 
-David Chapman's diagnosis of the eternalist-nihilist cycle, typical of those in
-what he dubs Kegan's Stage 4.5, broke me out of it.
+[David Chapman's](https://meaningness.com) diagnosis of the eternalist-nihilist
+cycle, typical of those in what he dubs Kegan's Stage 4.5, broke me out of it.
 
 For the point that if we don't matter to a cosmic observer, neither should the
 cosmic observer's opinion matter to us, I am indebted to a paper by a Chinese
 doctoral student studying in Dallas, if memory serves, but which I cannot now
 find.
 
-[Nagel on the Absurd](https://philosophy.as.uky.edu/sites/default/files/The%20Absurd%20-%20Thomas%20Nagel.pdf) is a classic in the field.
+[Nagel on the Absurd](https://philosophy.as.uky.edu/sites/default/files/The%20Absurd%20-%20Thomas%20Nagel.pdf) is a classic in the field, if you are looking for further reading.
 
