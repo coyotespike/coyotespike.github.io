@@ -240,7 +240,7 @@ confusing, in a particularly annoying way.
 
 Gautama's definition of life as *dukkha* is often translated as *suffering* but
 is better translated as *dissatisfying*, and the confusing, transitory qualities
-of meaningful experience contributes no small part of the *dukkha* of life.
+of meaningful experience contribute no small part of the *dukkha* of life.
 
 Experiencing many small meanings, in a highly context-dependent way, becomes a
 skill, an appreciation and cultivation of many forms of excellence.
