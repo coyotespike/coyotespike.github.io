@@ -192,7 +192,7 @@ They need a bump, a hit, if they go too long without it.
 
 They may feel guilty for caring about non-eternal matters too much. How can I
 enjoy a pastry when the proletariat continue to suffer, or (an effective
-altruist might feel) when children are starving in Africa)? These people, as I
+altruist might feel) when children are starving in Africa? These people, as I
 say, have lost a certain taste for the smaller pleasures in life.
 
 After a while this tic gets to be somewhat trying. If every time you admired a
