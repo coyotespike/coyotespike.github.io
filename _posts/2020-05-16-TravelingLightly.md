@@ -107,11 +107,11 @@ I have one change of travel underwear, designed to dry in a few hours, so you ca
 3-4 pairs of socks, so they can be changed every day. I also like travel compression socks.
 
 ### Electronics
-MacBook Pro 13", with cord
-Kindle
-Phone
-Earbuds
-Sunglasses
+- MacBook Pro 13", with cord
+- Kindle
+- Phone
+- Earbuds
+- Sunglasses
 
 I don't use a laptop case, because the Minaal's protection is so good, and it saves space not to.
 
@@ -181,7 +181,7 @@ All of this fits into the Minaal Daily, at 21L capacity.
 - Lacrosse ball 
 - Small thermos 
 - Computer
-- Cell phone, money, spork, notebook
+- Cell phone, money clip, spork, notebook
 - Earbuds
 - Kindle
 - Cords for computer/kindle/phone
