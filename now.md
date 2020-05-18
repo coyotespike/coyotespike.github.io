@@ -1,7 +1,7 @@
 ---
 layout: page
-title : About
-permalink: /about/
+title : Now
+permalink: /now/
 ---
 
 <h2>What I'm doing as of May 2020</h2>
