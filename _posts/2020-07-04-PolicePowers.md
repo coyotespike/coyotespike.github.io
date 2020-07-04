@@ -22,7 +22,7 @@ with them. But I find it hard to take the sight of shallow, ahistorial,
 parochial authoritarianism masquerading as conservatism.
 
 Nowhere is this tendency more evident than in the right's reflexive support of
-police, even as they wave "Don't Tread on Me** flags. The power of police in the
+police, even as they wave "Don't Tread on Me" flags. The power of police in the
 United States is deeply contrary to the traditions on which this nation was
 founded. We were founded on the principles of local self-rule, and separation of
 powers, and the unchecked power of police contradicts those principles.
@@ -91,13 +91,15 @@ police officer did something wrong, and the department decides to fire that
 person, often they simply are not allowed to fire them. The contract that the
 police union has negotiated forbids it.
 
-**Eighth***, in the very rare cases where a cop is fired, they can go get a job in another department, and they often do. So even firing a police officer is more bark than bite.
+**Eighth**, in the very rare cases where a cop is fired, they can go get a job in another department, and they often do. So even firing a police officer is more bark than bite.
 
 ## We Ain't No Angels
 
-Even the Most Holy Roman and Catholic Church, when deprived of accountability, shuffled pedophile priests around like they were playing a ball and shell game. Keep your eye on the ball, find the ball, where's the pedo, find the priest, look at the bishop look at the bishop, which bishop hides the priest! As they jumped around parishes and states to start over. And then the bishops did the same thing with money, to avoid getting sued by the victims.
+Even the Most Holy Roman and Catholic Church, when deprived of accountability, shuffled pedophile priests around like they were playing a ball and shell game. *Keep your eye on the ball, find the ball, where's the pedo, find the priest, look at the bishop look at the bishop, which bishop hides the priest!* 
 
-It's an iron law of human nature: power without accountability will fester into a stinking, rotting wound on the body politic. 
+As they jumped around parishes and states to start over. And then the bishops (like Cardinal Timothy Dolan in New York) did the same thing with money, to avoid getting sued by the victims.
+
+It's an iron law of human nature: power without accountability will fester into a putrid, rotting wound on the body politic. 
 
 If you believe police can have all the power I've outlined above, and somehow
 stay on the strait and narrow path, then you're more credulous and naive than
