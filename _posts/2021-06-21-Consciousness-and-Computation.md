@@ -18,7 +18,11 @@ nofollow: false
 
 ## The Evolution of Zombies
 
-A lot of people thinking about whether AIs will ever be conscious start off with "of course, all of us humans could do everything we do with zero consciousness, so it's hard to explain why we have it. Machines are just that, machines, and no matter what human tasks they take over, what feats they match, they will always remain wires and electricity, nothing more." 
+A disturbing number of thinkpieces on whether AIs will ever be conscious start off, explicitly or implicity, with something like:
+
+> of course, all of us humans could do everything we do with zero consciousness, so it's hard to explain why we have it. Machines are just that, machines, and no matter what human tasks they take over, what feats they match, they will always remain wires and electricity, nothing more.
+
+Beyond thinkpiece writers, my impression is that most people think this way too.
 
 Yet all available evidence undermines the unquestioned assumption that humans could operate without consciousness. Every single functional example of high general-purpose intelligence that we know of exhibits consciousness, and the more intelligence, the more consciousness. By this I mean our fellow animals.
 
