@@ -34,7 +34,7 @@ Mammals are an easy case, but take other examples, say birds. Even in birds, the
 
 Perhaps evolution can develop an intelligent agent without consciousness, but so far it never has, or not that we can tell. There is not the faintest hint anywhere in nature that consciousness is some purely optional add-on to agentic intelligence. To all appearances, the two have always gone hand-in-hand.[^2]
 
-Now, it is easy to _imagine_ a p-zombie (perhaps that is why they are so popular as a foundation for an argument) but that says nothing about whether they are actually possible. Nothing I have said so far rules them out; you can hold to your belief in the possibility of p-zombies if you are determined to. Still, before you carry on deducing what will and won't happen with machines, you should bring some empirical support to the p-zombie assumption.
+Now, it is easy to _imagine_ a p-zombie. Perhaps that is why they are so popular as a foundation for an argument. But that says nothing about whether they are empirically possible. Nothing I have said so far rules them out as a logical possibility, but the empirics do imply something about their biological - even computational - possibility. At the least, before you carry on deducing what will and won't happen with machines, you should bring some empirical support to the p-zombie assumption.
 
 ## A Very Stupid Genius
 
