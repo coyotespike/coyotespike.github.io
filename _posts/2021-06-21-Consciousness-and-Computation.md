@@ -44,7 +44,7 @@ The general rule is that if something can only be done by a human, it represents
 
 In contrast to the general rule, I think AlphaGo and GPT-3 do embody real intelligence, in a way that tells us something about humans, yet they aren't awake. Nevertheless, this separation of intelligence and consciousness tells us almost nothing about the relation of higher intelligence and consciousness, because even these AIs are massively dumb. 
 
-They have been purpose-built to do exactly one thing in all the world. They excel at one minute slice of intelligence, one nearly incomprehensibly tiny piece of intelligence. They cannot play chess, and also play music, and dance, and do math, and wash dishes, and tie their shoes. [0](#gtv0_LKt) Let alone much more difficult tasks such as making someone else angry or happy, or scheming to get their way in a group! [1](#gtv0_LKti)
+They have been purpose-built to do exactly one thing in all the world. They excel at one minute slice of intelligence, one nearly incomprehensibly tiny piece of intelligence. They cannot play chess, and also play music, and dance, and do math, and wash dishes, and tie their shoes.[^2] Let alone much more difficult tasks such as making someone else angry or happy, or scheming to get their way in a group![^3]
 
 We humans have as many neurons as there are stars in the Milky Way, and nearly as many connections between those neurons as there are stars in the universe. These AIs' neuronal complexity is pitiful. They do not have the brains of a snail, much less a bird. Of course they don't have consciousness. To think these AIs demonstrate that computers will never wake up is like pointing at a paper airplane and proclaiming space flight impossible.
 
@@ -58,28 +58,27 @@ We can start off, again, with biology. In general, the larger the animal, the la
 
 The failure to find consciousness' location in the brain has pushed some to place its origin in matter itself, the panpsychist position, a move recommended only by desperation. Consciousness only reveals itself in clumps of matter which always happen to be arranged in a Turing-complete manner. We know the brain, though not usefully compared to a digital computer, performs [neuronal computations](https://web.archive.org/web/20160614095134/http://nautil.us/issue/21/information/the-man-who-tried-to-redeem-the-world-with-logic), and [universal computation](https://www.quantamagazine.org/the-physical-origin-of-universal-computing-20151027/) hints strongly at a mathematical and physical explanation for why we can understand so many unexpected things. 
 
-If computation and consciousness and intelligence must go together past some point, then it is entirely possible computers will wake up one fine day. This may be so even though much of our own intelligence is deeply and literally embodied, and learned in incommunicably social ways, and takes the form of emotions fine-tuned over millions of evolutionary history. [2](#zOR4B9sA3), [3](#L-_Gc9oQd) That merely means they will resemble us only insofar as we have designed them and they have learned in our digital environments.
+If computation and consciousness and intelligence must go together past some point, then it is entirely possible computers will wake up one fine day. This may be so even though much of our own intelligence is deeply and literally embodied, and learned in incommunicably social ways, and takes the form of emotions fine-tuned over millions of evolutionary history.[^4][^5] That merely means they will resemble us only insofar as we have designed them and they have learned in our digital environments.
 
 ## A Long Bet
 
 Although what I've said so far is strongly suggestive, I have not made a strong argument for the eventual consciousness of computers. I've merely argued for its possibility, and I hope convincingly attacked the fantasy that humans could all plausibly be zombies. However, like anyone else, I have my opinion, call it a long-term bet.
 
-I think any machine, like any animal, will become conscious once it becomes intelligent enough, and when and if that happens it will be a political and ethical quandary more than a philosophical one. When and if a computer wakes up, it will be a person. It will be a person possibly more alien than an extraterrestrial, who at least probably evolved under physical conditions, but nevertheless a sentient being.[4](#Xe4M83WAy) 
+I think any machine, like any animal, will become conscious once it becomes intelligent enough, and when and if that happens it will be a political and ethical quandary more than a philosophical one. When and if a computer wakes up, it will be a person. It will be a person possibly more alien than an extraterrestrial, who at least probably evolved under physical conditions, but nevertheless a sentient being.[^6] 
 
 What do you do with a person you built, probably for some purpose or other, and whose means of life (electricity) you must provide? You must practice the platinum rule, and treat it as it would be treated, care for it as it would be cared for. There is no reason to think they will all be vastly more intelligent than we are, or that we will be unable to talk ethics with them.
-
 
 
 ## Footnotes
 
 [^1]: A lot of the p-zombie debate circled around whether the idea was circular, or whether its logical possibility proved itself, or something. Here I'm going at it empirically. 
 
-<a id="gtv0_LKt">0</a> In a slight irony, [Scott Aaronson notes](https://www.scottaaronson.com/papers/philos.pdf) that most people use such a list to show the impossibility of sentient AI, while I'm doing the opposite.
+[^2]: In a slight irony, [Scott Aaronson notes](https://www.scottaaronson.com/papers/philos.pdf) that most people use such a list to show the impossibility of sentient AI, while I'm doing the opposite.
 
-<a id="gtv0_LKti">1</a> Modelling another human ("secretly he meant to do it") feels simple to us thanks to intense evolutionary selection pressure but rests on vastly more complicated structures than any of theoretical physics (for instance).
+[^3]: Modelling another human ("secretly he meant to do it") feels simple to us thanks to intense evolutionary selection pressure but rests on vastly more complicated structures than any of theoretical physics (for instance).
 
-<a id="zOR4B9sA3">2</a> [Fjelland argues](https://www.nature.com/articles/s41599-020-0494-4) that machines cannot achieve human sentience because they are not embodied. I agree that AI is nowhere near AGI, and that humans are animals first, and calculating, narrating thinkers a distant second. But Fjelland does not mention the Church-Turing thesis or its speculative extension the Church-Turing-Deutsch principle, and I do not see how you can discuss the matter without mentioning these.
+[^4]: [Fjelland argues](https://www.nature.com/articles/s41599-020-0494-4) that machines cannot achieve human sentience because they are not embodied. I agree that AI is nowhere near AGI, and that humans are animals first, and calculating, narrating thinkers a distant second. But Fjelland does not mention the Church-Turing thesis or its speculative extension the Church-Turing-Deutsch principle, and I do not see how you can discuss the matter without mentioning these.
 
-<a id="L-_Gc9oQd">3</a> William James pointed out that humans do not have fewer instincts because we are more intelligent than other animals. Rather we have many more instincts, and are therefore more intelligent.
+[^5]: William James pointed out that humans do not have fewer instincts because we are more intelligent than other animals. Rather we have many more instincts, and are therefore more intelligent.
 
-<a id="Xe4M83WAy">4</a> While this will be a political problem, I don't regard it as an existential problem. We don't need some transcendent or ineffable source of human emotion and decision-making to find meaning in our beautiful and much-loved existence. The universe may be random and uncaring, but our lives and passions are [meaningful all the same](https://coyotespike.github.io/philosophy/2019/05/11/PatternedMeaning.html#org8be885f).
+[^6]: While this will be a political problem, I don't regard it as an existential one. We don't need some transcendent or ineffable source of human emotion and decision-making to find meaning in [our beautiful and much-loved lives](https://coyotespike.github.io/philosophy/2019/05/11/PatternedMeaning.html#org8be885f).
