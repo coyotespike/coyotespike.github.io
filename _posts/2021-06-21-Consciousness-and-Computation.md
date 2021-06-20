@@ -42,7 +42,9 @@ True, our current AI programs do demonstrate that intelligence and computation a
 
 The general rule is that if something can only be done by a human, it represents our uniqueness, our ineffable soul, the _je ne sais quois_ of the human spirit, while if a machine can do it then it's mere calculation. Chess was a marvel of the lucidity of human reason, deviousness and will and guts on display, until the machines outclassed our best. Now Hollywood hopes that stories and music make us special.
 
-In contrast to the general rule, I think AlphaGo and GPT-3 do embody real intelligence, in a way that tells us something about humans, yet they aren't awake. Nevertheless, this separation of intelligence and consciousness tells us almost nothing about the relation of higher intelligence and consciousness, because even these AIs are massively dumb. They have been purpose-built to do exactly one thing in all the world. They excel at one minute slice of intelligence, one nearly incomprehensibly tiny piece of intelligence. They cannot play chess, and also play music, and dance, and do math, and wash dishes, and tie their shoes. Let alone much more difficult tasks such as making someone else angry or happy, or scheming to get their way in a group! [1](gtv0_LKti)
+In contrast to the general rule, I think AlphaGo and GPT-3 do embody real intelligence, in a way that tells us something about humans, yet they aren't awake. Nevertheless, this separation of intelligence and consciousness tells us almost nothing about the relation of higher intelligence and consciousness, because even these AIs are massively dumb. 
+
+They have been purpose-built to do exactly one thing in all the world. They excel at one minute slice of intelligence, one nearly incomprehensibly tiny piece of intelligence. They cannot play chess, and also play music, and dance, and do math, and wash dishes, and tie their shoes. Let alone much more difficult tasks such as making someone else angry or happy, or scheming to get their way in a group! [1](gtv0_LKti)
 
 We humans have as many neurons as there are stars in the Milky Way, and nearly as many connections between those neurons as there are stars in the universe. These AIs' neuronal complexity is pitiful. They do not have the brain of a snail, let alone a bird. Of course they don't have consciousness. To think these AIs demonstrate that computers will never wake up is like pointing at a paper airplane and proclaiming space flight impossible.
 
@@ -58,7 +60,13 @@ While some have gotten desperate for an explanation for consciousness and attemp
 
 If computation and consciousness and intelligence must go together past some point, then it is entirely possible computers will wake up one fine day. This is so even though much of our own intelligence is deeply and literally embodied, and learned in incommunicably social ways, and takes the form of emotions fine-tuned over millions of evolutionary history. [3](L-_Gc9oQd) That merely means they will resemble us only insofar as we have designed them and they have learned in our digital environments.
 
-I think any intelligent machine will wake up once it becomes intelligent enough, and when and if that happens it will be a political and ethical quandary more than a philosophical one. When and if a computer wakes up, it will be a person. It will be a person possibly more alien than an extraterrestrial, who at least probably evolved under physical conditions, but nevertheless a sentient being. And its existence and awareness will then be a political problem, not a philosophical problem. [4](Xe4M83WAy) What do you do with a person you built, probably for some purpose or other, and whose means of life (electricity) you must provide?
+## A Long Bet
+
+Although what I've said so far is strongly suggestive, I have not made a strong argument for the eventual consciousness of computers, merely its possibility. However, like anyone else, I have my opinion, call it a long-term bet.
+
+I think any intelligent machine will wake up once it becomes intelligent enough, and when and if that happens it will be a political and ethical quandary more than a philosophical one. When and if a computer wakes up, it will be a person. It will be a person possibly more alien than an extraterrestrial, who at least probably evolved under physical conditions, but nevertheless a sentient being.[4](Xe4M83WAy) 
+
+What do you do with a person you built, probably for some purpose or other, and whose means of life (electricity) you must provide?
 
 ## Footnotes
 
