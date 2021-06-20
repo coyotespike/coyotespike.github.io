@@ -22,19 +22,19 @@ A disturbing number of thinkpieces on whether AIs will ever be conscious start o
 
 > of course, all of us humans could do everything we do with zero consciousness, so it's hard to explain why we have it. Machines are just that, machines, and no matter what human tasks they take over, what feats they match, they will always remain wires and electricity, nothing more.
 
-The humans-as-zombies idea here does a lot of heavy lifting for the dead-machines idea. Beyond thinkpiece writers, my impression is that most people think this way too.
+The humans-as-zombies assumption here does a lot of heavy lifting for the dead-machines conclusion. Beyond thinkpiece writers, my impression is that most people think this way too.
 
 Yet all available evidence undermines the unquestioned assumption that humans could operate without consciousness. Every single functional example of high general-purpose intelligence that we know of exhibits consciousness, and the more intelligence, the more consciousness. By this I mean our fellow animals.
 
 After all, by the p-zombie argument, some of the other mammals might have failed to develop consciousness. Dogs might have developed as efficient hunting machines, herding robots, guarding functionaries, with no emotions or will of their own on display. Indeed Descartes said dogs did not have a soul, and therefore are not conscious. Vivisect a dog without anesthesia, he said, its howls and whining are mere mechanical responses. 
 
-Of course we cannot _know_ for sure that dogs are awake, just as we cannot know about other humans, but there's no justification for believing either humans or dogs lack consciousness. Anyone who has lived with a dog and experienced its full personality knows that.
+Of course we cannot _know_ for sure that dogs are awake, just as we cannot know about other humans, but there's no justification for believing either humans or dogs lack consciousness.[^1] Anyone who has lived with a dog and experienced its full personality knows that.
 
 Mammals are an easy case, but take other examples, say birds. Even in birds, the more intelligent ones don't merely accomplish their goals with greater ease. An African Grey parrot has more _opinions_, and expresses a greater range of feelings, than does a starling (which is certainly full of opinions as it is).
 
 Perhaps evolution can develop an intelligent agent without consciousness, but so far it never has, or not that we can tell. There is not the faintest hint anywhere in nature that consciousness is some purely optional and hence irreducibly mysterious add-on to agentic intelligence. To all appearances, the two have always gone hand-in-hand.
 
-Now, it is easy to _imagine_ a p-zombie (perhaps that is why they are so popular as a foundation for an argument) but that says nothing about whether they are actually possible[^1]. Nothing I have said so far rules them out; you can hold to your belief in the possibility of p-zombies if you are determined to. Still, before you carry on deducing what will and won't happen with machines, you should bring some empirical support to the p-zombie assumption.
+Now, it is easy to _imagine_ a p-zombie (perhaps that is why they are so popular as a foundation for an argument) but that says nothing about whether they are actually possible. Nothing I have said so far rules them out; you can hold to your belief in the possibility of p-zombies if you are determined to. Still, before you carry on deducing what will and won't happen with machines, you should bring some empirical support to the p-zombie assumption.
 
 ## A Very Stupid Genius
 
@@ -69,9 +69,9 @@ I think any machine, like any animal, will become conscious once it becomes inte
 What do you do with a person you built, probably for some purpose or other, and whose means of life (electricity) you must provide? You must practice the platinum rule, and treat it as it would be treated, care for it as it would be cared for. There is no reason to think they will all be vastly more intelligent than we are, or that we will be unable to talk ethics with them.
 
 
-## Footnotes
+### Footnotes
 
-[^1]: A lot of the p-zombie debate circled around whether the idea was circular, or whether its logical possibility proved itself, or something. Here I'm going at it empirically. 
+[^1]: Chalmers' p-zombie actually displays all the emotions of a conscious person, but feels nothing. I agree with those who say it assumes that which it seeks to prove, and here I'll focus on empirical support rather than logical possibility. 
 
 [^2]: In a slight irony, [Scott Aaronson notes](https://www.scottaaronson.com/papers/philos.pdf) that most people use such a list to show the impossibility of sentient AI, while I'm doing the opposite.
 
