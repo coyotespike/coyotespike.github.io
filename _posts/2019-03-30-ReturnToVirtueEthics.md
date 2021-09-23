@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Return to Virtue Ethics
+permalink: /retvrn-to-virtue-ethics
 date: 2019-03-30
 # Should be longer than 20 words, so it will appear as post summary
 description: Situational ethics, with a little help from the Confucian classics, shows the way back toward a weird virtue ethics
