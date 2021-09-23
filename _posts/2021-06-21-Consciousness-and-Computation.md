@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Machines and Consciousness
+permalink: /machines-and-consciousness/
 date: 2021-06-21
 # Should be longer than 20 words, so it will appear as post summary
 description: Could we really act human without also being awake?
