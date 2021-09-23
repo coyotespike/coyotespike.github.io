@@ -31,12 +31,14 @@ Much of the time, executing faster means identifying limiting assumptions about 
 
 This is often the case in software startups, where launching faster inevitably means a less aesthetic product with fewer features and worse UX. Launching earlier feels impossible - until everyone decides to pay the price.
 
-You might also phrase this as "What costs do I risk paying?" For instance, if you send the email faster, without brooding over it, you might impress someone less. How large is that risk, and how large is that cost? Is this choice reversible? 
+You might also phrase this as "What costs do I risk paying?" For instance, if you send the email faster, without brooding over it, you might impress someone less. How large is that risk, and how large is that cost? Is this choice reversible?
+
+Most bad choices can be fixed, and are thus reversible. These decisions should be taken faster.
 
 As you decide to launch a smaller or inferior version of your full vision, you have to identify the most important features or steps to take. Scaling back thus forces greater efficiency, and focusing on the highest-payoff steps usually leads to moving faster.
 
 ### Staying Nimble
-Moving fast also means eschewing unnecessary process. Any organization needs to add communications and process infrastructure as it scales - it's the bones of the organization - and this slows down decision-making. Sometimes startups solve this by having the founders make almost all decisions, but eventually this becomes a bottleneck (and it's frustrating to ambitious team members). 
+Moving fast also means eschewing **unnecessary** process. Any organization needs to add communications and process infrastructure as it scales - it's the bones of the organization - and this slows down decision-making. Sometimes startups solve this by having the founders make almost all decisions, but eventually this becomes a bottleneck (and it's frustrating to ambitious team members). 
 
 It's possible to empower frontline team members to simply make decisions, to a much greater degree than usually practiced, if you pay the price of dealing with the occasional bad decision, and making judgment calls about who can be trusted with more power.
 
