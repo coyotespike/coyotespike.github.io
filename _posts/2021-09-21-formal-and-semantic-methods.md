@@ -29,7 +29,7 @@ How long can you work on a problem without knowing anything about the domain? Th
 ### Debugging as a Formal Approach
 When you start debugging a problem, often you have to resist the urge to dive right into the code, hunting for the problem in logic that's causing all this mess. Instead, the correct approach is to zoom out and figure out where in the system the problem is coming from. For example, you can use a kind of binary search, or a differential diagnostic. 
 
-In a binary search, you go to the middle of the whole system flow - whether it's a file or the entire application - and check if you see any errors there. This is especially useful if you have a functional approach, because then you can check the shape of the data at that point. 
+In a binary search, you go to the middle of the whole system flow - whether it's a file or the entire application - and check if you see any errors there. This is especially useful if you code in a functional paradigm, because then you can check the shape of the data at that point. 
 
 Or if you're dealing with a lot of side effects, you can list all the possible failure points and then start with the most likely. This is the differential diagnostic.
 
