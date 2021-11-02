@@ -25,9 +25,9 @@ To a first approximation, individual wealth and technological progress can be me
 
 And we continue to discover crucial new information through scientific research, although we're still [barely scratching the surface](https://www.amazon.com/Ignorance-Drives-Science-Stuart-Firestein/dp/0199828075) and [need to speed up](https://www.amazon.com/Great-Stagnation-Low-Hanging-Eventually-eSpecial-ebook/dp/B004H0M8QS).
 
-However, how we organize ourselves is just as important. Although the United States used to build [vast projects quickly](https://patrickcollison.com/fast), today bringing a drug to market can take a dozen years and over a billion dollars. This is far too slow and much too expensive for us to make effective progress. Our methods of organization are limiting our discovery of new scientific knowledge.
+However, how we organize ourselves is just as important. Although the United States used to build [vast projects quickly](https://patrickcollison.com/fast), today bringing a drug to market can take a dozen years and over a billion dollars. This is far too slow and much too expensive. Our methods of organization are limiting our discovery of new scientific knowledge.
 
-To speed up scientific progress toward increasing human longevity, our mission is to shorten the cycle from discovery to market. We'll accomplish this by starting a CRO: Ark Research.
+To speed up scientific progress toward increasing human longevity, our mission is to shorten the cycle from discovery to market. We'll accomplish this by building a different sort of contract research organization: Ark Research.
  
 As a CRO, our goals are to provide longevity researchers the most affordable and fastest method of reaching crucial milestones for their ideas. In the long run, we'll cut the time and cost by half, reversing the "reverse Moore's law" trend in biotech.
 
@@ -37,7 +37,7 @@ A longevity-focused CRO brings great value to the anti-aging research community.
 
 There is a great need to accelerate progress from basic research to translation, and a CRO is an effective way to contribute. Let's look at how to fund this approach.
 
-Investment is pouring into longbio, with Altos Labs backe by $6 billion, and other $20 billion outfits rumored. More will follow. 
+Investment is pouring into longbio, with Altos Labs backed by $6 billion, and other $20 billion outfits rumored. More will follow. 
 
 Indeed, there is a strong possibility that the first anti-aging drug will be approved in the next decade (or less), which will open the floodgates to unprecedented levels. Because aging increases all-cause mortality, an anti-aging drug is really a "general health and wellness" drug which will improve the life of anyone middle-aged or older. Once such a drug is offered, thereby validating the need for more and better anti-aging drugs, public demand will make $20 billion look like a drop in the bucket.
 
