@@ -19,9 +19,11 @@ nofollow: false
 
 ### The civilizational challenge
 
-Clearly we have many challenges as a society, but one way to put it is that our progress as a species depends on energy, information, and organization.
+From a very high level, our progress as a species depends on energy, information, and organization.
 
-We got a big boost in energy when (for example) we domesticated horses, and then a lot more with the Industrial Revolution. Of course, we still haven't figured out how to produce all the energy we need sustainably! And we continue to discover crucial new information through scientific research.
+To a first approximation, individual wealth and technological progress can be measured by how much energy is available to use. We got a big boost in energy when (for example) we domesticated horses, and then a lot more with the Industrial Revolution. Of course, we still haven't figured out how to produce all the energy we need sustainably! 
+
+And we continue to discover crucial new information through scientific research, although we're still [barely scratching the surface](https://www.amazon.com/Ignorance-Drives-Science-Stuart-Firestein/dp/0199828075) and [need to speed up](https://www.amazon.com/Great-Stagnation-Low-Hanging-Eventually-eSpecial-ebook/dp/B004H0M8QS).
 
 However, how we organize ourselves is just as important. Although the United States used to build [vast projects quickly](https://patrickcollison.com/fast), today bringing a drug to market can take a dozen years and over a billion dollars. This is far too slow and much too expensive for us to make effective progress. Our methods of organization are limiting our discovery of new scientific knowledge.
 
