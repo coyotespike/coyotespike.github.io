@@ -17,6 +17,22 @@ noindex: false
 nofollow: false
 ---
 
+### The species opportunity
+
+Cheerleaders for progress like to point out that our expected lifetime has almost doubled since the Industrial Revolution. Although this is true, our maximum lifespan hasn't changed at all. Very few people live past 90, with a hard limit around 120.
+
+Looking around the animal and plant kingdom, we can find many species that live much longer - or don't age at all! This is significant because every living thing shares some distant common ancestor and we are all multicellular organisms. Thus, so far biology hasn't discovered a reason we have to age.
+
+In fact a variety of molecular mechanisms in mice and other animals have been shown to extend their lifespan dramatically - and this science is in its infancy.
+
+Very probably, then, sometime in the next century, we will become the first known species to change our evolved lifespan.  Don't worry, this can only be accomplished by increasing our healthspan, so we are not talking about living a hundred years aged 80!)
+
+This change will present our societies with many grave challenges, but overall it will be a wonderful development. I know people who were raised in a cult and lost decades of their lives, and are now trying to make up for lost time. And I know scientists and artists who could profitably use another century to master their crafts. We each have our individual story to live out, and the brutal loss of youth followed by death at the age of "three-score and ten" does not match the irreducible complexity of humanity.
+
+It's no use blasting off to space (for example) if you can't even keep yourself from falling to pieces. I can't think of a better mission than helping to give ourselves (or our grandkids) the choice of living as long as they feel called to live.
+
+That is where we are going, but we're not getting there fast enough.
+
 ### The civilizational challenge
 
 From a very high level, our progress as a species depends on energy, information, and organization.
