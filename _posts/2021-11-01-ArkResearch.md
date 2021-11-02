@@ -21,11 +21,11 @@ nofollow: false
 
 Cheerleaders for progress like to point out that our expected lifetime has almost doubled since the Industrial Revolution. Although this is true, our maximum lifespan hasn't changed at all. Very few people live past 90, with a hard limit around 120.
 
-Looking around the animal and plant kingdom, we can find many species that live much longer - or don't age at all! This is significant because every living thing shares some distant common ancestor and we are all multicellular organisms. Thus, so far biology hasn't discovered a reason we have to age.
+Looking around the animal and plant kingdom, we can find many species that live much longer - or don't age at all! This is significant because every living thing shares some distant common ancestor and we are all multicellular organisms. Thus, so far it looks like there is no biological reason we have to age (you can find introductions to the [science](https://www.amazon.com/Lifespan-Why-Age_and-Dont-Have/dp/1501191977) of [aging](https://nintil.com/longevity) [elsewhere](https://www.ldeming.com/longevityfaq), here I am just framing the problem).
 
 In fact a variety of molecular mechanisms in mice and other animals have been shown to extend their lifespan dramatically - and this science is in its infancy.
 
-Very probably, then, sometime in the next century, we will become the first known species to change our evolved lifespan.  Don't worry, this can only be accomplished by increasing our healthspan, so we are not talking about living a hundred years aged 80!)
+Very probably, then, sometime in the next century, we will become the first known species to change our evolved lifespan. (Don't worry, this can only be accomplished by increasing our healthspan, so we are not talking about living a hundred years aged 80!)
 
 This change will present our societies with many grave challenges, but overall it will be a wonderful development. I know people who were raised in a cult and lost decades of their lives, and are now trying to make up for lost time. And I know scientists and artists who could profitably use another century to master their crafts. We each have our individual story to live out, and the brutal loss of youth followed by death at the age of "three-score and ten" does not match the irreducible complexity of humanity.
 
@@ -45,7 +45,7 @@ However, how we organize ourselves is just as important. Although the United Sta
 
 To speed up scientific progress toward increasing human longevity, our mission is to shorten the cycle from discovery to market. We'll accomplish this by building a different sort of contract research organization: Ark Research.
  
-As a CRO, our goals are to provide longevity researchers the most affordable and fastest method of reaching crucial milestones for their ideas. In the long run, we'll cut the time and cost by half, reversing the "reverse Moore's law" trend in biotech.
+As a CRO, our goal is to provide longevity researchers the most affordable and fastest method of reaching crucial milestones for their ideas. In the long run, we'll cut the time and cost by half, reversing the "reverse Moore's law" trend in biotech.
 
 A longevity-focused CRO brings great value to the anti-aging research community. We will offer every procedure and assay a longevity researcher could require, aggregating multidisciplinary expertise under one roof, and we will pioneer higher-throughput methods for each of them.
 
@@ -61,13 +61,13 @@ Big pharma and biotech startups alike outsource the majority of their research t
 
 However, no longevity-focused CRO currently exists. Ark Research will occupy this key niche, aggregating expertise at the intersection of research and translation in longevity science.
 
+(To be clear, our clients will include many teams who are *not* working on longevity. We're a longevity-focused CRO in the sense that we focus on services which are useful to longevity research.)
+
 ### The Business Model
 
 We're building a longevity-focused CRO with a dual business model: services and IP. This is a somewhat unusual, but not unknown, approach for a CRO. A CRO is ideally positioned to contribute and to capture value. Scientists approach a CRO to conduct discovery and validation (de-risking). The CRO can then choose particularly promising targets to forge partnerships and build IP.
 
 First and foremost, a CRO is a services organization. CROs conduct the majority of research for big pharma and for biotech startups. Our team will provide scientific expertise and advice, project management, and operational advice to our clients. The main product, of course, is conducting basic research on behalf of the clients and providing them with the results so they can progress to the next stage of the clinical pipeline. Because no longevity-focused CRO exists, we have a window of opportunity to establish ourselves as a market leader in longevity expertise.
-
-To be clear, our clients will include many teams who are *not* working on longevity. We're a longevity-focused CRO in the sense that we focus on services which are useful to longevity research.
 
 A CRO is also ideally placed to serve as an honest broker between startup biotechs on the one hand, and big pharma and investors on the other. As a result, some CROs build a rich network to assist clients, and we will do the same.
 
