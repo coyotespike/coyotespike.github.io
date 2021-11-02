@@ -2,7 +2,7 @@
 layout: post
 title: Introducing Ark Research
 permalink: /introducing-ark-research
-date: 2021-09-22
+date: 2021-11-01
 # Should be longer than 20 words, so it will appear as post summary
 description: Our team is building a dynamic institution to close the "valley of death" for biotech startups, to fight our civilization-scale entropy which slows scientific progress, and to contribute significantly to giving all humans the choice of living as long as makes sense for their life narrative.
 # tags will also be used as html meta keywords. Only use one, as it goes in the URL
