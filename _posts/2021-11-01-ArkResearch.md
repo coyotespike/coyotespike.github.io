@@ -19,11 +19,11 @@ nofollow: false
 
 ### The civilizational challenge
 
-Our progress as a species depends on energy, information, and organization. 
+Clearly we have many challenges as a society, but one way to put it is that our progress as a species depends on energy, information, and organization.
 
-We got a big boost in energy when (for example) we domesticated horses, and then a lot more with the Industrial Revolution. Of course, we still haven't figured out how to produce all the energy we need sustainably! And we continue to discovery new crucial information through scientific research.
+We got a big boost in energy when (for example) we domesticated horses, and then a lot more with the Industrial Revolution. Of course, we still haven't figured out how to produce all the energy we need sustainably! And we continue to discover crucial new information through scientific research.
 
-However, how we organize ourselves is just as important. Although the United States used to build [vast projects quickly](https://patrickcollison.com/fast), today bringing a drug to market can take a dozen years and over a billion dollars. This is far too slow to make effective progress. Our methods of organization are limiting our discovery of new scientific knowledge.
+However, how we organize ourselves is just as important. Although the United States used to build [vast projects quickly](https://patrickcollison.com/fast), today bringing a drug to market can take a dozen years and over a billion dollars. This is far too slow and much too expensive for us to make effective progress. Our methods of organization are limiting our discovery of new scientific knowledge.
 
 To speed up scientific progress toward increasing human longevity, our mission is to shorten the cycle from discovery to market. We'll accomplish this by starting a CRO: Ark Research.
  
@@ -33,19 +33,19 @@ A longevity-focused CRO brings great value to the anti-aging research community.
 
 ### The market opportunity
 
-Money is pouring into longbio, with Altos Labs receiving $6 billion, and other $20 billion outfits rumored. More will follow. 
+There is a great need to accelerate progress from basic research to translation, and a CRO is an effective way to contribute. Let's look at how to fund this approach.
 
-There is a strong possibility that the first anti-aging drug will be approved in the next decade (or less), which will open the floodgates to unprecedented levels. Because aging increases all-cause mortality, an anti-aging drug is really a "general health and wellness" drug which will improve the life of anyone middle-aged or older. Once such a drug is offered, $20 billion will look like a drop in the bucket.
+Investment is pouring into longbio, with Altos Labs backe by $6 billion, and other $20 billion outfits rumored. More will follow. 
+
+Indeed, there is a strong possibility that the first anti-aging drug will be approved in the next decade (or less), which will open the floodgates to unprecedented levels. Because aging increases all-cause mortality, an anti-aging drug is really a "general health and wellness" drug which will improve the life of anyone middle-aged or older. Once such a drug is offered, thereby validating the need for more and better anti-aging drugs, public demand will make $20 billion look like a drop in the bucket.
 
 Big pharma and biotech startups alike outsource the majority of their research to CROs, a trend that is likely to increase as biotech startups adopt a "virtual biotech" model. As a result, the increasing rates of investment in longbio directly translate into increased spend on CRO services.
 
-However, no longevity-focused CRO currently exists. A key niche 
-
-Let's consider the possibility that an anti-aging drug doesn't get approved in the next decade. That could lead to the longbio equivalent of the infamous "AI winter," in which investors, burned by over-promising and under-delivering, declined to invest any more. In that case, our CRO Ark Research will continue to deliver services in the biotech space. Since we're supported by service delivery, we'll also be positioned to continue to sponsor longbio research. We'll be an ark to keep the dream alive for future generations of researchers.
+However, no longevity-focused CRO currently exists. Ark Research will occupy this key niche, aggregating expertise at the intersection of research and translation in longevity science.
 
 ### The Business Model
 
-We're building a longevity-focused CRO with a dual business model: services and IP. A CRO is ideally positioned to contribute and to capture value. Scientists approach a CRO to conduct discovery and validation (de-risking). The CRO can then choose particularly promising targets to forge partnerships and build IP.
+We're building a longevity-focused CRO with a dual business model: services and IP. This is a somewhat unusual, but not unknown, approach for a CRO. A CRO is ideally positioned to contribute and to capture value. Scientists approach a CRO to conduct discovery and validation (de-risking). The CRO can then choose particularly promising targets to forge partnerships and build IP.
 
 First and foremost, a CRO is a services organization. CROs conduct the majority of research for big pharma and for biotech startups. Our team will provide scientific expertise and advice, project management, and operational advice to our clients. The main product, of course, is conducting basic research on behalf of the clients and providing them with the results so they can progress to the next stage of the clinical pipeline. Because no longevity-focused CRO exists, we have a window of opportunity to establish ourselves as a market leader in longevity expertise.
 
@@ -61,7 +61,9 @@ With this dual business model, we'll have the best of both worlds. By providing 
 
 ### Further Business Model Considerations
 
-Biotech is "going virtual," leaving actual scientific capabilities in the hands of CROs. Ark Research is a bet in the opposite direction. By actually owning our own labs, we build the capacity to make our own bets on promising lines of research. And the more expertise we build in-house, across multiple longevity-related disciplines, the 
+Biotech is "going virtual," leaving actual scientific capabilities in the hands of CROs. Ark Research is a bet in the opposite direction. By actually owning our own labs, we build the capacity to make our own bets on promising lines of research. And the more expertise we build in-house, across multiple longevity-related disciplines, the more positive spillover we create for the science of aging.
+
+Let's also consider the possibility that an anti-aging drug *doesn't* get approved in the next decade. That could lead to the longbio equivalent of the infamous "AI winter," in which investors, burned by over-promising and under-delivering, declined to invest any more. In that case, Ark Research will continue to deliver services in the biotech space. Since we're supported by service delivery, we'll also be positioned to continue to sponsor longbio research. We'll be an ark to keep the dream alive for future generations of researchers.
 
 We'll also building a CRO consulting and project management business. Many thousands of CROs exist, with widely varying expertise, customer service and project management skills, and prices. Navigating this landscape is an art unto itself. This business will greatly ease this burden for nascent biotech startups.
 
@@ -77,15 +79,15 @@ First, as we establish ourselves and then expand, we'll be able to support more 
 
 Second, a CRO allows a scientist to work at the fertile intersection of basic and translational research.
 
-Third, our scientists are free of the endless grant-writing and fundraising that characterize academic science. They will focus on what only they can do: research. Because a senior scientist spends over half their time on grant-writing and administrative tasks, this freedom offsets any 
+Third, in academia, a senior scientist spends over half their time on grant-writing and administrative tasks. Our scientists are free of the (seemingly!) endless grant-writing and fundraising that characterize academic science. They will focus on what only they can do: research.
 
-Fourth, we'll build a genuinely exciting and multidisciplinary culture. Just as the Buck and Barshop institutes brings together many disciplines to work on aging, there's immense scientific value in a CRO working at multiple stages of the discovery and clinical pipeline on aging, and immense value for a scientist of working so closely with many disciplines organized around a central theme.
+Fourth, we'll build a genuinely exciting and multidisciplinary culture. Just as the Buck and Barshop institutes brings together many disciplines to work on aging, there's immense scientific value in a CRO working at multiple stages of the discovery and clinical pipeline on aging, and immense value for a scientist in working so closely with many disciplines organized around a central theme.
 
-One crucial aspect of this point is that we're steering away from commodity services, toward more difficult, higher-end procedures, and we'll have a lot of freedom to define which services to offer.
+One crucial aspect is that we're steering away from commodity services, toward more difficult, higher-end procedures, and we'll have a lot of freedom to define which services to offer.
 
 Fifth, over time, we'll find ways to turn bespoke procedures into commodities, via improved procedures and automation. This is an advantage of a commercial environment. Academic procedures tend to be oriented toward novel, one-off procedures, leaving the bulk of the grunt work on graduate and post-graduate researchers. As a CRO, we will have the incentive and the opportunity to automate as much as possible.
 
-Finally, as we're building, we can define our own culture. It's incredibly important to us to find people who are truly passionate about building a great institution. Very few people have experienced what's possible in a great team environment.
+Finally, as we're building, we can define our own culture. It's incredibly important to us to find people who are truly passionate about building a great institution, which inspires and enables great work. If you were fortunate enough to work with a really top-notch PI, then you've experienced what's possible in a great team environment, but few people have had this experience, and most underestimate how much growth is possible in a really collaborate environment.
 
 ### Career Opportunities
 
@@ -97,4 +99,4 @@ Second, we're looking for an experienced CSM, who can help us navigate partnersh
 
 Third, we're looking for operators and project managers. As we add more labs and increase our automation efforts, we'll need to coordinate multiple complex projects. And as a small CRO, we'll compete in large part by providing a superior project management experience. We'll take inspiration from our "divinely discontented" clients to provide a better experience than they thought possible.
 
-*Every member of our team will play a crucial role in our mission to close the "valley of death" for biotech startups, to fight our civilization-scale entropy which slows scientific progress, and to contribute significantly to giving all humans the choice of living as long as makes sense for their life narrative.*
+Every member of our team will play a crucial role in our mission to close the "valley of death" for biotech startups, to fight our civilization-scale entropy which slows scientific progress, and to contribute significantly to giving all humans the choice of living as long as makes sense for their life narrative.
